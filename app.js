@@ -1,65 +1,92 @@
 const $=s=>document.querySelector(s);
-let cfg,doc,st={q:"",lang:"all",cat:"all",topic:"all"};
-const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const fj=async u=>{const r=await fetch(u+"?t="+Date.now());if(!r.ok)throw 0;return r.json()};
-async function init(){
-  cfg=await fj("config/topics.json");
-  let idx=[];try{idx=await fj("data/archive/index.json")}catch{}
-  const sel=$("#date");sel.innerHTML='<option value="">今日 (最新)</option>'+idx.slice().reverse().map(d=>`<option>${d}</option>`).join("");
-  sel.onchange=load;await load();
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fj=async u=>{const r=await fetch(u+(u.includes("?")?"&":"?")+"t="+Date.now());if(!r.ok)throw 0;return r.json()};
+const CAT={A:"重要廠商動態",B:"台灣產業關聯",C:"科技政策",D:"政經財務變化",W:"意外重要"};
+const fmt=t=>new Date(t).toLocaleString("zh-TW",{timeZone:"Asia/Taipei",hour12:false,month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"});
+document.querySelectorAll("#tabs button").forEach(b=>b.onclick=()=>{document.querySelectorAll("#tabs button").forEach(x=>x.classList.toggle("on",x==b));document.querySelectorAll(".tab").forEach(t=>t.hidden=t.id!=b.dataset.tab);if(b.dataset.tab=="all")initAll()});
+/* ---------- brief ---------- */
+async function initBrief(){
+  let idx=[];try{idx=await fj("data/archive/brief-index.json")}catch{}
+  $("#bdate").innerHTML='<option value="">最新</option>'+idx.slice().reverse().map(d=>`<option>${d}</option>`).join("");
+  $("#bdate").onchange=loadBrief;loadBrief();
 }
-async function load(){
-  const d=$("#date").value;
-  try{doc=await fj(d?`data/archive/${d}.json`:"data/news.json")}catch{doc={items:[],count:0}}
-  render();
+async function loadBrief(){
+  const d=$("#bdate").value;let b;
+  try{b=await fj(d?`data/archive/brief-${d}.json`:"data/brief.json")}catch{
+    $("#bmeta").textContent="";
+    $("#bbody").innerHTML='<div class="empty">📭 今日必讀 20 則尚未產生<br>每天 08:30 (台灣時間) 由助理從候選新聞中挑選、翻譯並撰寫綜合分析。<br>你可以先到「全部新聞」瀏覽已蒐集的新聞。</div>';return}
+  $("#bmeta").textContent=`${b.date} ・ 產生於 ${b.generated_at?fmt(b.generated_at):"—"} (台灣時間)`;
+  $("#bbody").innerHTML=`<div class="analysis"><h2>📝 綜合分析</h2>${esc(b.analysis).split(/\n\s*\n/).map(p=>`<p>${p.replace(/\n/g,"<br>")}</p>`).join("")}</div>`+
+   b.items.map(i=>`<div class="it"><div class="rk">${i.rank}</div><div><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title_zh||i.title_original)}${i.title_en?`<span class="en">${esc(i.title_en)}</span>`:""}</a>
+   <div class="sub"><span class="badge c${i.category}">${i.category} ${CAT[i.category]||""}</span>${esc(i.source)} ・ ${i.published_at?fmt(i.published_at):""}${(i.companies||[]).map(c=>`<span class="tag">${esc(c)}</span>`).join("")}</div>
+   <div class="why">💡 ${esc(i.why_it_matters)}</div><div class="angle">🎯 切入角度:${esc(i.angle)}</div></div></div>`).join("");
 }
-function topicMap(){const m={};cfg.categories.forEach(c=>c.topics.forEach(t=>m[t.id]={...t,cat:c.id,catName:c.name}));return m}
+/* ---------- all news ---------- */
+let pidx=null,pools={},tops={},loaded=new Set(),shown=200;
+async function initAll(){
+  if(pidx)return;
+  try{pidx=await fj("data/archive/pool-index.json")}catch{pidx=[]}
+  if(!pidx.length){$("#ameta").textContent="尚無封存新聞";return}
+  const last=pidx[pidx.length-1].date;$("#from").value=$("#to").value=last;$("#from").min=$("#to").min=pidx[0].date;$("#from").max=$("#to").max=last;
+  await loadRange();
+}
+async function loadRange(all){
+  let f=$("#from").value,t=$("#to").value;if(all){f=pidx[0].date;t=pidx[pidx.length-1].date;$("#from").value=f;$("#to").value=t}
+  const ds=pidx.filter(p=>p.date>=f&&p.date<=t).map(p=>p.date);
+  $("#ameta").textContent="載入中…";
+  await Promise.all(ds.filter(d=>!pools[d]).map(async d=>{
+    try{const p=await fj(`data/archive/pool-${d}.json`);pools[d]=p.items.map(i=>({...i,day:d}))}catch{pools[d]=[]}
+    try{const b=await fj(`data/archive/brief-${d}.json`);tops[d]=new Set(b.items.map(x=>x.url))}catch{tops[d]=new Set()}
+  }));
+  loaded=new Set(ds);fillOptions();render();
+}
+function cur(){return [...loaded].sort().flatMap(d=>pools[d])}
+function fillOptions(){
+  const it=cur(),keep=id=>$(id).value;
+  const fill=(id,vals,label)=>{const v=keep(id);$(id).innerHTML=`<option value="">${label}</option>`+vals.map(x=>`<option>${esc(x)}</option>`).join("");$(id).value=v};
+  const cnt=a=>{const m={};a.forEach(x=>m[x]=(m[x]||0)+1);return Object.entries(m).sort((a,b)=>b[1]-a[1]).map(e=>e[0])};
+  fill("#fco",cnt(it.flatMap(i=>i.companies||[])),"全部公司");fill("#fkw",cnt(it.flatMap(i=>i.keywords||[])),"全部主題關鍵字");fill("#fsrc",cnt(it.map(i=>i.source)).slice(0,150),"全部來源");
+}
 function render(){
-  const tm=topicMap();
-  const base=doc.items.filter(i=>(st.lang=="all"||i.lang==st.lang)&&(!st.q||(i.title+i.source).toLowerCase().includes(st.q.toLowerCase())));
-  const cnt={},ccnt={};
-  base.forEach(i=>{i.topics.forEach(t=>{if(tm[t])cnt[t]=(cnt[t]||0)+1});(i.categories||[]).forEach(c=>ccnt[c]=(ccnt[c]||0)+1)});
-  $("#meta").textContent=`${doc.date||""} ・ 共 ${doc.count} 則 ・ 顯示 ${base.length} 則 ・ 更新於 ${doc.generated_at?new Date(doc.generated_at).toLocaleString("zh-TW",{timeZone:"Asia/Taipei"}):"—"}`;
-  const chip=(on,l,a)=>`<button class="chip ${on?"on":""}" ${a}>${l}</button>`;
-  $("#cats").innerHTML=chip(st.cat=="all","全部分類",'data-c="all"')+cfg.categories.map(c=>chip(st.cat==c.id,`${esc(c.name)} <small>${ccnt[c.id]||0}</small>`,`data-c="${c.id}"`)).join("");
-  const ts=Object.values(tm).filter(t=>st.cat=="all"||t.cat==st.cat);
-  $("#chips").innerHTML=chip(st.topic=="all","全部主題",'data-t="all"')+ts.map(t=>chip(st.topic==t.id,`${esc(t.name)} <small>${cnt[t.id]||0}</small>`,`data-t="${t.id}"`)).join("");
-  let h="";
-  for(const c of cfg.categories){if(st.cat!="all"&&st.cat!=c.id)continue;
-    for(const t of c.topics){if(st.topic!="all"&&st.topic!=t.id)continue;
-      const its=base.filter(i=>i.topics.includes(t.id));if(!its.length)continue;
-      h+=`<section><h2>${esc(t.name)} <small>${esc(c.name)} ・ ${its.length}</small></h2>`+its.map(i=>`<div class="item"><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a><div class="sub">${esc(i.source)} ・ ${new Date(i.published).toLocaleString("zh-TW",{timeZone:"Asia/Taipei",hour12:false})} ・ ${i.lang=="zh"?"中":"EN"}${i.topics.filter(x=>x!=t.id&&tm[x]).map(x=>`<span class="tag">${esc(tm[x].name)}</span>`).join("")}</div></div>`).join("")+"</section>";
-    }}
-  $("#list").innerHTML=h||'<div class="empty">沒有符合的新聞</div>';
+  const q=$("#aq").value.trim().toLowerCase().split(/\s+/).filter(Boolean),L=$("#flens").value,C=$("#fco").value,K=$("#fkw").value,G=$("#flang").value,S=$("#fsrc").value,T=$("#ftop").checked;
+  let r=cur().filter(i=>{
+    const top=tops[i.day]?.has(i.url);
+    if(T&&!top)return false;if(G&&i.lang!=G)return false;if(S&&i.source!=S)return false;if(C&&!(i.companies||[]).includes(C))return false;if(K&&!(i.keywords||[]).includes(K))return false;
+    if(L&&!(L=="W"?i.wildcard:(i.lens||[]).includes(L)))return false;
+    if(q.length){const h=(i.title+" "+i.source+" "+(i.companies||[]).join(" ")+" "+(i.keywords||[]).join(" ")).toLowerCase();if(!q.every(w=>h.includes(w)))return false}
+    return true});
+  r.sort($("#fsort").value=="score"?(a,b)=>b.score-a.score:(a,b)=>b.published_at.localeCompare(a.published_at));
+  $("#ameta").textContent=`已載入 ${loaded.size} 天、共 ${cur().length} 則 ・ 符合 ${r.length} 則`;
+  $("#alist").innerHTML=r.slice(0,shown).map(i=>`<div class="ai"><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>${tops[i.day]?.has(i.url)?'<span class="tag top">★ Top 20</span>':""}
+   <div class="sub">${esc(i.source)} ・ ${fmt(i.published_at)} ・ ${i.lang=="zh"?"中":"EN"} ・ 分數 ${i.score}${(i.lens||[]).map(l=>`<span class="badge c${l}">${l}</span>`).join("")}${(i.companies||[]).map(c=>`<span class="tag">${esc(c)}</span>`).join("")}${(i.keywords||[]).map(c=>`<span class="tag">#${esc(c)}</span>`).join("")}</div></div>`).join("")||'<div class="empty">沒有符合的新聞</div>';
+  $("#more").hidden=r.length<=shown;$("#more").onclick=()=>{shown+=200;render()};
 }
-$("#q").oninput=e=>{st.q=e.target.value;render()};
-$("#lang").onclick=e=>{const l=e.target.dataset.l;if(!l)return;st.lang=l;document.querySelectorAll("#lang button").forEach(b=>b.classList.toggle("on",b.dataset.l==l));render()};
-$("#cats").onclick=e=>{const b=e.target.closest("[data-c]");if(b){st.cat=b.dataset.c;st.topic="all";render()}};
-$("#chips").onclick=e=>{const b=e.target.closest("[data-t]");if(b){st.topic=b.dataset.t;render()}};
-// settings
-const L=s=>s.split(/[,，]/).map(x=>x.trim()).filter(Boolean);
-function edit(){
-  $("#ed").innerHTML=cfg.categories.map((c,ci)=>`<div class="cat" data-ci="${ci}"><div class="row"><input class="cn" value="${esc(c.name)}"><button data-act="dc">刪分類</button></div>`+
-   `<div class="t"><b>主題名稱</b><b>中文關鍵字</b><b>English keywords</b><span></span></div>`+
-   c.topics.map(t=>`<div class="t" data-id="${esc(t.id)}"><input class="tn" value="${esc(t.name)}"><input class="tz" value="${esc(t.zh.join(", "))}"><input class="te" value="${esc(t.en.join(", "))}"><button data-act="dt">✕</button></div>`).join("")+
-   `<button data-act="at">+ 新主題</button></div>`).join("");
+["#aq","#flens","#fco","#fkw","#flang","#fsrc","#fsort","#ftop"].forEach(s=>$(s).addEventListener(s=="#aq"?"input":"change",()=>{shown=200;render()}));
+$("#from").onchange=$("#to").onchange=()=>loadRange();$("#loadAll").onclick=()=>loadRange(true);
+/* ---------- preferences ---------- */
+let P,DEF;
+async function initCfg(){
+  DEF=await fj("config/preferences.json");
+  try{P=JSON.parse(localStorage.getItem("prefs"))}catch{}
+  P=P||JSON.parse(JSON.stringify(DEF));drawCfg();
 }
-function collectCfg(){
-  const o={...cfg,categories:[]};
-  document.querySelectorAll("#ed .cat").forEach((el,i)=>{
-    const old=cfg.categories[i]||{};const c={id:old.id||"c"+Date.now()+i,name:el.querySelector(".cn").value,topics:[]};
-    el.querySelectorAll(".t[data-id]").forEach((r,j)=>c.topics.push({id:r.dataset.id,name:r.querySelector(".tn").value,zh:L(r.querySelector(".tz").value),en:L(r.querySelector(".te").value)}));
-    o.categories.push(c)});
-  o.updated=new Date().toISOString();return o;
+const save=()=>localStorage.setItem("prefs",JSON.stringify(P));
+function chips(id,key){$(id).innerHTML=P[key].map((x,i)=>`<span class="chip">${esc(x)}<button data-k="${key}" data-i="${i}">✕</button></span>`).join("")}
+function drawCfg(){
+  $("#lensEd").innerHTML=Object.keys(CAT).filter(k=>k!="W").map(k=>`<div class="row"><label><input type="checkbox" data-l="${k}" ${P.lenses[k].enabled?"checked":""}> ${k} ${CAT[k]}</label><input type="range" min="0" max="10" data-w="${k}" value="${P.lenses[k].weight}"><b>${P.lenses[k].weight}</b></div>`).join("");
+  chips("#wl","watchlist_companies");chips("#bk","boost_keywords");chips("#ek","exclude_keywords");
+  $("#rw").value=P.region_weight.taiwan;$("#rwv").textContent=`台灣 ${P.region_weight.taiwan}% / 全球 ${100-P.region_weight.taiwan}%`;
+  $("#focus").value=P.extra_focus_today;$("#wc").value=P.wildcard_slots;
 }
-$("#cfgBtn").onclick=()=>{edit();$("#msg").textContent="";$("#dlg").showModal()};
-$("#close").onclick=()=>$("#dlg").close();
-$("#ed").onclick=e=>{const a=e.target.dataset.act;if(!a)return;cfg=collectCfg();const ci=+e.target.closest(".cat").dataset.ci;
-  if(a=="dc")cfg.categories.splice(ci,1);
-  if(a=="at")cfg.categories[ci].topics.push({id:"t"+Date.now(),name:"新主題",zh:[],en:[]});
-  if(a=="dt"){const j=[...e.target.closest(".cat").querySelectorAll(".t[data-id]")].indexOf(e.target.closest(".t"));cfg.categories[ci].topics.splice(j,1)}
-  edit()};
-$("#addCat").onclick=()=>{cfg=collectCfg();cfg.categories.push({id:"c"+Date.now(),name:"新分類",topics:[]});edit()};
-$("#dl").onclick=()=>{const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([JSON.stringify(collectCfg(),null,1)],{type:"application/json"}));a.download="topics.json";a.click()};
-$("#save").onclick=async()=>{cfg=collectCfg();try{const r=await fetch("/api/topics",{method:"POST",body:JSON.stringify(cfg)});if(!r.ok)throw 0;$("#msg").textContent="✅ 已儲存。執行 collect.py 後新關鍵字生效。";render()}catch{$("#msg").textContent="ℹ️ 在 GitHub Pages 上無法儲存設定。請編輯儲存庫中的 config/topics.json(可先按「下載 JSON」取得修改後內容)。"}};
-init();
+document.addEventListener("click",e=>{const b=e.target.closest("[data-k]");if(b){P[b.dataset.k].splice(+b.dataset.i,1);save();drawCfg()}});
+$("#lensEd").oninput=e=>{const t=e.target;if(t.dataset.l)P.lenses[t.dataset.l].enabled=t.checked;if(t.dataset.w)P.lenses[t.dataset.w].weight=+t.value;save();drawCfg()};
+[["wl","watchlist_companies"],["bk","boost_keywords"],["ek","exclude_keywords"]].forEach(([p,k])=>{
+  const add=()=>{const v=$("#"+p+"In").value.trim();if(v&&!P[k].includes(v)){P[k].push(v);save();drawCfg()}$("#"+p+"In").value=""};
+  $("#"+p+"Add").onclick=add;$("#"+p+"In").onkeydown=e=>{if(e.key=="Enter")add()}});
+$("#rw").oninput=e=>{P.region_weight={taiwan:+e.target.value,global:100-e.target.value};save();drawCfg()};
+$("#focus").oninput=e=>{P.extra_focus_today=e.target.value;save()};
+$("#wc").oninput=e=>{P.wildcard_slots=Math.max(0,Math.min(10,+e.target.value||0));save()};
+$("#reset").onclick=()=>{P=JSON.parse(JSON.stringify(DEF));save();drawCfg()};
+$("#copy").onclick=async()=>{const s=JSON.stringify(P,null,1);$("#out").hidden=false;$("#out").value=s;$("#out").select();
+  try{await navigator.clipboard.writeText(s);$("#cmsg").textContent="✅ 已複製,請貼給助理,將套用於明天的每日必讀"}catch{document.execCommand("copy");$("#cmsg").textContent="已選取內容,請手動複製 (Ctrl/Cmd+C)"}};
+initBrief();initCfg();

@@ -1,0 +1,88 @@
+{
+ "version": 1,
+ "lenses": {
+  "A": {
+   "enabled": true,
+   "weight": 5
+  },
+  "B": {
+   "enabled": true,
+   "weight": 4
+  },
+  "C": {
+   "enabled": true,
+   "weight": 3
+  },
+  "D": {
+   "enabled": true,
+   "weight": 2
+  }
+ },
+ "watchlist_companies": [
+  "Google",
+  "Apple",
+  "Amazon",
+  "Microsoft",
+  "Meta",
+  "Nvidia",
+  "OpenAI",
+  "Anthropic",
+  "TSMC",
+  "MediaTek",
+  "ASPEED",
+  "Intel",
+  "Samsung",
+  "SK hynix",
+  "Broadcom",
+  "AMD",
+  "Qualcomm",
+  "ASE",
+  "UMC",
+  "Foxconn",
+  "Quanta",
+  "Wistron",
+  "ASML",
+  "Micron",
+  "Tesla",
+  "GlobalWafers",
+  "Delta Electronics",
+  "Wiwynn",
+  "Alchip",
+  "Macronix"
+ ],
+ "boost_keywords": [
+  "AI",
+  "半導體",
+  "robot",
+  "drone",
+  "Physical AI",
+  "Argentina AI",
+  "TOP 10 semiconductor",
+  "矽光子",
+  "silicon photonics",
+  "CPO",
+  "AI data center",
+  "liquid cooling",
+  "CoWoS",
+  "advanced packaging",
+  "panel level package",
+  "wifi 8",
+  "6G",
+  "IoT security",
+  "EU CRA",
+  "AI security"
+ ],
+ "exclude_keywords": [
+  "優惠",
+  "開箱",
+  "抽獎",
+  "遊戲 評測",
+  "celebrity"
+ ],
+ "region_weight": {
+  "taiwan": 60,
+  "global": 40
+ },
+ "extra_focus_today": "",
+ "wildcard_slots": 3
+}

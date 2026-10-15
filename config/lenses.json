@@ -1,0 +1,99 @@
+{
+ "lenses": {
+  "A": {
+   "name": "重要廠商動態",
+   "queries": {
+    "zh": [
+     "半導體 新產品 發表 突破",
+     "晶片 併購 合作 策略",
+     "AI 晶片 發表",
+     "先進封裝 CoWoS 擴產",
+     "科技大廠 財報 資本支出"
+    ],
+    "en": [
+     "semiconductor acquisition partnership",
+     "chip launch breakthrough",
+     "AI chip announcement",
+     "tech giant capex data center",
+     "foundry advanced packaging expansion"
+    ]
+   }
+  },
+  "B": {
+   "name": "台灣產業關聯",
+   "queries": {
+    "zh": [
+     "台灣 半導體 供應鏈 影響",
+     "台廠 AI 伺服器 供應鏈",
+     "台灣 科技業 訂單 展望",
+     "台股 電子 權值股 外資",
+     "台灣 科技 出口 創高"
+    ],
+    "en": [
+     "Taiwan supply chain semiconductor impact",
+     "Taiwan tech exports AI servers",
+     "Taiwan chipmakers outlook"
+    ]
+   }
+  },
+  "C": {
+   "name": "科技政策",
+   "queries": {
+    "zh": [
+     "台灣 半導體 政策",
+     "出口管制 晶片",
+     "美國 晶片法案 補助",
+     "歐盟 AI 法案 網路韌性法",
+     "經濟部 科技 產業 政策",
+     "中國 稀土 晶片 管制"
+    ],
+    "en": [
+     "semiconductor export controls",
+     "CHIPS Act",
+     "AI regulation policy",
+     "antitrust big tech",
+     "Section 232 semiconductor tariffs",
+     "EU Cyber Resilience Act"
+    ]
+   }
+  },
+  "D": {
+   "name": "政經財務變化",
+   "queries": {
+    "zh": [
+     "關稅 科技業 衝擊",
+     "通膨 利率 科技股",
+     "俄烏 戰爭 科技 供應鏈",
+     "地緣政治 半導體 風險",
+     "美元 匯率 台灣 出口",
+     "疫情 供應鏈"
+    ],
+    "en": [
+     "tariffs impact tech companies",
+     "interest rates inflation tech stocks",
+     "Russia Ukraine war tech supply chain",
+     "geopolitics Taiwan Strait chips",
+     "Fed rate decision tech"
+    ]
+   }
+  }
+ },
+ "wildcard": {
+  "zh": [
+   "科技 頭條 重大",
+   "財經 頭條 全球 市場",
+   "科技業 重大 消息"
+  ],
+  "en": [
+   "top technology news",
+   "business headlines markets",
+   "breaking tech news AI"
+  ]
+ },
+ "lens_base_score": {
+  "A": 3,
+  "B": 3,
+  "C": 3,
+  "D": 2
+ }
+}

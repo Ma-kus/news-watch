@@ -1,14 +1,33 @@
 <!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>產業新聞觀察站</title><link rel="stylesheet" href="style.css"></head><body>
-<header><div class="bar"><h1>📡 產業新聞觀察站</h1>
-<input id="q" type="search" placeholder="搜尋標題 / 來源…">
-<select id="date"></select>
-<div class="seg" id="lang"><button data-l="all" class="on">全部</button><button data-l="zh">中</button><button data-l="en">EN</button></div>
-<button id="cfgBtn">⚙ 設定</button></div>
-<div id="meta"></div><div id="cats"></div><div id="chips"></div></header>
-<main id="list"></main>
-<dialog id="dlg"><h2>關鍵字主題設定</h2>
-<p class="hint">編輯後按「儲存」會寫入 config/topics.json,下次執行 collect.py 生效(關鍵字以逗號分隔)。</p>
-<div id="ed"></div><div class="row"><button id="addCat">+ 新分類</button><span class="sp"></span>
-<button id="dl">下載 JSON</button><button id="save" class="pri">儲存</button><button id="close">關閉</button></div><div id="msg"></div></dialog>
+<title>科技新聞每日必讀</title><link rel="stylesheet" href="style.css"></head><body>
+<header><div class="bar"><h1>📡 科技新聞每日必讀</h1>
+<nav id="tabs"><button data-tab="brief" class="on">今日必讀 20</button><button data-tab="all">全部新聞</button><button data-tab="cfg">條件設定</button></nav></div></header>
+<main>
+<div id="brief" class="tab"><div class="row"><label>日期 <select id="bdate"></select></label><span id="bmeta" class="hint"></span></div><div id="bbody"></div></div>
+<div id="all" class="tab" hidden>
+ <div class="filters">
+  <input id="aq" type="search" placeholder="全文搜尋 標題 / 來源 / 公司 / 關鍵字…">
+  <label>從 <input type="date" id="from"></label><label>到 <input type="date" id="to"></label>
+  <button id="loadAll">載入全部歷史</button>
+  <select id="flens"><option value="">全部視角</option><option value="A">A 重要廠商動態</option><option value="B">B 台灣產業關聯</option><option value="C">C 科技政策</option><option value="D">D 政經財務變化</option><option value="W">W 意外重要/萬用</option></select>
+  <select id="fco"><option value="">全部公司</option></select>
+  <select id="fkw"><option value="">全部主題關鍵字</option></select>
+  <select id="flang"><option value="">中/英</option><option value="zh">中文</option><option value="en">English</option></select>
+  <select id="fsrc"><option value="">全部來源</option></select>
+  <select id="fsort"><option value="time">依時間</option><option value="score">依分數</option></select>
+  <label><input type="checkbox" id="ftop"> 只看當日 Top 20</label>
+ </div><div id="ameta" class="hint"></div><div id="alist"></div><button id="more" hidden>顯示更多</button>
+</div>
+<div id="cfg" class="tab" hidden>
+ <p class="hint">此設定存於你的瀏覽器 (localStorage)。網站為靜態頁面無法直接寫入伺服器:請按「複製設定」,把 JSON 貼給助理,<b>助理會套用在明天的每日必讀</b>。</p>
+ <section><h3>視角 (權重 0–10,越高入選越多)</h3><div id="lensEd"></div></section>
+ <section><h3>關注公司 (點 ✕ 移除)</h3><div id="wl" class="chips"></div><div class="row"><input id="wlIn" placeholder="新增公司,Enter"><button id="wlAdd">新增</button></div></section>
+ <section><h3>加分關鍵字 (僅加分,不限制範圍)</h3><div id="bk" class="chips"></div><div class="row"><input id="bkIn" placeholder="新增關鍵字,Enter"><button id="bkAdd">新增</button></div></section>
+ <section><h3>排除關鍵字</h3><div id="ek" class="chips"></div><div class="row"><input id="ekIn" placeholder="新增排除字,Enter"><button id="ekAdd">新增</button></div></section>
+ <section><h3>地區比重</h3><div class="row"><span>台灣</span><input type="range" id="rw" min="0" max="100"><span>全球</span><b id="rwv"></b></div></section>
+ <section><h3>今日額外關注 (自由文字,每行一個主題)</h3><textarea id="focus" rows="3" placeholder="例如:今天特別想看 HBM4 供應、輝達財報…"></textarea></section>
+ <section><h3>意外重要 (Wildcard) 名額</h3><input type="number" id="wc" min="0" max="10"></section>
+ <div class="row"><button class="pri" id="copy">複製設定</button><button id="reset">還原預設</button><span id="cmsg" class="hint"></span></div>
+ <textarea id="out" rows="8" readonly hidden></textarea>
+</div></main>
 <script src="app.js"></script></body></html>

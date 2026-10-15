@@ -1,0 +1,214 @@
+{
+ "companies": [
+  {
+   "id": "Google",
+   "name": "Google",
+   "zh": "Google 谷歌",
+   "en": "Google",
+   "taiwan": false
+  },
+  {
+   "id": "Apple",
+   "name": "Apple",
+   "zh": "蘋果 Apple",
+   "en": "Apple",
+   "taiwan": false
+  },
+  {
+   "id": "Amazon",
+   "name": "Amazon",
+   "zh": "亞馬遜 Amazon AWS",
+   "en": "Amazon AWS",
+   "taiwan": false
+  },
+  {
+   "id": "Microsoft",
+   "name": "Microsoft",
+   "zh": "微軟 Microsoft",
+   "en": "Microsoft",
+   "taiwan": false
+  },
+  {
+   "id": "Meta",
+   "name": "Meta",
+   "zh": "Meta",
+   "en": "Meta Platforms",
+   "taiwan": false
+  },
+  {
+   "id": "Nvidia",
+   "name": "Nvidia",
+   "zh": "輝達 Nvidia",
+   "en": "Nvidia",
+   "taiwan": false
+  },
+  {
+   "id": "OpenAI",
+   "name": "OpenAI",
+   "zh": "OpenAI",
+   "en": "OpenAI",
+   "taiwan": false
+  },
+  {
+   "id": "Anthropic",
+   "name": "Anthropic",
+   "zh": "Anthropic Claude",
+   "en": "Anthropic",
+   "taiwan": false
+  },
+  {
+   "id": "TSMC",
+   "name": "TSMC",
+   "zh": "台積電",
+   "en": "TSMC",
+   "taiwan": true
+  },
+  {
+   "id": "MediaTek",
+   "name": "MediaTek",
+   "zh": "聯發科",
+   "en": "MediaTek",
+   "taiwan": true
+  },
+  {
+   "id": "ASPEED",
+   "name": "ASPEED",
+   "zh": "信驊",
+   "en": "ASPEED",
+   "taiwan": true
+  },
+  {
+   "id": "Intel",
+   "name": "Intel",
+   "zh": "英特爾 Intel",
+   "en": "Intel",
+   "taiwan": false
+  },
+  {
+   "id": "Samsung",
+   "name": "Samsung",
+   "zh": "三星 Samsung 半導體",
+   "en": "Samsung semiconductor",
+   "taiwan": false
+  },
+  {
+   "id": "SK hynix",
+   "name": "SK hynix",
+   "zh": "SK海力士",
+   "en": "SK hynix",
+   "taiwan": false
+  },
+  {
+   "id": "Broadcom",
+   "name": "Broadcom",
+   "zh": "博通 Broadcom",
+   "en": "Broadcom",
+   "taiwan": false
+  },
+  {
+   "id": "AMD",
+   "name": "AMD",
+   "zh": "超微 AMD",
+   "en": "AMD",
+   "taiwan": false
+  },
+  {
+   "id": "Qualcomm",
+   "name": "Qualcomm",
+   "zh": "高通 Qualcomm",
+   "en": "Qualcomm",
+   "taiwan": false
+  },
+  {
+   "id": "ASE",
+   "name": "ASE",
+   "zh": "日月光",
+   "en": "ASE Technology",
+   "taiwan": true
+  },
+  {
+   "id": "UMC",
+   "name": "UMC",
+   "zh": "聯電",
+   "en": "UMC",
+   "taiwan": true
+  },
+  {
+   "id": "Foxconn",
+   "name": "Foxconn",
+   "zh": "鴻海",
+   "en": "Foxconn",
+   "taiwan": true
+  },
+  {
+   "id": "Quanta",
+   "name": "Quanta",
+   "zh": "廣達",
+   "en": "Quanta Computer",
+   "taiwan": true
+  },
+  {
+   "id": "Wistron",
+   "name": "Wistron",
+   "zh": "緯創",
+   "en": "Wistron",
+   "taiwan": true
+  },
+  {
+   "id": "ASML",
+   "name": "ASML",
+   "zh": "艾司摩爾 ASML",
+   "en": "ASML",
+   "taiwan": false
+  },
+  {
+   "id": "Micron",
+   "name": "Micron",
+   "zh": "美光 Micron",
+   "en": "Micron",
+   "taiwan": false
+  },
+  {
+   "id": "Tesla",
+   "name": "Tesla",
+   "zh": "特斯拉 Tesla",
+   "en": "Tesla",
+   "taiwan": false
+  },
+  {
+   "id": "GlobalWafers",
+   "name": "GlobalWafers",
+   "zh": "環球晶",
+   "en": "GlobalWafers",
+   "taiwan": true
+  },
+  {
+   "id": "Delta Electronics",
+   "name": "Delta Electronics",
+   "zh": "台達電",
+   "en": "Delta Electronics",
+   "taiwan": true
+  },
+  {
+   "id": "Wiwynn",
+   "name": "Wiwynn",
+   "zh": "緯穎",
+   "en": "Wiwynn",
+   "taiwan": true
+  },
+  {
+   "id": "Alchip",
+   "name": "Alchip",
+   "zh": "世芯",
+   "en": "Alchip",
+   "taiwan": true
+  },
+  {
+   "id": "Macronix",
+   "name": "Macronix",
+   "zh": "旺宏",
+   "en": "Macronix",
+   "taiwan": true
+  }
+ ]
+}

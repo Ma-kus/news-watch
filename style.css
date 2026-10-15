@@ -1,19 +1,23 @@
-*{box-sizing:border-box}body{margin:0;font:15px/1.5 -apple-system,"Noto Sans TC","Microsoft JhengHei",sans-serif;background:#f4f6fa;color:#1c2330}
-header{position:sticky;top:0;background:#fff;border-bottom:1px solid #dde3ee;padding:10px 16px;z-index:5}
-.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}h1{font-size:19px;margin:0 8px 0 0}
-input,select,button{font:inherit;padding:6px 10px;border:1px solid #c9d2e3;border-radius:8px;background:#fff}
-#q{flex:1;min-width:160px}button{cursor:pointer}button.pri,.on{background:#2456d6;color:#fff;border-color:#2456d6}
-.seg{display:flex}.seg button{border-radius:0}.seg button:first-child{border-radius:8px 0 0 8px}.seg button:last-child{border-radius:0 8px 8px 0}
-#meta{font-size:12px;color:#667;margin:6px 0}#cats,#chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
-.chip{border-radius:99px;padding:2px 10px;font-size:13px}.chip small{opacity:.7}
-main{max-width:1000px;margin:0 auto;padding:12px 16px 40px}
-section{background:#fff;border-radius:12px;margin:14px 0;padding:6px 16px 10px;box-shadow:0 1px 3px #0001}
-section h2{font-size:17px;margin:10px 0}section h2 small{color:#889;font-weight:400}
-.item{padding:8px 0;border-top:1px solid #eef1f6}.item a{color:#12327f;text-decoration:none;font-weight:600}.item a:hover{text-decoration:underline}
-.sub{font-size:12px;color:#778;margin-top:2px}.tag{background:#e8eefc;color:#2456d6;border-radius:4px;padding:0 6px;margin-left:4px}
-.empty{text-align:center;color:#889;padding:40px}
-dialog{width:min(780px,95vw);border:0;border-radius:14px;padding:18px}dialog::backdrop{background:#0006}
-.hint{color:#667;font-size:13}.cat{border:1px solid #dde3ee;border-radius:10px;padding:8px;margin:8px 0}
-.t{display:grid;grid-template-columns:1fr 1.2fr 1.2fr auto;gap:4px;margin:4px 0}.t input{min-width:0}
-.cat>.row input{flex:1}.row{display:flex;gap:6px;align-items:center;margin-top:6px}.sp{flex:1}#msg{margin-top:8px;font-size:13}
-@media(max-width:600px){.t{grid-template-columns:1fr 1fr}}
+*{box-sizing:border-box}body{margin:0;font:15px/1.6 -apple-system,"Noto Sans TC","Microsoft JhengHei",sans-serif;background:#f4f6fa;color:#1c2330}
+header{position:sticky;top:0;background:#fff;border-bottom:1px solid #dde3ee;padding:8px 16px;z-index:5}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center}h1{font-size:19px;margin:0 10px 0 0}
+input,select,button,textarea{font:inherit;padding:5px 10px;border:1px solid #c9d2e3;border-radius:8px;background:#fff}
+button{cursor:pointer}button.pri,button.on{background:#2456d6;color:#fff;border-color:#2456d6}
+nav{display:flex;gap:6px}main{max-width:1000px;margin:0 auto;padding:12px 16px 50px}
+.hint{color:#667;font-size:13}.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0}
+.analysis{background:#fff;border-left:5px solid #2456d6;border-radius:10px;padding:10px 20px;margin:12px 0;box-shadow:0 1px 3px #0001}
+.analysis h2{font-size:17px;margin:8px 0}.analysis p{margin:8px 0}
+.it{display:flex;gap:12px;background:#fff;border-radius:12px;margin:10px 0;padding:12px 16px;box-shadow:0 1px 3px #0001}
+.rk{font-size:24px;font-weight:700;color:#2456d6;min-width:36px;text-align:center}
+.it a{color:#12327f;font-weight:700;text-decoration:none}.it a:hover{text-decoration:underline}
+.en{display:block;color:#556;font-weight:400;font-size:14px;margin-top:2px}
+.sub{font-size:12px;color:#778;margin:3px 0}.why{margin:4px 0}.angle{margin:4px 0;color:#5a3d00;background:#fff6dd;border-radius:6px;padding:3px 8px;font-size:14px}
+.badge{display:inline-block;border-radius:4px;padding:0 7px;color:#fff;font-size:12px;margin-right:6px}
+.cA{background:#2456d6}.cB{background:#0a8a5a}.cC{background:#8a3ab9}.cD{background:#d6772a}.cW{background:#c42b4a}
+.tag{background:#e8eefc;color:#2456d6;border-radius:4px;padding:0 6px;margin-left:4px;font-size:12px}.top{background:#ffe08a;color:#6a4a00}
+.filters{display:flex;flex-wrap:wrap;gap:6px;background:#fff;padding:10px;border-radius:10px}.filters #aq{flex:1 1 100%}
+.ai{background:#fff;border-radius:8px;margin:6px 0;padding:8px 12px;box-shadow:0 1px 2px #0001}.ai a{color:#12327f;text-decoration:none;font-weight:600}
+.empty{text-align:center;color:#889;padding:50px;background:#fff;border-radius:12px;margin:14px 0}
+section{background:#fff;border-radius:12px;margin:12px 0;padding:4px 16px 12px}section h3{font-size:15px;margin:10px 0 6px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}.chip{background:#e8eefc;border-radius:99px;padding:2px 6px 2px 12px;font-size:13px}.chip button{border:0;background:none;padding:0 4px;color:#a33}
+textarea{width:100%}#out{font-family:monospace;font-size:12px}
