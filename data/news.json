@@ -1,7 +1,7 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T15:20:41.306065+00:00",
- "count": 676,
+ "generated_at": "2026-10-15T15:20:49.100580+00:00",
+ "count": 678,
  "items": [
   {
    "title": "Better Artificial Intelligence Stock for 2026: Broadcom vs. NVIDIA",
@@ -27,6 +27,19 @@
    ],
    "categories": [
     "robot"
+   ]
+  },
+  {
+   "title": "Secure your AI estate: 5 things CIOs must know about AI agents",
+   "source": "CIO",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3l1blN5b0ZqSnhpeXBhYmpLWFBVaDhLVFJKY1RnNHJpeHFlaWVxeVpnZEkxbmRMZXhTZjBndFhQb215VzQyamdPaE4wb0xVdlY1TGgyZjBxM1RaaHFWWDlpZUNRVzJZcGpIU1ZSMGV5QlEybVRJNkYyZE9meUJZNW9ENV9ITWRsbnc3cE9iSWotWk5OMXNWQnlITDg5NnBsamc5UA?oc=5",
+   "published": "2026-10-15T15:11:48+00:00",
+   "lang": "en",
+   "topics": [
+    "ai-security"
+   ],
+   "categories": [
+    "ai"
    ]
   },
   {
@@ -80,6 +93,19 @@
    ],
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "title": "500萬6年滾出4千萬！ 半導體工程師自曝「起家股」釣出「靠爸族投資術」",
+   "source": "FTNN 新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQSklyZEE0eVRnZUdtUHMwUUNsNXJma1FQOEpVcWk0eExsOFluUUY1WmYzcW1qbFJ0VlpqUksxMDVtV2NYZ2FiN0t0OA?oc=5",
+   "published": "2026-10-15T15:02:00+00:00",
+   "lang": "zh",
+   "topics": [
+    "semi"
+   ],
+   "categories": [
+    "semi"
    ]
   },
   {
@@ -487,19 +513,6 @@
    ]
   },
   {
-   "title": "HITRUST Innovations Validate Trust in the AI Era",
-   "source": "PR Newswire",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjJMLWFKbTU1dEdVZzRjZURIeE1GYXhUVGpuLV92dEY3OFNUdmVUVndTNmNnU0dIQldWdFpsV19mVjAwdW1BaG5uTjBPd09rbGx3N3cxUG55Mmh4a1VNRFpoMzQ0b2ZuZjdBeEp0d1hJdk9uTzdNRERlZ1d4VlM0Q1drX2VlYTF4X2FOeWw2QzdlNGFyUW1tLUF5MDVSU2ZMel9KQWdNNA?oc=5",
-   "published": "2026-10-15T14:00:00+00:00",
-   "lang": "en",
-   "topics": [
-    "ai-security"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "New R15.08 Part 3 Safety Standard for Industrial Mobile Robot Users Now Available",
    "source": "Quality Magazine",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSkttbjFYUEtOYnpSRFRNUnF1ZTY4RG5XcHZwcHh6MUhqUjlsZ0RtREozNy1YeVh1RV9MeFczZVRIR2xrUlFnT2hlMkU4LXRydHVRWi02YVJ6d3pmOEoyUFdtR3ZCUElZVExaZUNYdjBSQ21HODZNMEtnY2VWZDdkdHFWUmlNUUVyVV9RN2N1MnhoSDRzYkxqQ0h3cDY5N3JESXM4aUIwbnpCRWowSmV2elpQQTU3RmZ3R2REeVBqTWk?oc=5",
@@ -578,6 +591,19 @@
    ]
   },
   {
+   "title": "HD Hyundai Robotics to Showcase ArcLift Welding Robots at FABTECH 2026 - News and Statistics",
+   "source": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUVrM3FxS2lJeUdaa0ZiYzJOaHZ4dUJtblg0V3BienhYRjl3TU9xaG1pRWhMZTY4Uy0wVXF3bXNIVGlLTWJwVUlmZ2ZfZ0FEZEwtclJoNzQyQW8xVnZNYVpHdnY5NWlvNEJpRDAwT1o0X2FTajdIanh2LTc2NmtKSUo1Nm1FMWVjNUo4WXd6eEIzelYwUjR2TXN2R1FpVnI1X1E?oc=5",
+   "published": "2026-10-15T13:52:10+00:00",
+   "lang": "en",
+   "topics": [
+    "robot"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
    "title": "NVIDIA Lands in Europe for GTC Berlin",
    "source": "NVIDIA Blog",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw?oc=5",
@@ -627,6 +653,19 @@
    ],
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "title": "美股異動｜台積電業績未能提振市場信心，半導體板塊延續跌勢，英偉達跌超3%",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nb01DY2ZhaVczWjJEQ1BULU0zdm5EMlIwY2E4bUNtNzhZc3ViWHNWcTA4dC1rb2JHdW0xUnZlYUZXdjJPTmp5dUhOSC1CUmI3dWFsU1RpS19hRHBiRkRsbnVYVWxQRENJZWc?oc=5",
+   "published": "2026-10-15T13:44:13+00:00",
+   "lang": "zh",
+   "topics": [
+    "semi"
+   ],
+   "categories": [
+    "semi"
    ]
   },
   {
@@ -722,6 +761,19 @@
    ]
   },
   {
+   "title": "天空的紅線——從無人機禁航看臺灣與中國的治理思維",
+   "source": "Rti 中央廣播電臺",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VNVpDVU1waF9DdEp4UGI5b2tOb21GaE9TNEZzYVpxOUpObDJ1UHVCOE5LZzROeUVkV2ptVU5YRlRHSER2aS0wd1VYdlhqQmo2ZWx3cThKRDdnQU1jRVlOOA?oc=5",
+   "published": "2026-10-15T13:33:59+00:00",
+   "lang": "zh",
+   "topics": [
+    "drone"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
    "title": "美光中科先進封裝二廠啟用",
    "source": "中華日報",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4OXhwa2tWR1QtSC1Hd0dxYUZCTjdWM3NQMDlkdFBKcDBXV2trZExfVTFGaFpDS2dpdUc2akU3cHB4TU1WVWhfOFBYT05IbFhjb2c?oc=5",
@@ -735,16 +787,16 @@
    ]
   },
   {
-   "title": "CPO邁向機架級整合 AI互連帶動光電供應鏈升級",
-   "source": "CTIMES",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qQXRXNEgwcXpDNGgzNm5LOTVKanNNZkFPR3BaUjh1VkFJMnR2UERmUElKLTVmUFgtV2RwOGRJQnlyRDdfZHVrdjRkaHBPczJiWUQzZlBDNktJMTVzSzhOTHdlbi1KM2dqSkxEbw?oc=5",
-   "published": "2026-10-15T13:31:54+00:00",
+   "title": "TWA00 加權指數- AI需求狂飆！半導體與伺服器供應鏈全面擴產- 股市爆料同學會",
+   "source": "CMoney",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyVW5rYmZpb2NPcG9pT1lfTGFad2E5VVBOSzh1ZDRIZzNhTWUyUm9hdW5uNkVuN0dTMm1QNmYwZlIxLUJHS2FKZEZQWE5WX1lOVHlvY0dTMm0?oc=5",
+   "published": "2026-10-15T13:32:29+00:00",
    "lang": "zh",
    "topics": [
-    "cpo"
+    "semi"
    ],
    "categories": [
-    "photonics"
+    "semi"
    ]
   },
   {
@@ -938,19 +990,6 @@
    "lang": "en",
    "topics": [
     "openai"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "First Recon AI Launches Consulting & Professional Services, Helping Enterprises Develop and Deploy Secure AI",
-   "source": "Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUndQSG85bXBrYldXS1o3amVpamNHaVJMTEJzTVlLQXpsb1VOQ3BBQ3UyRGR1a3JHcWc4cEw5a2pQUXJiNzZmRGtLc0hiTHUtUV9xY2VLVzdjYXg3RjltandlcHNHTzE4MmhmbzUtMnpfQVA2cDY3ZTA1Q0FjdHVmVWFRU2Zrdnk5SVctMFpnN2VXcjR5UFZUTUJwMnJaTEV3QWlWSzVJWlZkWlpfOTlnRG1VcW5uNWhWNXpUb0EzY1dLS1RvMlBqRG5fS25tcGNuSGF6UnZ1WUR2QTBRVkZVcGc4TkFscHhmNTFqMUM1dDlTSEQw?oc=5",
-   "published": "2026-10-15T13:10:00+00:00",
-   "lang": "en",
-   "topics": [
-    "ai-security"
    ],
    "categories": [
     "ai"
@@ -1173,6 +1212,19 @@
    "lang": "en",
    "topics": [
     "google"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Cyera’s AI Security Platform Is Now Available in Claude Marketplace",
+   "source": "Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXExeC1VN2dkWDd5cGU1aFhVdWZtVTVRTTBMVkpTS2dLNjhaa1dFdFgweFdfdE0zalRvYUJ3TnpEZl9CU2hwUGpZcE5rYVpGVEpKUkR4QlA4alZnY2VxbXVEQzFiOTVqQm5OejFLaEhIdFhXQ25BRnYyTnQxSlVKOUdsVEx6eG5LOEtlRE9GaDhURmtaWTBMSXNUV2JOUVg4bjkyaXB2SERBd2pIdkstVVdsRGJzWlRPZVR2M2ZQS1c?oc=5",
+   "published": "2026-10-15T13:00:00+00:00",
+   "lang": "en",
+   "topics": [
+    "ai-security"
    ],
    "categories": [
     "ai"
@@ -2277,6 +2329,19 @@
    ]
   },
   {
+   "title": "外資狂砍3025億創紀錄！半導體擴產與特化轉型成焦點，台積電釋關鍵訊號-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1RJdlg3dXpfZzlLenVvM3h5VWR1bXF6c19IOVloZWNKcWhKLWsyS0pBVXJfUWcxR2x0QUh4Y0dtRXBKMXpoZ3RkTExmQUpXUzh3MFhRT3BlUFZuX24xZVNUM250MjBFLTI4Ynp3U25BM3Zxc1I2dUhMT19HRVZZXzd3?oc=5",
+   "published": "2026-10-15T10:46:50+00:00",
+   "lang": "zh",
+   "topics": [
+    "semi"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
    "title": "What makes Singapore a prime location for semiconductor companies driving innovation?",
    "source": "Singapore Economic Development Board (EDB)",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjA5QTlZcllPbmJwVUQ5Wk9nMGQ5bVlRXzRjSVd5Znlla2t2Sy1TZFVWbzRTY01xc0pOaUFqdHNLUHV2TmY3SlRwUUpBNmtyaWlNV0IzRGt6UXNPZzJDT2ozVFU3ZnU5cW43WmxQMHBPUm9Md1VqUTNlNVdiM0Zwc0FaN3RRakNBWDhIcGRqc0lqbDM5UG5ZVFRFc0JRUEFsLUJZSWZtbXZ6RWxDTzB5bm94bGd5MUxVU0NMUTliSWVIQzkwV0Yw?oc=5",
@@ -2418,19 +2483,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "title": "Hesai Launches Kosmo Spatial Camera to Feed Data to Humanoid Robots",
-   "source": "Technology Org",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbE00Z2pYaW1XaENEYnFRenozcDZORjFtS1FtOVIwS3ZVYkxNX2NGQXlVTGpyekRDakdQRnp2MExRUFJ0TzZzTlZhaHRWR2hMLXluMVhDalY3S0p1UFR6dFpBS003UFlLRGxmUWoxOEF2T0hYNlp3ckdlaGkwank5Yk1sbkQ4Nzc3QnFwSTFSS1I?oc=5",
-   "published": "2026-10-15T10:17:00+00:00",
-   "lang": "en",
-   "topics": [
-    "robot"
-   ],
-   "categories": [
-    "robot"
    ]
   },
   {
@@ -2971,6 +3023,19 @@
    ]
   },
   {
+   "title": "日經產相稱在美建半導體廠有益經濟安保合作",
+   "source": "共同網",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93cmZfajZ4cVRvMmt4Y1dhWjZKMm85TEd2RlNLRXRKODQyV21uYUJHYlBHUUpJcUVLaXFhZXFYcWp2VXhid0FDQjUtRzlnU1A4cXVCVGlSajQ?oc=5",
+   "published": "2026-10-15T09:20:53+00:00",
+   "lang": "zh",
+   "topics": [
+    "semi"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
    "title": "TSMC Weighs Texas Expansion, Holds Talks on Musk’s Terafab",
    "source": "WSJ",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEdMeDJhNG03UExRNVQ2MEJQWndsZDFteUhQSC1WekZrdnFWVHdBb2s0V2I4SVJCakw5Z0d0dVpkRUdVSXlSQUxJaFMxdERQX010a1ZVeHZYV3AtWVh2YVVkN1pDcU4xLUNQUHpRWVRLY2ZRc0poWU9leUt6LU5BOEZtOFctbjA?oc=5",
@@ -3371,12 +3436,10 @@
    "published": "2026-10-15T08:30:00+00:00",
    "lang": "zh",
    "topics": [
-    "drone",
     "aidc"
    ],
    "categories": [
-    "photonics",
-    "robot"
+    "photonics"
    ]
   },
   {
@@ -3863,6 +3926,19 @@
    ]
   },
   {
+   "title": "Capital 資本平臺",
+   "source": "Capital 資本平台",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jaWYwM3d1NWg1b3p3WUxfUHpFUjRxMWRlenFOVG95ZXhZcHRDcFhTaTl1cm42LWxSYnhoZUlEZUs0elRzN1hyQTdTbm9MM0xoTHJ6eFRXSW1JVTVRUmF3OExiYw?oc=5",
+   "published": "2026-10-15T07:25:54+00:00",
+   "lang": "zh",
+   "topics": [
+    "cpo"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
    "title": "黃仁勳再出手！輝達5年捐2.5億美元強化英國AI安全防線| 財經",
    "source": "Newtalk新聞",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05WnRYS2hHSzBRLVg2bXpweEVZRUg4LUJWNE9rdm00SXN4alNBZ2I0Q1R5SW1xV2Uzb2hlYzQ2LWpvVWpFRFVUdkJ3ZkR6Y1dMWkxZVGZaQWlid2s?oc=5",
@@ -4015,19 +4091,6 @@
    "lang": "zh",
    "topics": [
     "plp"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "2026 遠見高峰會論壇〈從半導體到AI 矽島新樞紐〉：台灣硬體已是全球中心，軟體應用才是下一個戰場",
-   "source": "INSIDE",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdUMtZEE0NGJkNmQ0TFNXLWhReTZMVkJldkoyd093WE45NElXaEJkaWtiMFAxaWoteDFzVGY2b1haLXFaRjUzZHM5VUEwLUZjQzRyajVYYUNhZk0wWmQ5SXFtc25tdzNIdVpLZURkQmlwc3J0OTNhblZfblNkZ0FRTUlhU09udzdoMUdsMkdjbXhkZ2l0TGc?oc=5",
-   "published": "2026-10-15T06:58:03+00:00",
-   "lang": "zh",
-   "topics": [
-    "semi"
    ],
    "categories": [
     "semi"
@@ -4317,19 +4380,6 @@
    ],
    "categories": [
     "photonics"
-   ]
-  },
-  {
-   "title": "半導體特化業者前3季營收寫佳績 出貨、擴產動能續強",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWbXJQcV9mOWN0cFEyRWF1dmgycnM4MFVEYjZOc3daV3lOelp3Yzd1VTdqdXFBaHZGOVptRkk0eGJZMVVJOXlsaGd0YjVQVlIwLXdHelhiZERjcUZ0aUk40gFfQVVfeXFMUFZtclBxX2Y5Y3RwUTJFYXV2aDJyczgwVURiNk5zd1pXeU56WndjN3VVN2p1cUFodkY5Wm1GSTR4YlkxVUk5eWxoZ3RiNVBWUjAtd0d6WGJkRGNxRnRpSTg?oc=5",
-   "published": "2026-10-15T05:37:33+00:00",
-   "lang": "zh",
-   "topics": [
-    "semi"
-   ],
-   "categories": [
-    "semi"
    ]
   },
   {
@@ -4776,19 +4826,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "title": "大量背鑽機訂單見至明年，半導體占比續升",
-   "source": "台視全球資訊網",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUh2ekdFOTAyM2xnLWhqdVdVV0w3bVFucFF5WDBaX2drMHJpYkZDMERmdDIxYnhLcnRnLXAxTC1pWFVxWkRfcjU3OUtMUjRaMkZNS1pkZDVWYnRES2ctNEtyQ1lXWnpuRl9Gamtuel9Vb3dYS3V6NjhnTjJYRjJ0U001ZXl4S1pMMXNITGRYalM4QQ?oc=5",
-   "published": "2026-10-15T03:31:39+00:00",
-   "lang": "zh",
-   "topics": [
-    "semi"
-   ],
-   "categories": [
-    "semi"
    ]
   },
   {
@@ -5323,19 +5360,6 @@
    ],
    "categories": [
     "comm"
-   ]
-  },
-  {
-   "title": "費半崩跌4.3%拖累台股！半導體一片慘綠 旺矽跌停、日月光重挫7%、聯發科殺近半根",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPLXFQOEFFZGtVcndrT2prRC1YeWpPTVhmR1BEWFE5V1dtMU1xMUxZb2d3Q21mR1BJSy1ZUEc5RGlDYzB1czBiOEFPemhzOG1TUG1CWGZiUXFIYXp4czNNUTdDS29LVmgzeExJa3pPSkNvemoyM3F0NmNCTnJrWGtmYTVoamd6bC1HbG1Kc2RYUDZBeWxZTVpBRy1FQmcxTGFMTmRjMjJhSlpLTUxVZWpaS2x6ejZ4SkdtRXBtLU9WMWRPWVJQR1NEVEJOS2M5UzMzdXFvLXZEYmNRYzBHT1ctYnBRWHJVXzVkdXdra2U1WHZaeF9BS1FDZDF1cUZUdjJnZ1Nkc3VwRGh2aFk?oc=5",
-   "published": "2026-10-15T01:50:35+00:00",
-   "lang": "zh",
-   "topics": [
-    "semi"
-   ],
-   "categories": [
-    "semi"
    ]
   },
   {
@@ -8324,7 +8348,7 @@
   {
    "title": "Rockwell Automation推出CompactLogix 5390控制器，強化Integrated Architecture產品組合(06:53)",
    "source": "財訊快報",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOelRUWmdfZVFwdzUwRWFFRGo5ZTVpVmRvZUN1LXV5bGRXU1ZCaXlsazJKT0I0czZFV2NhVVAzdUpoOGdDRV9mT0FXaFo0TU43b0NURVM0c0VTTEk2RDQyX2xZMV9QeXRPVl91c0dMNTJucFROeVZLZWJxZmZ4VVNzelZEY015dEVheUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU0VmbTRyWEdfSFFWdWhtRTJOeVlmVW4wWmFSckpoaHY0ejNhZmRIaDlyU05sOTU1alJhajNpLTZ0R2hKOEJfREpJRlZKcVVjNWVLY18yaENHS3Zmbnc4Mmw4Ukx0MG5GMlFPdlh2YzlvOUJCTmx0cC13SnlPdGxVdXEwcXZKU3lmblE?oc=5",
    "published": "2026-10-13T22:58:21+00:00",
    "lang": "zh",
    "topics": [
