@@ -1,0 +1,14 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>產業新聞觀察站</title><link rel="stylesheet" href="style.css"></head><body>
+<header><div class="bar"><h1>📡 產業新聞觀察站</h1>
+<input id="q" type="search" placeholder="搜尋標題 / 來源…">
+<select id="date"></select>
+<div class="seg" id="lang"><button data-l="all" class="on">全部</button><button data-l="zh">中</button><button data-l="en">EN</button></div>
+<button id="cfgBtn">⚙ 設定</button></div>
+<div id="meta"></div><div id="cats"></div><div id="chips"></div></header>
+<main id="list"></main>
+<dialog id="dlg"><h2>關鍵字主題設定</h2>
+<p class="hint">編輯後按「儲存」會寫入 config/topics.json,下次執行 collect.py 生效(關鍵字以逗號分隔)。</p>
+<div id="ed"></div><div class="row"><button id="addCat">+ 新分類</button><span class="sp"></span>
+<button id="dl">下載 JSON</button><button id="save" class="pri">儲存</button><button id="close">關閉</button></div><div id="msg"></div></dialog>
+<script src="app.js"></script></body></html>
