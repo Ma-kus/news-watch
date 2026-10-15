@@ -1,6 +1,6 @@
 # 每日必讀 20 則 — 策展流程 (給 AI 助理)
 
-腳本只負責蒐集;**選 20 則、翻譯、撰寫綜合分析由助理完成**。
+腳本只負責蒐集;**選 20 則、翻譯、撰寫**兩種視角**分析(總編輯、CEO/COO)由助理完成**。
 
 ## 每日流程 (台灣時間 08:30)
 1. `cd /workspace/news-watch && python3 collect.py` → 產生 `data/candidates.json`(過去 24 小時候選池,約 900+ 則)、`data/archive/pool-YYYY-MM-DD.json`(永久累積的全部新聞)。
@@ -14,6 +14,7 @@
    - 去除重複事件(同一事件多家報導只留最權威/最原始一則)。
    - 只選過去 24 小時內;**url 必須取自 candidates.json**(Google News 連結),不得捏造。
 4. 英文外電:`title_zh` 為繁體中文翻譯、`title_en` 為英文標題 → UI 顯示中英對照。中文來源 `title_en` 設 `""`。
+4b. 分析:針對同一批 20 則,各寫一份 `analysis_editor`(資深 B2B 科技媒體總編輯:對台灣產業意義/影響、值得追蹤議題、報導角度)與 `analysis_executive`(科技公司 CEO/COO:如何評估產業意義與影響、決策考量、後續追蹤)。僅依 20 則內容撰寫,不得捏造事實;未證實消息(單一來源/據報)必須明確標示。內文以 `#排名`(如 #3)引用新聞,UI 會轉成可點連結。`analysis` 改為選填的 2–4 句總覽。
 5. 寫出 `data/brief.json`,再複製為 `data/archive/brief-YYYY-MM-DD.json`。
 6. `python3 validate_brief.py` 必須 OK。
 7. `./deploy.sh`(推送;會更新 brief-index.json)。
@@ -23,7 +24,21 @@
 {
   "date": "2026-10-16",                      // 台灣日期
   "generated_at": "2026-10-16T08:25:00+08:00",
-  "analysis": "段落1\n\n段落2\n\n段落3",     // >=3 段 (空行分隔), >=300 字:為何選這 20 則、對全球/台灣科技業影響、今日主軸
+  "analysis": "選填:今日總覽 (舊版 brief 為 >=3 段完整分析,UI 仍可顯示)",
+  "analysis_editor": {
+    "persona_title": "總編輯視角:資深 B2B 科技媒體總編輯",
+    "summary": "段落1\n\n段落2\n\n段落3",     // >=2 段(空行分隔),繁體中文,可用 #3 引用新聞
+    "implications_taiwan": ["..."],           // >=3
+    "story_angles": ["..."],                  // >=3 報導切入角度
+    "questions_to_track": ["..."]             // >=4
+  },
+  "analysis_executive": {
+    "persona_title": "CEO/COO 視角:科技公司高階主管",
+    "summary": "段落1\n\n段落2",
+    "implications_taiwan": ["..."],
+    "decision_considerations": ["..."],       // >=3,涵蓋供應鏈/客戶/資本支出/合作/風險
+    "questions_to_track": ["..."]
+  },
   "items": [                                  // 剛好 20 筆,rank 1..20
     {
       "rank": 1,

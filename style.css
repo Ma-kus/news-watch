@@ -21,3 +21,11 @@ nav{display:flex;gap:6px}main{max-width:1000px;margin:0 auto;padding:12px 16px 5
 section{background:#fff;border-radius:12px;margin:12px 0;padding:4px 16px 12px}section h3{font-size:15px;margin:10px 0 6px}
 .chips{display:flex;flex-wrap:wrap;gap:6px}.chip{background:#e8eefc;border-radius:99px;padding:2px 6px 2px 12px;font-size:13px}.chip button{border:0;background:none;padding:0 4px;color:#a33}
 textarea{width:100%}#out{font-family:monospace;font-size:12px}
+
+.analysis h4{margin:12px 0 4px;font-size:14px;color:#2456d6}.analysis ul{margin:4px 0 8px 18px;padding:0}.analysis li{margin:3px 0}
+.ptabs{display:flex;gap:6px;margin:12px 0 0}.ptabs button{border:1px solid #2456d6;background:#fff;color:#2456d6;border-radius:8px;padding:6px 14px;cursor:pointer}.ptabs button.on{background:#2456d6;color:#fff}
+.pwrap .pc{display:none}.pwrap[data-mode=ed] .pc[data-p=ed],.pwrap[data-mode=ex] .pc[data-p=ex]{display:block}
+.pwrap[data-mode=both]{display:grid;grid-template-columns:1fr 1fr;gap:14px}.pwrap[data-mode=both] .pc{display:block}.pwrap .ex{border-left-color:#d6762a}
+@media(max-width:800px){.pwrap[data-mode=both]{grid-template-columns:1fr}}
+a.ref{font-size:12px;color:#2456d6;text-decoration:none;background:#e8eefc;border-radius:4px;padding:0 4px}
+.it.flash{outline:3px solid #f5b400;transition:outline .3s}

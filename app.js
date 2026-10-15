@@ -10,14 +10,28 @@ async function initBrief(){
   $("#bdate").innerHTML='<option value="">最新</option>'+idx.slice().reverse().map(d=>`<option>${d}</option>`).join("");
   $("#bdate").onchange=loadBrief;loadBrief();
 }
+/* persona analysis */
+const paras=t=>String(t||"").split(/\n\s*\n/).filter(x=>x.trim()).map(p=>`<p>${refs(esc(p)).replace(/\n/g,"<br>")}</p>`).join("");
+const refs=h=>h.replace(/#(\d{1,2})(?!\d)/g,(m,n)=>+n>=1&&+n<=20?`<a class="ref" href="#item-${n}" data-r="${n}">#${n}</a>`:m);
+const lis=(t,a)=>a&&a.length?`<h4>${t}</h4><ul>${a.map(x=>`<li>${refs(esc(x))}</li>`).join("")}</ul>`:"";
+function personaCard(o,extraT,extraK){return `<h2>${esc(o.persona_title)}</h2>${paras(o.summary)}${lis("對台灣產業的意涵",o.implications_taiwan)}${lis(extraT,o[extraK])}${lis("後續追蹤問題",o.questions_to_track)}`}
+function analysisHTML(b){
+  const ed=b.analysis_editor,ex=b.analysis_executive;
+  if(!ed&&!ex)return `<div class="analysis"><h2>📝 綜合分析</h2>${paras(b.analysis)}</div>`;
+  return (b.analysis?`<div class="analysis"><h2>📝 今日總覽</h2>${paras(b.analysis)}</div>`:"")+
+   `<div class="ptabs"><button class="on" data-p="ed">📰 總編輯視角</button><button data-p="ex">🏢 CEO/COO 視角</button><button data-p="both">並排</button></div>
+   <div class="pwrap" id="pwrap" data-mode="ed">${ed?`<div class="analysis pc" data-p="ed">${personaCard(ed,"可切入的報導角度","story_angles")}</div>`:""}${ex?`<div class="analysis pc ex" data-p="ex">${personaCard(ex,"決策考量與行動評估","decision_considerations")}</div>`:""}</div>`;
+}
+document.addEventListener("click",e=>{const t=e.target.closest(".ptabs button");if(t){document.querySelectorAll(".ptabs button").forEach(x=>x.classList.toggle("on",x==t));$("#pwrap").dataset.mode=t.dataset.p;return}
+  const r=e.target.closest("a.ref");if(r){e.preventDefault();const el=document.getElementById("item-"+r.dataset.r);if(el){el.scrollIntoView({behavior:"smooth",block:"center"});el.classList.add("flash");setTimeout(()=>el.classList.remove("flash"),1800)}}});
 async function loadBrief(){
   const d=$("#bdate").value;let b;
   try{b=await fj(d?`data/archive/brief-${d}.json`:"data/brief.json")}catch{
     $("#bmeta").textContent="";
     $("#bbody").innerHTML='<div class="empty">📭 今日必讀 20 則尚未產生<br>每天 08:30 (台灣時間) 由助理從候選新聞中挑選、翻譯並撰寫綜合分析。<br>你可以先到「全部新聞」瀏覽已蒐集的新聞。</div>';return}
   $("#bmeta").textContent=`${b.date} ・ 產生於 ${b.generated_at?fmt(b.generated_at):"—"} (台灣時間)`;
-  $("#bbody").innerHTML=`<div class="analysis"><h2>📝 綜合分析</h2>${esc(b.analysis).split(/\n\s*\n/).map(p=>`<p>${p.replace(/\n/g,"<br>")}</p>`).join("")}</div>`+
-   b.items.map(i=>`<div class="it"><div class="rk">${i.rank}</div><div><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title_zh||i.title_original)}${i.title_en?`<span class="en">${esc(i.title_en)}</span>`:""}</a>
+  $("#bbody").innerHTML=analysisHTML(b)+
+   b.items.map(i=>`<div class="it" id="item-${i.rank}"><div class="rk">${i.rank}</div><div><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title_zh||i.title_original)}${i.title_en?`<span class="en">${esc(i.title_en)}</span>`:""}</a>
    <div class="sub"><span class="badge c${i.category}">${i.category} ${CAT[i.category]||""}</span>${esc(i.source)} ・ ${i.published_at?fmt(i.published_at):""}${(i.companies||[]).map(c=>`<span class="tag">${esc(c)}</span>`).join("")}</div>
    <div class="why">💡 ${esc(i.why_it_matters)}</div><div class="angle">🎯 切入角度:${esc(i.angle)}</div></div></div>`).join("");
 }
