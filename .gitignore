@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+.env
+*.token
+.DS_Store
+data/candidates.json
