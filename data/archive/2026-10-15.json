@@ -1,8 +1,726 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T13:37:04.102684+00:00",
- "count": 687,
+ "generated_at": "2026-10-15T15:20:41.306065+00:00",
+ "count": 676,
  "items": [
+  {
+   "title": "Better Artificial Intelligence Stock for 2026: Broadcom vs. NVIDIA",
+   "source": "The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3Vyd3V4TUVxbTV6Q3Q5WU1hanpTeTJsRG5rLWJEMXBhdUdmdGFiZUVJN1UydDE3R1gtOUFDNnpYWjB0aTY0VlpsNWhYOG5wMHJMS19UUDQ3ZnBWZy1oSTNLTnp4S3VmUG1BeklRek81U0xlOVJnSGJPR3MwWU1WQ2RobDVwaUN1OHFrNjYxbWNuSlA1ak01U0FGSnVBY3dIaC1rdG9ncHRqMjcwMUpaY0w0cUxJQTJZ?oc=5",
+   "published": "2026-10-15T15:17:39+00:00",
+   "lang": "en",
+   "topics": [
+    "ai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "ACC Mulls Commercial Counter-Drone Services for Air Base Defense",
+   "source": "Air & Space Forces Magazine",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazBQNUFnN21BWnlpN2tCeVNDejZ6OVVfWTZUa0c0ZGkxNTdPTU9LUEFUYnExZ2xEb19hOGpUZXRiUDNMSkhOME1vcW1yOVR6TnNYWFVQdHJSR2hUSTVHa09wZ0o5bjNDOHFrMlQ2NW9Bc3VDRmdLQXhIOEFIdkpQUXhJeGRQLWpQRkJpMFpLQ3YzSTA?oc=5",
+   "published": "2026-10-15T15:17:39+00:00",
+   "lang": "en",
+   "topics": [
+    "drone"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
+   "title": "Trading power reductions could reduce data center strain on energy grid",
+   "source": "Cornell Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOTFvX3puTUR0cXoyckttMTYySEFfb21rNkFIeGlyNmRaOFZvUUh2QUpSYnliVk1VVGNhc1ZodFNMenU4UWRqeHcwUFhsU0ZKdXlraTZSdUhnWHY1Z3lSRlowcTBpTEpDbWNrZDRTcE1rYmlvNHRBbnczbVVIYjF6YnhqU0RLNE1aZEtBNFJ1aTJKMjl4VU5qQWVhbmVxM2dWc1o5U08tVnZoM3Q0a0E?oc=5",
+   "published": "2026-10-15T15:10:50+00:00",
+   "lang": "en",
+   "topics": [
+    "aidc"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
+   "title": "Robots can't talk to each other yet -- that's a big AI bottleneck",
+   "source": "TechTarget",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMjNKTUkzNFhLa1JKWV95WmpsSWtYYVNmbnFqQlItdnFJQTVCZ0VzYzhFUE5jX3BpSW1wSVhoTTdQcmpxbW9tcjZLVEJpMHNlYlFPS1BLa1ZtVVJhWlh3eDM4ZnAzM2lBZ1BkVkgzQ3gtQkZKMkUwd2dTZmZjTEdLcDl6dDZoVG1VLWxQc3dEWGZpSmFBdlhWS0hDLVEwWU1uMzdMOFFDZFo?oc=5",
+   "published": "2026-10-15T15:07:34+00:00",
+   "lang": "en",
+   "topics": [
+    "robot",
+    "physical-ai"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
+   "title": "Applied Materials opens $5B semiconductor innovation center",
+   "source": "Manufacturing Dive",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDdpdGlTUU9XYVA5SkNRU0RabV8tX0E0NXVIc3FvaF9hVnE3RjZyT1FUX2I2WWNkRGZ2bnRYZk5oV09vb1gyS1hlQ1IzOV9KZDNpT0E4Nzd3NGpJTkE5MDVmcWtIUDI4azdvczhNT3I4TlpZbVlZcHl5WWpmRXR6clctZU9oRFFXTHFVWm9lNC1GSXBWNC1HQ3JCa1dSUkpPNk44?oc=5",
+   "published": "2026-10-15T15:06:30+00:00",
+   "lang": "en",
+   "topics": [
+    "semi"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "AI Scan for pull requests generally available",
+   "source": "The GitHub Blog",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYU5iMUVqVVVSNmR4RUhJQ0JiSFpIb3NtN29oOEQwbWlBXzNZbExXeUktTk9abzliS05vVXJKZ1lQYXlBOFlvaVhOem8yWUg5UThTNTJRVUtKZlFQOENpdXNVMGxVcmwwNjd1RUg4c0ZBUFNvV0paUTBpRklQSHBGV096c0NNb0ZBb04xMEcydko?oc=5",
+   "published": "2026-10-15T15:04:51+00:00",
+   "lang": "en",
+   "topics": [
+    "ai-security"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "UCSB Engineer Elliot Hawkes Develops Autonomous Stroke Surgery Robot",
+   "source": "edhat",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM211V29HYlRGdzMwY3lKcTVFRWJ1bTNpTzFnMldBbXRSeDFyZVpka0Vpa2JaVmxfejd3WnVuWE55SUZiYkdjemZtQkRkVkUzb1MwYzBtSzg5S1Q3NGlMbGFXSHpab2k1cXZweXlqUmEyM1FhRkltUnpxb3JzWmVZMUliRHlNVXlGbkR2NGUtbDU0NmhNX0E?oc=5",
+   "published": "2026-10-15T15:00:34+00:00",
+   "lang": "en",
+   "topics": [
+    "robot"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
+   "title": "ANRA Technologies Introduces VISTA for Shared Drone Airspace Awareness",
+   "source": "Dronelife",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUlhYlhGTzZnNU1TbklFbTdlaXAwMVE0RzNseG9KTVVvYXZlNDhoREpSY1ZMcVRZXzRrZVlKcG5QNUZOVEtHcDFwdkNnVjg1d3o4XzZCVmcyMERIaDJWQ0hobUZEb2JGd1V4bWY2WXJJYU12X0NrVmlrbjRqWDROMi1TVjZoQnAzSW1nVEwya2d0R3Mtbm0wMllRTXpQdlpZWDlpZ3plVQ?oc=5",
+   "published": "2026-10-15T14:56:34+00:00",
+   "lang": "en",
+   "topics": [
+    "drone"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
+   "title": "Google launches Universal Cart across Search and Gemini for easier shopping",
+   "source": "Search Engine Land",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXQ4QzZaSmlqLUxFUjNycUFOekxHblhPRVo2allKZ1VPU3ZPSzRkVFY4RXdYLXVFc3duOGxjRmtNYmREVTZEVzJBdkRWTWpmRnpjM0J2UHVDM1lzRnlPZWl2VWhjYjhMUDBFcmpCTmFVbE5kM3pUeWVTYmQyakRVTG1YZmtpbFFOLXBIRFlYbHQ4Sm56QlRac3B1OHNYNldnSHlBR01WNXFaYVloUGcwaA?oc=5",
+   "published": "2026-10-15T14:53:10+00:00",
+   "lang": "en",
+   "topics": [
+    "gemini"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Scale Partners With NVIDIA on Post Training",
+   "source": "Scale AI",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKVWs3MHNQb3ZaRmtIdlc2QzFWV3ZBdHFvRmwzWVZUVnFvVXRVbERsbWQ0SkFYc2ZTV2ZrQXpMLW1ZalRpb185VDZ3ajkwNEFIaVdLdVZ2REZEYlhTMXc?oc=5",
+   "published": "2026-10-15T14:52:29+00:00",
+   "lang": "en",
+   "topics": [
+    "nvidia"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "黃仁勳：美中應就人工智慧潛在危險展開對話",
+   "source": "中時新聞網",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50blNrS2Ffc21heDE0VEJhNU0zUkhvbnQtaWY5dWROYWhTd0xndTBuVEtwQ25maWpMbkZFZG9EVlRzZzRCTW5jMWdhY2REdDZkdkh3U3BzbVNEeGQ3akRST2ZhY1U5UU1LbElIeWpR?oc=5",
+   "published": "2026-10-15T14:47:04+00:00",
+   "lang": "zh",
+   "topics": [
+    "ai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "微電網與綠能基建加速！AI資料中心用電將飆2.6倍，台達電等能源鏈搶灘-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZGhDVlJlanpNSy1qX0o2akw2S1VRZXVER0lXSGliRmpSai1FSTlCaHRIYlVRelZxeXhRc01vV3I1ZEJXY2h0cDIwWURrMEFpaWw4QXZVTk5kcmJzN0JvRmRvMDFZNEltUWd4QlBtR1lRbFlBZGtVVTNaNFdKTDB4cm1B?oc=5",
+   "published": "2026-10-15T14:46:35+00:00",
+   "lang": "zh",
+   "topics": [
+    "aidc"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
+   "title": "How Can We Apply Artificial Intelligence?",
+   "source": "Pace University",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TV0t6cXRMNlpGSmRYTU1hck9iYlA5RjdXelZmaW93M01tN0V2QWhudWV6WFZqLUQwd0VNdWljQkp5dFR3Zy0zWndDaUY?oc=5",
+   "published": "2026-10-15T14:45:12+00:00",
+   "lang": "en",
+   "topics": [
+    "ai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "台積電第三季 EPS 29.43 元創新高，先進製程占比 79%，2 奈米貢獻營收達 8%",
+   "source": "TechNews 科技新報",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXpLMDBqMmRmdEVNOXZNTUE0RkJYTEpGZWRyLXVzblN0RE5Bd25nYWhvcTBHWXdmZEgtVE1VQmpsdEpLZU9yS3hncktfMGsteWpCazdscHUyZThfb190aVY2ZEhqa21va25yOTFGaHV4QWdyY0ppQlBvNzNPRm9aM19iY05MbjZEeXJUQnFxS1QwV3c?oc=5",
+   "published": "2026-10-15T14:40:12+00:00",
+   "lang": "zh",
+   "topics": [
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "Google rolling out Universal Cart that lets you shop the web and find deals with Gemini, Search",
+   "source": "9to5Google",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdElEVHkweDAzYy1SZlNoRUhUUUl3a0QyUmpXYXIyNXFKcktrT2ZVX2xqTVUySjVMX3V6bTU5V3BPOEs4MWdXYzJBa2IxdU1Ed3p6NkZrTE9USldjWWZKdlFrTmpFLXlxMURLcmJqUXhoZXMyX1FSSzJJSk9wWHlkZGNCNjFic0hYQ3I2Zmg5MUc3S0dOUHV0NEJXYTZGclA1ZEJNOG5ZZG9rQTUxeENjdmFMcjR6bkdrM0s2N2o1dzM3QmpEdzUtVA?oc=5",
+   "published": "2026-10-15T14:40:00+00:00",
+   "lang": "en",
+   "topics": [
+    "gemini",
+    "google"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Gemini 4 Argon Coding Agents Hit Android Studio [2026]",
+   "source": "https://tech-insider.org/",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XeVFTcGVoSWVkZnk1Q3RmemlUYnltdFU4LVpjbkJLTzNZWW9STF9EcjY3NG00RTlLeVQ2bHNYZ3NxMHRScEhwaXNpTHpmMjNOUFp5NXh2a1pQSkR2d3FRVVczQTY0bkdnc2RocURzdEhSTlBXc2JET2VHR0F1d3M?oc=5",
+   "published": "2026-10-15T14:39:07+00:00",
+   "lang": "en",
+   "topics": [
+    "gemini"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Fortanix Survey Finds 41% of Enterprises Blocked an AI Deployment over Security",
+   "source": "HPCwire",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeUVoYkcwbWN6VVZIbHdBUENSTTF0bVpNelJfR3YyZG1yZmhXaGJFb1hPRUxxSmhUZ0RCS0NHSUphdEduVkVEOWw3cjdONjZkVTNNY19TTjJUTGZXZHhZX2ZSMlRwVzRhUENqQWo5WHZFd3ZpM0g3UG83ZExkblRkWjhiRmtoSGdBUlJIdTBlTTNRMjJIZzZHUDdRVXM1V19IT19jNDkydDdBN1ZhM2otYmpkb3l1T0MycEMxeDl3enZRbzd6VjhF?oc=5",
+   "published": "2026-10-15T14:38:58+00:00",
+   "lang": "en",
+   "topics": [
+    "ai-security"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Off the cloud: Local artificial intelligence for maritime contract intelligence",
+   "source": "Supply Chain Management Review",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ub3V0TmZPcFBhOVNtZ0V2aUc4WVVuQWNGeW9leG1EeFZqRHQ5bGRzcW52WlFyeW1UTWI4ZnNBSjEtN2UtS2F3SENubFpnNFBKM1k1Q1IxV0RxRUMyUmh0bjJKWnQ0RHZzNEpEM3R5bHUzUWRSWmZ4UzBpeVI?oc=5",
+   "published": "2026-10-15T14:38:00+00:00",
+   "lang": "en",
+   "topics": [
+    "ai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Claude maker Anthropic reports quarterly profitability ahead of IPO",
+   "source": "Latest news from Azerbaijan",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUFtTzM1cGMzSXNRNXBoV2ttQ3JRZEV5UVpxNTF6RDNNcjUwT05hWVp1ekdQNkxEZXRYbDZ2VVlGbFh5b0VzVl9HUGYzU01ka2JhRVp1LVdDOVFmbVBISWhtWE9VY2l2T3RqNW01RmdCY0tmTWhwMURzUGhKRkpEZ0ZFR1U0Y1dTaWxkMWNTMDl5dw?oc=5",
+   "published": "2026-10-15T14:37:30+00:00",
+   "lang": "en",
+   "topics": [
+    "claude"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "2357 華碩 - 台灣美光先進封裝與測試二廠啟用，深化 AI 時代高頻寬記憶體布局- 股市爆料同學會",
+   "source": "CMoney",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MODBsaG1TZkNIMjA3SWFGVG1MczVJQlRocGNxU0xnOC1JREdhNjVIclFKakRqcDBqQlhVbzNPX2FfN3pJWV9idGVERUVXbGNmNjUtTFBGR08?oc=5",
+   "published": "2026-10-15T14:35:19+00:00",
+   "lang": "zh",
+   "topics": [
+    "adv-pkg"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "How Nvidia Could Stop the CoreWeave Panic",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5",
+   "published": "2026-10-15T14:33:00+00:00",
+   "lang": "en",
+   "topics": [
+    "nvidia"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "CoreWeave連賣不掉的AI算力都有輝達簽約承諾買單，為何市場仍估未來五年違約風險高達63%？股價也跟著重挫？",
+   "source": "鉅亨網",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6V3lRTDM2WHJ2SF9IQkFNNUx4T2pfbDR0SjZQaHlabC16dmtJeXhteUpQRFk3eHlQYmhOSTRqTmE5TlZCb2N4SlpyQXRQZ3c?oc=5",
+   "published": "2026-10-15T14:30:17+00:00",
+   "lang": "zh",
+   "topics": [
+    "nvidia"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Global Drone Market to Grow at 9.8% CAGR as AI-Powered UAVs, Autonomous Flight Technologies and Rising Defense Investments Drive Growth, says Maximize Market Research",
+   "source": "PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOM1pYcjBUNVNabzNid1M3emVqV2NvbVVXTzhvbzJ3ZElHRHdobkcwTG8xUEVXYkZWNG94dkg0VkFxUkpjdEJBYVZCall4QVFsdmVOTHpSaUlTOEVpbjhKWG41cGExdDh0UEFJaWZMTXI2RW5hRU1Cd1p3aW12Z1RsZml0U0RMT2tMaURlQjl4eUVYQl9RdWpWTzROTXlRVERkRkt1UGQ3YzlDLVZYNHN0VnFCTDI4N2ZlSTVON0JoSWlrMHFaaWM5dHVlRmVncl9wYnRuUVA3Y2cwOFlCbHNkbTFDSVM0VklYc0xEdDNzdlVuV3FWU0dYb1VYYjdJMXJvXzJsUk5GMWxkd2V6T3NoUFBGUzhSZjNrMi1ZRm11ZTlBYTNYbURGWDVSblAtbkJnUUt3amJoVHl3WnV0cnp1aw?oc=5",
+   "published": "2026-10-15T14:30:00+00:00",
+   "lang": "en",
+   "topics": [
+    "drone"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
+   "title": "Google’s Universal Cart shopping tool launches in the US",
+   "source": "TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2J5WFhBXzExbUNob1ZGczFDd0V6TU5TZlVwZHpjbnc3R2UwSHp0Tm9nWE1LNGpOcmxrQXRndnRxcnVvMTluWS10OTd6MTVVcy1TakVDX3F4M2tFY2MxcU0waXNtVVU3cG1fdjRzWU9VWnhoM1R4dU9jVGdSeXRlZnZlN2R4NW1VOWVSbTM3ek43SUxk?oc=5",
+   "published": "2026-10-15T14:29:33+00:00",
+   "lang": "en",
+   "topics": [
+    "google"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Update Chrome: Google fixes 37 security flaws, including seven critical bugs",
+   "source": "Malwarebytes",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzNsMmNlenZDS3dWU09zRXFkaVpGLUZRVFJobXRmU2RkNWs0Vm93c0ZENloxS2o3UVk3UHVicF9wZkhMTnpYNE9iZXc1c083cllUVGhrdlEwTW1zLVpWRnZpTUlFdWNzdXdaY3B3cmwzaWlFYWpOSDBFeWR2eS0zUkJiYWduRjkxTTdLWXV3OUJyOHdESmRnaW9fWHB5NTZsOTlyQnM3RzBBVU9HbmlMaE45RktONGlReUM4RzNR?oc=5",
+   "published": "2026-10-15T14:28:50+00:00",
+   "lang": "en",
+   "topics": [
+    "google"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Nvidia Stock Slips as the Chip Leader Can’t Escape the AI Selloff",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5QUx6M3FGYWk0Sng4U3NGRW1tVGhpYmZic2pXTm03VHZ2ZEp6a215OFdVaXVETDFMVWtYZUtrbXNlVVdvT05CcDVaaE5uUWpUdEhjMFBFWm1TcUZHYWp5UUZubTdSMlR1ZnNuaUxuQVpwQ2c?oc=5",
+   "published": "2026-10-15T14:25:00+00:00",
+   "lang": "en",
+   "topics": [
+    "nvidia"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "台積電法說變法會？ADR大暴跌 輝達、AMD臉綠",
+   "source": "自由財經",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jckdGdld3TVlyM3h3YjV0Vm1NaVRUWGdsMkdpWmtwX1NaV0JDMHVEcWFRYW94VG5ibzVONXhtSERqQlJjUnFxNFp1Q1dyZDVPUUVQaDltV29iVmU3ZTBZ0gFkQVVfeXFMUEY5X2t2bllnejFtbm5KeHRSQy1oYkV0d1pxSFE2WnNwOHBidlFEelBzMnhZVTJSRm9nLTMtQ3hYR2U1Y2M5bms3b21zbV9kTENZRmhMajZsTlJFZ08xTHVSX3U0MA?oc=5",
+   "published": "2026-10-15T14:20:54+00:00",
+   "lang": "zh",
+   "topics": [
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "TP-Link Plans $1 Billion US Factory To Beat Ban On Wi-Fi 8 Routers",
+   "source": "HotHardware",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGlvMmc1T28xSlVBcE5lWWVJd3ZoRHJla0JkZGM4cmMtWGZHQXkzeHM4YWpJOExoOTlxaWFBSEN3MDJwNlVlbVRrd1U3QU84Z2Jsd3Fodk14TEJXT0VLNmZCRzZiLW1kN0czcC1teTFlbHBLNGRsSndjc2lSLWEyLXhLTnJqcnV6amlRSkgwOGZDRWFyWU1BS0NR?oc=5",
+   "published": "2026-10-15T14:20:00+00:00",
+   "lang": "en",
+   "topics": [
+    "wifi8"
+   ],
+   "categories": [
+    "comm"
+   ]
+  },
+  {
+   "title": "Why there’s an ‘extremely fierce’ battle for TSMC's limited chip manufacturing capacity",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM1JWVlV1cHBxMXFDSVdYV3Z1bmpESng4cHpGV0duTG1MVWtRTC1SSHZTRUpHcFNrM3pFdmxzRGFmZWZvQ1lJWXRwaVBST2hJbkRjVHM3Vmc5RFNoekRiUF9QMXNpclpqdjBhbHAyWV9OaVpJZHFtVnpUSGN6Mm5oU0t2Z2VTU0VmRVBFWWZ6UTZ4Q3hkU1BoekIzRElLakNQcVhjdmpn?oc=5",
+   "published": "2026-10-15T14:18:50+00:00",
+   "lang": "en",
+   "topics": [
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "FBI arrests Saudi OpenAI employee accused of bugging office",
+   "source": "Denver Gazette",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGU3ZW5nem1ISEdWZzZnMGRIUEh3aENVdXl6T1pqTlhVMlRuV2tZUE1DaGRSNW56cVJ1X2NuN0d6WG8wbFRteUFVeENpVXh4bGpRYUlHX3d3VXlrX01rd3JWSm9zMDNKbWMyVWMzX0xXWFdINTc4MTBIU0VBX1E1TS15VlAxRkR6RXFzdW5hX0l5emtubnRUUHgxbFA4TV9xZTcw?oc=5",
+   "published": "2026-10-15T14:18:06+00:00",
+   "lang": "en",
+   "topics": [
+    "openai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Intel at Web Summit 2026",
+   "source": "Intel",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOejdHd21XRmhnOUlCTEF3clU2M2Z6M3kydUR0Z0NjZ0d6ckF0RFlXS3JpRXFDSnJNQmxfMjduRmVoSUw2TWQ5U0pTS3VFV1J3M05ud29uYzYtSS1IbzdmSVl3REdZY3F1U01wd3lGQnFSa1RvbVVfdzdJQlBtcGxldURDOE1HaGZ3TmgwUlFWZnlqRzd1bXFkX0l0YWUxWk1WWDZpS3N3TnlkelU?oc=5",
+   "published": "2026-10-15T14:16:12+00:00",
+   "lang": "en",
+   "topics": [
+    "physical-ai"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
+   "title": "Semiconductors Are Becoming More Complex. This Spinoff Provides an Easy Way to Profit.",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZHhHTWViTTNmd2ZCdWJDbVcxOTVMT0JxemhtSVpNTkhOaUd4OUZ6VFl3VnJHSWF5OTJCMkxlaEtJQ2lReGZoak45aW92UngyVUcwYUkwcW05RzVqSnFuSU51YVI3WHhWR3I0ejViVE0wSjRnWm1xeGd1bDdXWk0xN3RSNVRCUUpVYTJqWi02R3RNY2praUlHUDg5bUNYZExncGk2YlFaWjd3bG5QZGZuWHNaeVZQREdiRVE?oc=5",
+   "published": "2026-10-15T14:14:00+00:00",
+   "lang": "en",
+   "topics": [
+    "semi"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc?oc=5",
+   "published": "2026-10-15T14:11:10+00:00",
+   "lang": "en",
+   "topics": [
+    "nvidia"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "OPC Global Summit: News spans AI-optimized hardware, cooling equipment",
+   "source": "Network World",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1R3aElYRElZb1Jtb2JXOTlsX3dsM1RSMW1tcm5XTDZndExZa2dLN09yQ05aVFFzS2lNb0FRSlE0ZUhBNTdlaW5xRTc1MXhGX0FqZ3ZQRzFhbE92clpyRDBZYVB3akUwZ0NOZ21EcVdIeFRTb3lfX2dZbWszUUNKRWg0bUd3Umc0TGR4bUd4V28wQkpMb2lCWUE1c2F6NFVCQlpSSmRnb0tlOTFkX18yQVEwcGd3eXZteWc?oc=5",
+   "published": "2026-10-15T14:07:01+00:00",
+   "lang": "en",
+   "topics": [
+    "liquid"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
+   "title": "Russia Builds Major New Drone Attack Base in 6 Weeks, Satellite Images Show",
+   "source": "The Moscow Times",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYnNlUWM4VWZXb21nUG1UZER2Q3lyMENzWVVfN1dlVWNEdWk4eFc5TWpUbXVDWTdHNFB2a1ZNVlNXUm5yVnk2NERnWGV0NTVhZXdtOVBxOFByZWZkYkNWLW1PMUpsZUJtSHVBYWhZRXY0UUpCUnRrSFduaHdjVy1DaTBKd0pjNUsxb2RlX1VYSFowbjhwQ0pZOUhLZUNkZXBJa2UtLThxM0JwTW9xcUhKN3lUcURKNFJhMWdPd2R2Qzg?oc=5",
+   "published": "2026-10-15T14:04:44+00:00",
+   "lang": "en",
+   "topics": [
+    "drone"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
+   "title": "Intel, Marvell, CoreWeave, TSMC, Apple, More Stocks That Explain Today’s Market",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKbzlPNVFQSmNkYlRIUHpZLWhEUU5iTWFBNUpNakVnd3g0cjlBMEtCQURpcTg5WnRuRUFvdDdtZl81MU5LMGxnUHAtQS1kMS1zOU94Q1JEVC0tNXdrYW90OVl4Sko?oc=5",
+   "published": "2026-10-15T14:02:00+00:00",
+   "lang": "en",
+   "topics": [
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "Google AI Plus 用戶將失去 Gemini Pro 模型選擇權，需付四倍費用才能繼續使用",
+   "source": "Techritual",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03cXJ1VFVpUEFYdlFhRTlBb2ZJOU1mSlhNNkxQcEctTTdKTzZZU2ZRc2tnVklXTTFrNzkzVWJrbXRHdEFqUzg4Vi1fQXNXUWFYc3FKM0ZoZEc?oc=5",
+   "published": "2026-10-15T14:01:05+00:00",
+   "lang": "zh",
+   "topics": [
+    "gemini"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "HITRUST Innovations Validate Trust in the AI Era",
+   "source": "PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjJMLWFKbTU1dEdVZzRjZURIeE1GYXhUVGpuLV92dEY3OFNUdmVUVndTNmNnU0dIQldWdFpsV19mVjAwdW1BaG5uTjBPd09rbGx3N3cxUG55Mmh4a1VNRFpoMzQ0b2ZuZjdBeEp0d1hJdk9uTzdNRERlZ1d4VlM0Q1drX2VlYTF4X2FOeWw2QzdlNGFyUW1tLUF5MDVSU2ZMel9KQWdNNA?oc=5",
+   "published": "2026-10-15T14:00:00+00:00",
+   "lang": "en",
+   "topics": [
+    "ai-security"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "New R15.08 Part 3 Safety Standard for Industrial Mobile Robot Users Now Available",
+   "source": "Quality Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSkttbjFYUEtOYnpSRFRNUnF1ZTY4RG5XcHZwcHh6MUhqUjlsZ0RtREozNy1YeVh1RV9MeFczZVRIR2xrUlFnT2hlMkU4LXRydHVRWi02YVJ6d3pmOEoyUFdtR3ZCUElZVExaZUNYdjBSQ21HODZNMEtnY2VWZDdkdHFWUmlNUUVyVV9RN2N1MnhoSDRzYkxqQ0h3cDY5N3JESXM4aUIwbnpCRWowSmV2elpQQTU3RmZ3R2REeVBqTWk?oc=5",
+   "published": "2026-10-15T14:00:00+00:00",
+   "lang": "en",
+   "topics": [
+    "robot"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
+   "title": "美光深化台灣布局 賴清德：台灣半導體如虎添翼",
+   "source": "大紀元",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lZzJqUTZGMFFVcmc0dlh6ZnNlMmdBUlFnOGlHMEJ1NHlyekhqR0h0VWdZUHAyeWlSRHNyVkNvdjlqOFNyTkpZSUdOeEQ2d1UwalRmYjkwSjR3R3VnQ09HREFR0gFnQVVfeXFMTmtHQkhHOTZralFaeU5Ta2JsVmpxQ25OTzFoSHpnQ2FVRlFUTG9PSlRuV1VCNFNkVEh1ZF9Zb1BmcXlWYjN5Um8zNjg1NVRpS1ZWdmtNWWx1VVBvbDJpY2JRbVhmTmtMcw?oc=5",
+   "published": "2026-10-15T14:00:00+00:00",
+   "lang": "zh",
+   "topics": [
+    "semi"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "搶攻輝達Vera Rubin商機！「代工大廠」秀全液冷AI伺服器新技術八大公股卻倒貨逾3千張、提款3.4億元",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxQRFdPS0ZZV3ZqRDRpZTJ5WDZRV0ZveWpXSVg2NU55cUpFaVVNeHlqZEFDbzJxM3NFdUtrRW5lUkdHNXBLWjdiaUZNZkc1ZHZ1aFMtVDdxN2FmMVZYUEpCZW4wOERUSnVzYTlJTmtNanA1QTg4bGx6TGJHeEVQQ0RDWXgtdVktRnExclQ5UGNzeFlId1N1VmNvVThwXzZTMzdWQ1RsbnJneEF4ZXhxRHFKbWgzY1JPQXEwMFVtV2tWbHQyTXo2amRsR3dIaHdHR2VQbGRkWlBvbGRXTXRIQk1xM3VYa2FxRTdnTXNUWGloS2pUOWtHcWtHbGZCY2xnaU9wQTBQQXQ0VkRsQzdNMzlfN25Bc3NxWmNxZVhEMy1uZ3BUN19qU1UzMjdET1JUV215ckxxNjlRYnFFeGxuZ3V2SGZUMGlscDBwWDBrTERLQUh5dGgwWTVfZlNHSkdiVXl6eHZlZjM4bVhJekNvRkxMOW9pNXdCYmdlajBZUFJBOG5RWWs0a1cxYlZMSEwtS2ZEUWRMMHpmRHBqSjZ6ck9vVHBmZ0hpYUJES21zY0JubkdrZTltU1VOS2dhbzk5WXpmN3g3VHZydE1fT1g5bnNJZFlOQ0hnZ3V1?oc=5",
+   "published": "2026-10-15T14:00:00+00:00",
+   "lang": "zh",
+   "topics": [
+    "liquid"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
+   "title": "Chip Leader TSMC Delivers Beat-And-Raise Third-Quarter Report",
+   "source": "Investor's Business Daily",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1TbG85Y0hNQkxYR3pFRDV0UWZPVG5udjJxekd6RkNJWmlBX1Y0T2NnSEF3V1Q2VXAwNGZleWxwRC1DakxjZmZha2V1Q2J1cFNqdWRLek9fQlI1R010Q3NRQ3pYeE16WVY3dUVuUkRyQzhkeHYyb0VVSVhaWWJMT1BrT09Fem54Y2NQRVhjbzNqX1FHRzZOeW9JSQ?oc=5",
+   "published": "2026-10-15T13:59:00+00:00",
+   "lang": "en",
+   "topics": [
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "Chinese Silicon Photonics Chip Maker Xihe Technology Clears STAR Market IPO Review, Seeks 1.83 Billion Yuan to Boost AI Computing",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5OW1FcHM3QW1oRmdvTlRicVRBa0FiQ3k2ZlloOEliMERiWUZhbV9OV1pkdEFaUWtWbXpJOERKeWctNmQ2WXFwZVlxVmJjSG9JYVVsNzlTZXYwdWM4XzVXZ0piNzBHYnByb2l4Z201WVVycDdpLWc?oc=5",
+   "published": "2026-10-15T13:55:00+00:00",
+   "lang": "en",
+   "topics": [
+    "sip"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
+   "title": "Artificial intelligence (AI)-powered mental health app demonstrated improved social well-being among users",
+   "source": "2 Minute Medicine",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUZUYTdTZGpPMzNsZS1ZYnpfSm9jMjEtc1FFSWprM3lERTI4dDY2MTFqRHBGcGtGS1ljcXYtbjhYZGFWa0lONTM4eFFHZ2tOZHgzLVlVSFY2ZzJpM3FLczVOUGVURFVScE1HVHNjV3NBRXloaW9GbzNFT1NxSEN5UDhyajM1U0FIZWNOWHV2ZHVwZDNHZE84ZXZlVGl6M0FfZjhFRWZtY3N5WVgwUnJmSnhBOWRRVE92OGszTkozZ3N4TlAzdnQxaW90a2ZPZ0YxQjlv?oc=5",
+   "published": "2026-10-15T13:52:30+00:00",
+   "lang": "en",
+   "topics": [
+    "ai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "NVIDIA Lands in Europe for GTC Berlin",
+   "source": "NVIDIA Blog",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw?oc=5",
+   "published": "2026-10-15T13:48:08+00:00",
+   "lang": "en",
+   "topics": [
+    "nvidia"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Alphabet Stock Can Soar 24%, JPMorgan Says. Why Google Can Defy AI Fears.",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91SExKR1JKUTMxSEpGTGxMYkRCX1ZIQ0wwd25pcEJVZ29pc2ZRdlZqN2N6ZHZYdWpVRV9TQkRKUGFwZk4tZFlPMmNQVHFUc25XRTd5YU9QUHVGTm5TQmpRczBYN3ROVjNnUGVQblg2akJKYVJTcG9RQnNLaUY?oc=5",
+   "published": "2026-10-15T13:48:00+00:00",
+   "lang": "en",
+   "topics": [
+    "google"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "美股早盤／科技股續跌 道瓊漲234點 台積電 ADR 大跌4%",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZE96LTIzak9jaC04MldrSDg1eDdaY3pjZWJ6SmVXZHk4NjNfUFFFQm84anFxRFd6UWVYcVZPVElaQ1Q0UHNwSkM0ZFZWUFRHMTBlN0RCMjZXSXM00gFiQVVfeXFMT2JxNEpZVHNMYTkyQ1hTYWV6cGxIUTFfN096SjEtV2JFVkE4TjdpbkpSaGE5RzhDRkdKbVJ5T21PVUFsRlJWZ1FYb3F5NF85cGNkRTZFeVlLMlpyTnBfSEt5QVE?oc=5",
+   "published": "2026-10-15T13:47:25+00:00",
+   "lang": "zh",
+   "topics": [
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "Cohere Signs LOI to Buy AI Security Firm AISLE [2026]",
+   "source": "tech-insider.org",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHRFWkJFUGtLR25sNGE1REhFa2FqdTRBRDJzTjlXRnZDQ0duNEVtaGV1TVJoWmJibU80d0FuX2VBVG9FcGwtdnE2NFdMTWVjMDBtczZvQnUtTTJqSE1zWTd1ejNMcl9oZnBhVVJHYXlPNDRjeHA2cXc3LXVjTkNoWQ?oc=5",
+   "published": "2026-10-15T13:45:34+00:00",
+   "lang": "en",
+   "topics": [
+    "ai-security"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "衛星圖像：俄羅斯六週建成大型無人機基地",
+   "source": "大紀元",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sWklNV2lyc1JGWUxfU3NrTHYxb2VGdVVpR1M0NlhvUlFtRV9uT2wycnF1TUM1ZWZpMTF5LWZRajc0OVdtVDN0VFk2eGtSdDE3OTA2cWhoMFZMaE9zQURJbzUtOGJaeEXSAWdBVV95cUxNbFpJTVdpcnNSRllMX1Nza0x2MW9lRnVVaUdTNDZYb1JRbUVfbk9sMnJxdU1DNWVmaTExeS1mUWo3NDlXbVQzdFRZNnhrUnQxNzkwNnFoaDBWTGhPc0FESW81LThiWnhF?oc=5",
+   "published": "2026-10-15T13:44:00+00:00",
+   "lang": "zh",
+   "topics": [
+    "drone"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
+   "title": "快訊／美股開盤繼續殺！台積電ADR再摔4.3% 台指期夜盤失守47K",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQRWwxSnZCYUYxNHU0MHpYYVpxQTlvZElRZHNvb0xjVkdTVGZ2WGYyWmdFOVJBZEozWmluWnhnMGswX2NfYWgwRzRpaDVJdE5XSDVISVlQVl9MQWhlaEVKQzRybW1kVUhTVkJJWHZMYXVGUGNMWXhDd29rYVlWVk15TTZ3ZGtIRU5aNkV6c2RtWG4xSk95czl2WTlwOFZRQ2liSy1GVHVIcHdjZFRBNjd4SkloWXp2bGtBT1N4ajhTd1lFWDc3d1NyWGpqbk91cXlxTE04VzRBSWRuMndRNkJzcUV2QWUzSXpGdnlhOGJXeFA3Y2RiLW92SzZvWW5mbEFxaUxvdTJSOVNaUGZ1NnpoQWVTNG9VTVdGSjNTQXJuODJVQS1PUE9tUEtiUG9Xcm8tQkJ2QUFlWjFiM3NwOWpjQjR5Qy1vZnlVdzIzY3A4UkxteG9lNUs2TlFZSTk0YUU?oc=5",
+   "published": "2026-10-15T13:44:00+00:00",
+   "lang": "zh",
+   "topics": [
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "2男疑操控機器人猥褻女性 德警展開性騷擾案件調查",
+   "source": "Rti 中央廣播電臺",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GSXg4S3lxY1QtdzFHNXVmZ3JZYlhRbkhuVmljSFdhQnF3Q0JUNW9tX1JwWXpKN05ET05hcmMzbjVPaXpHX2stV0ZkZTM5cTI2dVlLTGNaYw?oc=5",
+   "published": "2026-10-15T13:43:11+00:00",
+   "lang": "zh",
+   "topics": [
+    "robot"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
+   "title": "Nvidia leads chip stocks lower as AI trade takes",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHlfaC1zS3lncTY1VlI4b1lqX0F3UVNNeEV2d09iWHY4NE54dnNmeTctVHRLaEFhSzNDUU1KZC1FQWFOM1MtdWJxU29FNjdzMEk4Nzc2ck9NNDJoR29uOTE2blFHWGc0Sm50VkFHdG43NEUzS2hvbGwySkJjV3o5S1AtNEx2Q2NwN3ByeGZuVW1jWUQ3OFZEUUp6T3dRVWppUWVJSFF6RWxDOGdfeWk0bHVONng?oc=5",
+   "published": "2026-10-15T13:42:37+00:00",
+   "lang": "en",
+   "topics": [
+    "nvidia"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "TSMC stock sinks despite record profit amid 'extremely robust demand' for AI chips",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQnViYU9abldsek5fd1VMekVwZ1RnNXFFTDlTRENFZmlQa2NwT015UW1UWVBlbWd0SGJKeXlmZElRYXQ3UlJCdTlnbVYzUU91VUQxaXBGa29sbTN1TEVPRHU4cVNmUm15b25GVFFqVUlzcXhLdWFUa2xtLUhaSTcxczBNVm1JT1VhUjVVQ1UxRWhTbFBaRFRlU1Y4ZmVfbG1OYkR4cFdSNXo1eFlFbjI5UnlDdlh2YnVlZE1Oem91NGZvUm5ST2NOZk4zY0xzeGt2TUpvWVhIQXJhTWVo?oc=5",
+   "published": "2026-10-15T13:42:22+00:00",
+   "lang": "en",
+   "topics": [
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "NEWSLETTER: The climate tech that's cutting data center energy use",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV09BNnhmQ01lTVcza3dxVzMyeW1wbDFXTi1HblJycnVmc1B3d24yRUIzWHBmeFE2T3dCT3Q4eFdWQUdGcFdKbmJRQmZZVVk5WTVoU2NLczVPOU53UHNadFRRZmFRTWhBWlVDcXBTU2hrQ2pQYWh5X19jaXgzZmhUejkydkIyTllRT2R6QXpzQ2JzbnZUWGRfbmJ6aEN2LVBBRkE?oc=5",
+   "published": "2026-10-15T13:37:00+00:00",
+   "lang": "en",
+   "topics": [
+    "aidc",
+    "liquid"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
+   "title": "【21:30 即時新聞】Teradyne(TER) 持續承壓跌逾5%／CPO 測試布局利多難抵短線賣壓",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVRTbWxIOTRmY21kdWRXUGY3MkdfUldTSkE4ek9qNmw0ZWtjaF9pcFNDSTkyVkM4TjNmOVRhTmRXRC16UEtVdnZ5NV94WFZhOHhIVDRKZGVvZFpHREFNRllWWkJVZlJyOGozb3BDY0lYY2pfdTV0dER1dC1YTlQ3UHQ3QWhuVEg5bnlOZG9B?oc=5",
+   "published": "2026-10-15T13:35:28+00:00",
+   "lang": "zh",
+   "topics": [
+    "cpo"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
   {
    "title": "美光中科先進封裝二廠啟用",
    "source": "中華日報",
@@ -17,7 +735,20 @@
    ]
   },
   {
-   "title": "People & Profit - French crypto unicorn Ledger warns of AI security risks",
+   "title": "CPO邁向機架級整合 AI互連帶動光電供應鏈升級",
+   "source": "CTIMES",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qQXRXNEgwcXpDNGgzNm5LOTVKanNNZkFPR3BaUjh1VkFJMnR2UERmUElKLTVmUFgtV2RwOGRJQnlyRDdfZHVrdjRkaHBPczJiWUQzZlBDNktJMTVzSzhOTHdlbi1KM2dqSkxEbw?oc=5",
+   "published": "2026-10-15T13:31:54+00:00",
+   "lang": "zh",
+   "topics": [
+    "cpo"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
+   "title": "French crypto unicorn Ledger warns of AI security risks - People & Profit",
    "source": "France 24",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXYzN1YxandPNHlhdXFsdi1vSmdJS0l2WU4ybFhBNDM0bzJWaWRpbk1uMTRXckJHR1pSNlhZMU5WVGxjaDFjbTZyUkF0YVhyQVY2ZW5MbHJ5QXFUbkxXdXJBaFNYTWxIUlk3SG5hMkVaWjdjWUN0bjBMS1FNRTh0Yldmakg3VDRucVFuNGptMUUxNXp0MVlDMGJfZ2JSTE51bDVTZjNwbDh1elI5bjh6ajAtLUpvQQ?oc=5",
    "published": "2026-10-15T13:31:22+00:00",
@@ -36,11 +767,102 @@
    "published": "2026-10-15T13:30:06+00:00",
    "lang": "zh",
    "topics": [
-    "openai",
     "claude"
    ],
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "title": "Data Center Moratoriums Show America Built AI Infrastructure Before It Built The Rules.",
+   "source": "Forbes",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMGlTVUhfYkpNNmVyMkgwTm52WUVjaFAwaDNSODZhbVc5aU9tNE5IbHgwZ0dOdFZUbHRrRUZodVliOHNwelFMYWZER1VHWFpxRWpTbFVoMXJsTE9XZTN6dkxRS2VDNHVCXzF1YXNMd3ZzQmVhY21yak9NeUIwa0dPaDVMc2Q2VjRpblIxTnkyX1ZIWVE0TmFQcGZQVURnN0t5MHZGTXl6b2Q3X1lJeHM5OHZQU3ZObUJQY2ctUHBlSTI5STZPLV9PWG5KMzV4RENpdDNmVi1wRE4?oc=5",
+   "published": "2026-10-15T13:30:00+00:00",
+   "lang": "en",
+   "topics": [
+    "aidc"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
+   "title": "Inspira Enterprise, Inc. welcomes Kelly Bissell, as its Chief Strategy Advisor",
+   "source": "StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVVFiYnp1X0o4NnJDYW1JZ05xeXJhcllPdS1GU0QxWDdxd0E4NTBDZ2pKbTAyYU0tTThMWTdqQUVCamliWjFBUXdwWkJ5Y2xGd1RfMmVUZ0VraE5FNExZdU10V1RvQ3Y1Z2NwcGFNcVBrTnBLcW1tVFF4eFBKTk4wYzlDVi01RWl2dnlHTXU3UzRkbzlQdW4zZkpmN3oyLThoS254QXhiS1pSLXhvTFlsREw2dUhSdGhNanRteHlsSFpzRkFaR0RCVU1ucFRtUkxHcm1R?oc=5",
+   "published": "2026-10-15T13:26:23+00:00",
+   "lang": "en",
+   "topics": [
+    "iot-sec"
+   ],
+   "categories": [
+    "comm"
+   ]
+  },
+  {
+   "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHNjZE1aMG8wWVBHLW9UeG15T3RSZzdSOFR4WGN5SEtyWTI2Y1g1MWtSUFZkYUFKc2QtS01JN2lHSW82bjdqVWNjV0w1WVNMU1B2U1BLZlB6QkpLc1ZSTUE4Ry1EMzVRa3RUT1J3azFYRjZnNVpTY0c5WERPV2thSlp4MkE?oc=5",
+   "published": "2026-10-15T13:26:08+00:00",
+   "lang": "en",
+   "topics": [
+    "aidc"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
+   "title": "An AI-for-Climate Startup Won Nvidia’s Backing—After Putting the Climate Part on Ice",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNak9mU2RoMUtpX2tSZlY3YTJwMms2UDZMVnNqTGJSTkdTTTBtdm5Cc3pHUUg4V2p2Um1SWmhTWGF1TUhIcmZZYWU3R2ZxYjVYRWRURDdHNXRUN0stSEU1STFrZ2t1Nko4RjFKRGF5NmRuX0RsMEhRMEhCNUFBQ0NoWmZ2LVpmVzR6MFZRTGlFVFRoLXhYQWZ6MjREMGRwb01EZWZBTjB5dTdTTXJjemVNVTE1MVFLTERoSmV6VG9NMmdxQ09aNFpVZm5XUQ?oc=5",
+   "published": "2026-10-15T13:25:00+00:00",
+   "lang": "en",
+   "topics": [
+    "nvidia"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Linden Photonics' MicroTethers Take Home Innovation Spotlight for Keeping Drones in the Air Indefinitely",
+   "source": "Commercial UAV News",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1VUMUxxTWpKMHNKVzV4Q1I1Q05Ldkhxc18wNzZraW1XWUtQbjRVdUFwUlVNR1JsRXpDNWdKU08wVlRWMFZQcEV1N2ZtZktaMVBpYzVhLVpnZ0dOTXZQQU5lUldsc1BPNDJDMWxVRndTQklNMkZvVmdUeWJBeVA0cldtaGFSQnVSOU5faA?oc=5",
+   "published": "2026-10-15T13:24:41+00:00",
+   "lang": "en",
+   "topics": [
+    "drone"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
+   "title": "Taiwan chipmaker TSMC explores Texas investment to expand production in the U.S.",
+   "source": "Spectrum News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDRGNk5Pd3FIUVBScGRHTk0yNlRZWXFFeHR0VGtfM3ZEeTBSdmFfNk5fZ2lMMVdzVlh5VUpiTm5uZ1JpNDZhbWcwZnRPc2FVTU85dEpjdFpZZUhSaXBuczlhOGdVaUhMTFNHR3lacnQxdmVqWXdJN0JXZThuWUV2M0phTUR3ZDAxbkxjVG91YWVQdDNDVkdEcDllbjhvRzBJak0zS0RHdUZVVVZYSEh3YVd3dlczYmc?oc=5",
+   "published": "2026-10-15T13:23:00+00:00",
+   "lang": "en",
+   "topics": [
+    "semi",
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "Taiwan Semiconductor Q3 Earnings & Revenues Top Estimates, Margins Up",
+   "source": "Zacks Investment Research",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2x0d3BSNlhaVDh3VG0yUW4tRFJ2TGZpcU85dnNXM19GV20ycEJRdkt5QnJmRjc3Yi1yaW92eTVtTFl3TS1xODQzYWlmTUZ0SURHWW9MN3BNXzR1eFo4QlR0Ym5zTVJmUUl0Um9DdWZ6ampjNW9nYjBkOW1mZXZoX09veURBeGVFVTVVOXQ1NklkM01vM1hVdnlmVGkxYXgtSWNHalpuTTZ2YkE?oc=5",
+   "published": "2026-10-15T13:22:33+00:00",
+   "lang": "en",
+   "topics": [
+    "top10"
+   ],
+   "categories": [
+    "semi"
    ]
   },
   {
@@ -57,19 +879,6 @@
    ]
   },
   {
-   "title": "AI資料中心五年後用電估爆十倍RECCESSARY籲政府公布饋線- 國際",
-   "source": "旺得富理財網",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MOEpRUzV5WVI0OVdyYU5WQzBfZ25IaDFST0dBdnZyNW1JbmJTWWtBMFdIanBaWl9ibVpNT2xaYmpSajl0eHBRdGU5WDdSbmlxaFNfbmlzZlhjVklPTHlTS0hDbzVYWG9LV1E?oc=5",
-   "published": "2026-10-15T13:18:30+00:00",
-   "lang": "zh",
-   "topics": [
-    "aidc"
-   ],
-   "categories": [
-    "photonics"
-   ]
-  },
-  {
    "title": "FTC issues subpoenas to Anthropic and OpenAI over safety incidents",
    "source": "CBS News",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkhjUENoTlFhVkZ5NmN4TXRnb19CM0xaa0lkNlU3TjNtdjhuZ1Rnak1zTUhGLWtPSlJNdWVLU3BwNmd3WUFxbmdWT2NnbTdBcU5pZVpOTTdOclFMRzByMlg1RzRQWlFYR1VsLVU2THVPc3hUWFIwc3RpVW5xVjdsOTVBdnhwWW8?oc=5",
@@ -80,6 +889,19 @@
    ],
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "title": "半導體股回檔後誰先起跑？ 高盛點名4大主線 設備、AI CPU、類比IC、HDD出列",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ERHJma3NNeVhhcWRKNnVZSzZpOTNBRUFDbTdkZEtZa3NuVUVQUTdHbDI1cmRpbjVpakJZclg0R1pSbFM5TmcwSGNOODF1bXAwMDF5WFRUM2RkSW81N3JmOdIBYEFVX3lxTE5ERHJma3NNeVhhcWRKNnVZSzZpOTNBRUFDbTdkZEtZa3NuVUVQUTdHbDI1cmRpbjVpakJZclg0R1pSbFM5TmcwSGNOODF1bXAwMDF5WFRUM2RkSW81N3JmOQ?oc=5",
+   "published": "2026-10-15T13:14:25+00:00",
+   "lang": "zh",
+   "topics": [
+    "semi"
+   ],
+   "categories": [
+    "semi"
    ]
   },
   {
@@ -96,9 +918,9 @@
    ]
   },
   {
-   "title": "擁抱AI 陸機器人業者把握「AI+製造」落地工業商機| 陸港經貿| 兩岸",
+   "title": "擁抱AI 陸機器人業者把握「AI+製造」落地工業商機",
    "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IN2lUZGxQVnJaRDlXY2dvalJjMFZRcW81Ym53Nkx4MXEzWlZkcVRDU3UxZkhmMVprVlJCNGhNdzlPRlFUOEljUERsU1k5a3lESVN4R0Yzb0xLX3lOSGI1TC1ab2tOUUR3MlBXZW5Ka1RWQWhR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pNDFRcl9lOGVqWFB0TjRINkhMQTNucUpmTHRKSmxGRFFQSHkyek1WUXowcmQ2andHOW5LSExCd0ZRMVR4WWxudlFFaDdDM2JIN2s1ZTVR0gFWQVVfeXFMT2k0MVFyX2U4ZWpYUHRONEg2SExBM25xSmZMdEpKbEZEUVBIeTJ6TVZRejByZDZqd0c5bktITEJ3RlExVHhZbG52UUVoN0MzYkg3azVlNVE?oc=5",
    "published": "2026-10-15T13:12:15+00:00",
    "lang": "zh",
    "topics": [
@@ -106,6 +928,19 @@
    ],
    "categories": [
     "robot"
+   ]
+  },
+  {
+   "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+   "source": "Cloudflare Blog",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQ0pfZTQwbEVHV2gxNW4waER0SGMtd0lYVEZOaWJPR0lIdlVmeWlzbkhqci15X0RsRWFCdFljSW8ybS1zbkRRYkczaTB4RXJOZkU5RUFMYVNnZzJvSDRBaExUVlNVNnRabUFlaGk2UEtJNWRXTktZ?oc=5",
+   "published": "2026-10-15T13:10:17+00:00",
+   "lang": "en",
+   "topics": [
+    "openai"
+   ],
+   "categories": [
+    "ai"
    ]
   },
   {
@@ -148,13 +983,27 @@
    ]
   },
   {
+   "title": "獨家／台美打造「勁蜂四型攻擊無人機」 高速優勢受矚目｜#鏡新聞",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPd3Ribnd3NVJxOFJaaUF4VVdGb1RHZEV4MXhVb3hxM3N2T0tvZ3NjN0UyLXhfaUJiZm1YUFVkV3U3QW5uT2ViVEF4czA1b2VsX3dLRGJTaHJJRFh1YWlyc0NBcG1FUlltaUplNGZUbUVZOHVGUzhmSU53eFBFcnJSREJVc2FPejJmOTBMU19PcE5Tcl94NW44dzA2bjRYN2RleWR3MjUzWTktU29sRUNlUnhIVFRNSFhPOXMwbVNJZGJUaWtsZFZLZTZCT3RWWnRLeEVBMU5GbEVvY0dnVVFxTElPM1lBbW9ma19NUEFlT1hxcUxjWXBwdGdIVXJLaWRnbnQzMnUzWFNrSndRMGtJZFkwNGQ1R0g3dFFvX0ZJcTJUa1psMUxKa0xfVktiWTN3NUcxLTZtYW5SVm14YVpCQkpnY2JOdFV5Y3JmNWJZUXBZWXVKUmdBQkVQZGF0N1hvM3JIenRPNVkwanFaczJ1Sk11bmFlamdWOHVCbU1RcWF5UHAy?oc=5",
+   "published": "2026-10-15T13:08:47+00:00",
+   "lang": "zh",
+   "topics": [
+    "drone"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
    "title": "Taiwan Semiconductor Falls 3% Despite Record Quarterly Profit; Intel Drops 4%, AMD Slides 3%",
    "source": "24/7 Wall St.",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcjYwVnBPdDQ1cFoxUGFiZ3RQeUQ2QktvUU1FUEU5dVJ0cFEtNmhzcXY5V1ZhLXlsQzlkZmlIVlBiYXZLMnJSM19kV1FIc2tBS3pqOXVfY3UxdWRoeE5hdHFMd0ZZek5SXzZjUzFOOFhoSE93SFp4cFFiTUVISE1FX1pGRklTOGw4SF9qbnVCMVZWVDZIUThZWnhWc0g2VnZaMEhGRW50YUlwQmE5QnVHOHBzRG9JSWNLR1JZSDhEZXpNVEpaMHloUXZhQQ?oc=5",
    "published": "2026-10-15T13:08:00+00:00",
    "lang": "en",
    "topics": [
-    "semi"
+    "semi",
+    "top10"
    ],
    "categories": [
     "semi"
@@ -174,6 +1023,19 @@
    ]
   },
   {
+   "title": "Teaching students to think and learn through questions",
+   "source": "OpenAI",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUM4cS05YTJBcTliVVRXaW9CVU1tWGFWRVZPWExRMzNpSDNIM0xSc0l6czdLOFFUSFFPN0czQ0l4cG9PeUNjYWVUajlQNF9ZalNZZTJ2S09VRTlqdlE3Y283MW5CLUE5V2hIdXdMX3V6OERkSHVqTWJLWGE2dmFtdHJSREFrb3c?oc=5",
+   "published": "2026-10-15T13:06:42+00:00",
+   "lang": "en",
+   "topics": [
+    "openai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "title": "Google AI Plus Subscribers Face Quadrupled Costs to Keep Gemini Pro Models",
    "source": "Android Headlines",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObHplS29UV2RodkI0cHl4NzloelZMdEV0R1k4UmdfRkxmOVB5WWhsajdyYXZzVnRXQzNZMEE2UmRncFFWZEFoY29Sa0oyREhJcmdqejJEbTFkUy1UVEJxVDhmU2Y4R2ZKemstWWIyTi0zaEhBbjlyWlVzS0ZGYm5BR1VMa25DQQ?oc=5",
@@ -187,9 +1049,48 @@
    ]
   },
   {
+   "title": "An intelligent new shopping cart",
+   "source": "blog.google",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc1VJSVVCYTVoWGpUMVI4SU16Qld3eEluMEhQeUQtUUFqQkFnN05hcXR6c2lGOWlQVURBaElnMG1kalVwaVVtVVRGb25tZXppSE5CSXJFMFhiOW5qckdxRHgzNVE3RmhtZTVncktyNFhHZUFWb2hLT2FhQXB3d2RjZXllcXVONkFxWUUw?oc=5",
+   "published": "2026-10-15T13:05:19+00:00",
+   "lang": "en",
+   "topics": [
+    "google"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "AI資料中心五年後用電估爆十倍 RECCESSARY籲政府公布饋線",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOWHp1QTlRTVFTaWxWYVVqR0k5MnlkVmFuVFVtaHlKVjZwakVhTzRpZ3Nzd1dUcXh5YTlvY01ad241ajh1VnhfTlhHbzBJaGVrdlFLbWY1cm1KUEZ3a2VXTTFrT05Tc0FsWHBfQnh4d3I0eFRPcFRJMmN4cTlPU1NBREJ6QzU4bXczWWpETjBRU0pMNnE1NWZreVZRc1RseFJJRDJuREw3QTZOYWQyN2RhalRmWVR2Y3k4Q3RWcUh5a1Iybng0RE1iUmkxa2VBb1pkS2R5ZkQtb01vTzQwM3g0UXJkTFR6NkF1TnluQWtrdXBxOE9HZ1EyVmtWZWg2cUI1NE9mbkZhVWZ0YWdKOFZzNUNyRUxrWVZkb2NjN29fX2ZCbmNnNThyVUQ0NFFHNng2M3YtQmloQlZOUXRHWVY1ZTF2cmQzT1ZaYVJEcVJJUFFVT1ZORl9VbFNHZ2E?oc=5",
+   "published": "2026-10-15T13:04:22+00:00",
+   "lang": "zh",
+   "topics": [
+    "aidc"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
+   "title": "Nvidia’s key chip supplier has a surprising warning for customers",
+   "source": "TheStreet",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wc1J4ZFJweU5LTS1wZ0hsYkZEWkpLZTI4T052RUlkZEF6dGh0a0xZSHE2b2Vxa2RRX0N4bWtFV2E5ZGgxcGlvNmtzOU0yOUdsNkVSbjV0RGpreEppZXZYVWEtZHFvc21UZDBZOF8wek9hZw?oc=5",
+   "published": "2026-10-15T13:03:00+00:00",
+   "lang": "en",
+   "topics": [
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
    "title": "AI 加劇行動裝置資安風險 iVerify、NCFTA 將合辦進階高峰會",
-   "source": "商傳媒",
-   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPNnFnVjBlMDU5M3ZYNDFZbXdCWkpMYVJhY3VLeHFJOGxOOVVkRzRocFRaRXV1RkJab3VIcFB1M2xKYlJJVjEwaFp0NnJibXRHZFZpMHhmNHdldHhjWWl2aTRFbDhhX3BZdUI4eVFUWE93Q0lWVGxHNmM3dmd4a0NMRjlMTHZqek1pR1N3dnluWW5ManR1MDlDYnI5ZFF2ZzVncWZxMUJIc0JDTkM5elV0ekt1NG5SNW9FWk5HdXg3dGtITjFfTi1sSlJTM2dac195WEFFc1QzbzJ4TGVKQlVabEZzRTQtcXpOekpPblFCR01JbFRBNlYtNVVkSlA0T3FMc2tLOFFFWm82dFVBNnZkYl9uX1hBSnM3UEVrT3NoNXgxTWY2RjU1WWUyRHZobE1POGtVOVRsM2JDMjJrOV9HdTU3bjRoUENEOWZ1Vk54dmJ3dVJBUGZvUXdrYWRtQQ?oc=5",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNTHFHZEpsWHo5SGhUZ0pPemJzRzNQR2Jna2lHVnJ4TjN6Zl9oYWl4ZTR4NDE2aTdVM2gxTllkVDdBYzBUSkpUVFZxVjZHdjdOSDNtZjMwRXR0MHZ6WmF3TXFfNDBnQmlvTnpWZlM4d2sxTVh3VEJVZmNJMldkNENMQmIwYUl0QndueC1CTUw1aDh0eDEyTXJ5aEFxcUt6cU9Ddnp3WWZYcEdUU01ocnB6V01VdGpsd240VVFkR1BGaW9INGhRT1pxRmtuRm1VUlFHWHJvUTIwei1zWG54Z3IzaW5XTl9OQWdsQnd4bzZnVV9MelhyZTd4UG9OUlIydzhsRFB2SjNjUmVVaGMtQTNSem1DbHo5UjRZNDM2QU1BVURmT2RPMUotSkRaWkItZEtWT2JyOWp0SUY3a0xORmJtdDVDUXpaT3k5cjNN?oc=5",
    "published": "2026-10-15T13:02:39+00:00",
    "lang": "zh",
    "topics": [
@@ -213,6 +1114,19 @@
    ]
   },
   {
+   "title": "Multisensory AI model allows robots to react to what they cannot see",
+   "source": "drivesncontrols.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2EtRC1qcndJRjlFN09NYUdZTzJXSmpIMnR5Rlp2Y0ZjanYtald6ZU1MSkFJWlBWTUxXVHB2TXMwWXBuR2h0Y1FoOVdOM01jQWFCQy1fYWxQOHl0QkVLQ3FUVkNhZGY4UnFzeWE1enpXREozRVdKblplSmpBVUx1WmJxWGRnR04zc0huTm1TSzhOcjBvelNER2RfSHlIdw?oc=5",
+   "published": "2026-10-15T13:01:21+00:00",
+   "lang": "en",
+   "topics": [
+    "physical-ai"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
    "title": "Google’s new Universal Cart tracks prices on items you want now – plus 3 other tricks",
    "source": "ZDNET",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zX0hYTUZsTGtKWTVINm90VkV4eDFIdW1pQ3IwMFZrYnNOYW14b0VoSHRXLXlxbTh4X1NuTUR6dDNMME9aZnVzazYxUUExU3dWNktPZVA0bGVhdThKY0hSOGtVV0tQSl84bW1SRG03RHJWSTFNaEE?oc=5",
@@ -226,16 +1140,29 @@
    ]
   },
   {
-   "title": "Market selloff, rising rates test AI data centre deal boom",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkF0Z0d5VTdCU1hISVI0eXNTUnpGOFlXc1BwM0dHWEJ6SWs2REc1TEdFdUtQRlRYTUM4TXRqcnFYZWlldDdjQnhLQ3ZQVmdrYXVvTWhwSGRnejRLLXBjbms5Z2pRMEJVWlp5Yks5WG5Tck9ZYXJaVDk5ZGZyanhEQVJUOXJMM0hBTzRTNnVheFlkcmpUSzdadi12VmZlbGFEWjA3SXEzcnJ2TTRXMkZv?oc=5",
-   "published": "2026-10-15T13:00:29+00:00",
+   "title": "Why artificial intelligence needs human skills",
+   "source": "Capital Analytics Associates",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0ZkdXlxR1ppQ01wdnJOS1Jpd1F6WnpmVkxvWDJ1YlZHNHk4aUFRWHdqQWJlaEVBTk1HNGRkVkkwM1dhX2ZWcHpDa0V0NklhSnY3SnhBdkVkRjdCekhIZWE2ejNfV2V6YzBWbUFUUnVmQXRuRHBsbWN5V3JzRUR1MXBkOC0yTWZCbnQ4NGZhWQ?oc=5",
+   "published": "2026-10-15T13:00:26+00:00",
    "lang": "en",
    "topics": [
-    "aidc"
+    "ai"
    ],
    "categories": [
-    "photonics"
+    "ai"
+   ]
+  },
+  {
+   "title": "TSMC: Panic Selling Is Not Deterring Me - Strong Buy Maintained (NYSE:TSM)",
+   "source": "Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUEkyNDFNWUt6bldwN2NMc2RBb2tKUjlob2pGVFl2SU9SZTd4S1lOakJFRi1UbHpFQnA0anhzOGo2Y1B2YXVNSWJ6T2ZvQTZVTVVjbjNTczllcTE0SFczTVdoZU05NU1RVkVDZGs2ODctWVZSSEhKRnZ5dWZzT014UzdoZFhldlJYWXNlWTJlRnBQc0VSZEtHT29BRWRFM3VLQnF3?oc=5",
+   "published": "2026-10-15T13:00:03+00:00",
+   "lang": "en",
+   "topics": [
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
    ]
   },
   {
@@ -246,19 +1173,6 @@
    "lang": "en",
    "topics": [
     "google"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "NVIDIA's RTX Spark Is Good For Windows, Even If You Don't Need Local AI",
-   "source": "Engadget",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc2RueFRhUzFQdlZKcHlydkJfc1RveDQ1WWpleDVsTERqQVFlZjVuTnNINHV2SHB1VG5sSjN0LXp2dnVxLUMxTy1QdENrbFh0dzlMa3d2VWZ0SGk4WWRwT3pOemlZa0tyUmhGQjBnRmdfeDhDU0dYUTlBOTNsQlBINWU3eFlxcmFiMkF3aFpkWHFFWTlIaGt5aEVwdkU0VjNFa0E?oc=5",
-   "published": "2026-10-15T13:00:00+00:00",
-   "lang": "en",
-   "topics": [
-    "nvidia"
    ],
    "categories": [
     "ai"
@@ -344,6 +1258,19 @@
    ]
   },
   {
+   "title": "Dangerous Deviation Detection: Catching the Agent Action Nobody Asked For",
+   "source": "Check Point Blog",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNGS3lLX0ItVUowV3BQWWZXT3Q2V3lnaFZkWnIwcFJUS2xULVM1dndheTcxTUVHTm9sQTdnSWxwR1FhV1F4RUlxWTBjd09IaGlJOEFkWElFS0VTeUkzLXhPZzNlNXNwOWltU3ZxY1hwTVZXekhyUEl0ZzE0S2cwZGFEdjV0aGlqaGZzRg?oc=5",
+   "published": "2026-10-15T12:51:59+00:00",
+   "lang": "en",
+   "topics": [
+    "ai-security"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "title": "Get an Exclusive First Look at Google's New 'When to Buy' Guide",
    "source": "TODAY.com",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmEtVFZPNTF5cl9DMUdReEVjVUJJcy1DUU9iVUNFbjlVM2VaRDVCbUJKTUhJYUtydTBaYTBfVHlqcHJQMUFPODM0ejBld0NjaDFzLXZSUnBzY1AxejVxalBabThTTEZRaHlTd0Z5MUtmQ2Y5dUg3aHh3cnBQMFMzZ0c0THRqTUl0Mjg2eHFfZ2dGaDNYNjFPMHdISDRSUEQyd3Z1aA?oc=5",
@@ -357,16 +1284,42 @@
    ]
   },
   {
-   "title": "俄僅6週就建造「無人機巨型基地」曝光 估可日射百架「天竺葵」無人機 | 上報",
-   "source": "LINE TODAY",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSnNOb2NGb05TaFhnQU42NVF5RVZaTnJsZWEzb1Jlb1poTnljZ21PVmlYMFhYZ1JsQjBGblBWQ1NNNS11TFVYZXY2NHpCdjg4T0dlWEJ3?oc=5",
-   "published": "2026-10-15T12:46:57+00:00",
-   "lang": "zh",
+   "title": "Semiconductor Compression Molding Equipment Market Report",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3h6d1p6dGd3dm9VUjJ6WHVMWFM4cEYteXhBaEJoSU9yZVdRTjl5UG9LZ1JHaVp3TDJ6WmtaWjVreGd2bm5nZTdad1l3cW1TOVpRQlJJY24yQ19qYWJxME9GS1h6bFdHbndqYk5HejhIZTcyNTh6eUdNczcza0tNRnRpRTR0aEJWOEp5d3RKb015MlZIb0poRw?oc=5",
+   "published": "2026-10-15T12:47:24+00:00",
+   "lang": "en",
    "topics": [
-    "drone"
+    "plp"
    ],
    "categories": [
-    "robot"
+    "semi"
+   ]
+  },
+  {
+   "title": "Google’s Thompson Center Transformation Enters Next Phase As 2028 Opening Nears",
+   "source": "Block Club Chicago",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdXNmNE5mMm5xd2VjT3Y2Ni16b09nRldYekRjby1XanVVQ0NPTk4yZWVFSUlZSjEza2wwNXBRMDYxc3BEVlIwTnlTTnFwbEFkeVY2RUU1SnF3Y19kUTlJXzRqcnBQSDZCTS1ST0dtbGF6QXVMSDRuak9oR2hIbENPX3plMXZaeFZESnNKVVdJZXdINXllVEFPYV9pc2Z1MF9vMEt4Sk9qR3gwVHhTUkdQRDEzRU01c3pBQWpr?oc=5",
+   "published": "2026-10-15T12:45:00+00:00",
+   "lang": "en",
+   "topics": [
+    "google"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Can SEDG Capitalize on the Growing AI Data Center Power Market?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUtaNWJkTUhKUVFhZnRsQXZwSk00bzZCcVloUGRTNXF2QVpkU0NZTm1uZURWNnZWZmw0dHBfM3FmYTEyTjE4M1UtbEhIeWtGNXMyc1V4Z29QSnozZ2xya1VvTEpNLTJ2X3BTd0VpYzB5LXo2cEpoS2I5YnpBejhzVVY5UG9uZkhianlBYS1LNl9qdkpycG1GRlJhSQ?oc=5",
+   "published": "2026-10-15T12:43:00+00:00",
+   "lang": "en",
+   "topics": [
+    "aidc"
+   ],
+   "categories": [
+    "photonics"
    ]
   },
   {
@@ -397,7 +1350,7 @@
   },
   {
    "title": "Asian Stocks Plunge as Global Tech Selloff Deepens",
-   "source": "www.stl.news",
+   "source": "STL.News",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lb2ppS0pKNVdGMU1tdDVhUTUxNTRDZUZ3bHhHYmVlWUlldXhMcUhzUWFLOF9SRFMwTnNxM1Y5SEZWMHphakhPS3p2ZjJtRHFoVHFYWkhGcS1NVzNSN29XV2hlOUtMSUV4aFVOelA3N1ZJaFVCYV8xT3VxWjk?oc=5",
    "published": "2026-10-15T12:40:15+00:00",
    "lang": "en",
@@ -406,6 +1359,19 @@
    ],
    "categories": [
     "semi"
+   ]
+  },
+  {
+   "title": "俄僅6週就建造「無人機巨型基地」曝光 估可日射百架「天竺葵」無人機",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPMGVTbEctYXloQXBrVkwzMlRCbGxDNURiS1pZTm5kMFduU255M1Fyc1c3OHFYZkFmSXJDcDloRF9kR2pXZnNGdFd2UFphci1TejB5N3NESmJsTXQtSGZzZlVrOXJoQXZGc0VhNVF4WTVMM0xVWEF3ZnMxRlBvYkNZQ3kxVVpUVkZDZkdYNDlxOG5QMC1tblVYRjVlTThSRGhNbHZSb3BCU3JkXzZFRUd6Mk5jdWRtZmt2LXBJTlJqTHhaWEFzV21kTHNNR0t4TmdOenZDUTZVZmhVMklqYVdZeXlycHhlWVQ2OHgwZ19VZ1FuOHFCaC15Mkg1enE4cjIwSHBsemxxSF9SRnNfajQwZ2hYNmt4MHBoM2R3WWYtNmxrVHdUOU9GeUFrOFhXZ3QtQ1BjUEdqamhBR3J3TlJjRFU5UHFYMFoyTnF4TWJjVHREYl9OQm1FaHZtakRObFZVLUs1SGNUWDUxaVo1dXNMT1RmM0ZYYlpXMmc?oc=5",
+   "published": "2026-10-15T12:37:00+00:00",
+   "lang": "zh",
+   "topics": [
+    "drone"
+   ],
+   "categories": [
+    "robot"
    ]
   },
   {
@@ -435,16 +1401,16 @@
    ]
   },
   {
-   "title": "Mitsubishi Heavy Industries and Ingeteam Form Strategic Partnership to Advance Power Solutions for AI Data Centers",
-   "source": "Mitsubishi Heavy Industries, Ltd.",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ybGxPNWltdlc5aU41V0p4a2E0MTJzVGxpSTZmdDNlbnZ1Y0hJYTdBLURyWFQySFRUb1BJd1JTT3gzRWh0blFncTRDckk2VFU?oc=5",
-   "published": "2026-10-15T12:32:22+00:00",
-   "lang": "en",
+   "title": "保加利亞黑海岸外船舶遭無人機擊沉　11人下落不明",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Na05nT0FFTlplZEZ6OG1pTG9HMWV5akUzQl9NQWptSWpIMTRBbl8wMDBqMFEwZm44Qm5hbkRiQWRBRXJzWXEwM3gyN3dua05lTWl0YTFuVVZYQdIBX0FVX3lxTFB1V0xET19tTW1LOWRIaWlOTTdadkwtZFkwUDVDR00zT3hueDd0NS04LTNBVURMM0kxX29KNnZfMkhDT2EwYXNaVjZIYTNVTlZTM2FYU3NNTWlQMDNkSmo4?oc=5",
+   "published": "2026-10-15T12:32:59+00:00",
+   "lang": "zh",
    "topics": [
-    "aidc"
+    "drone"
    ],
    "categories": [
-    "photonics"
+    "robot"
    ]
   },
   {
@@ -461,6 +1427,19 @@
    ]
   },
   {
+   "title": "The Fallout From the ‘Neocloud’ Wipeout",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzZLalRKb2N6NGZSbWVpMTdZS2VFRjlMYXdfN1JwVXoxV3g4aDRQWk1JUzFnSDVrYjhRMEFZblpQaXE1RTNkaUs4WXd3c21zcnRhaWU5ckpkNG9tS2gtcVZ2YlVFbXM4MGNjMHZQeS0tSWNzWWRGZmNXWGxubjl4a0UyaWVrQUhId2FGc2kyMGo?oc=5",
+   "published": "2026-10-15T12:30:05+00:00",
+   "lang": "en",
+   "topics": [
+    "ai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "title": "A new pet feeder uses Google's AI to flag unusual behavior",
    "source": "Stock Titan",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXA4MnM4aDJkSU1qeFE5YVBUUzM0TmdGNEdpaFg5dEpHSUt3UXBsYTJJWXJmWUNQQThQSFc1Q2hCeHFaaVJRbV80b1VDLWpuYWoxU2IzUzJ5bjcwUDVSaEEtdy00eWI0Y09fTXNRSXkwNTRrM0RGR3lDclRKckItRmstdnRZRWJaMHc5SzVSWF92dklvYkVjdm4yR0h0NFZHVEZDWENjajBvUTNzcFhfNGlqZ0NIWjhU?oc=5",
@@ -474,13 +1453,13 @@
    ]
   },
   {
-   "title": "Alphabet Stock Can Jump 24%, JPMorgan Says. Why Google Can Defy AI Fears.",
-   "source": "Barron's",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91SExKR1JKUTMxSEpGTGxMYkRCX1ZIQ0wwd25pcEJVZ29pc2ZRdlZqN2N6ZHZYdWpVRV9TQkRKUGFwZk4tZFlPMmNQVHFUc25XRTd5YU9QUHVGTm5TQmpRczBYN3ROVjNnUGVQblg2akJKYVJTcG9RQnNLaUY?oc=5",
-   "published": "2026-10-15T12:30:00+00:00",
+   "title": "Building Resilience Against Artificial Intelligence–Enabled Biological Threats",
+   "source": "RAND",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zSUhkbkwweF9XQ19GZ0JlRG5feWhhdC04S0tpWU96UFp3SVVmZVM3X1doTEEwZWJwNlNIRDdKQy15dUJJNVgxVXVEZVU5UGdDYnU3N2ZQbERaVzFJd2hnNUx1dXpGQzZt?oc=5",
+   "published": "2026-10-15T12:27:31+00:00",
    "lang": "en",
    "topics": [
-    "google"
+    "ai"
    ],
    "categories": [
     "ai"
@@ -506,10 +1485,24 @@
    "published": "2026-10-15T12:25:32+00:00",
    "lang": "en",
    "topics": [
-    "robot"
+    "robot",
+    "physical-ai"
    ],
    "categories": [
     "robot"
+   ]
+  },
+  {
+   "title": "Verizon and Ericsson complete first 7 GHz pre-standard 6G call",
+   "source": "Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2FxclZxQW9nSGg4SlkzWnM5cTR1VmRiMUgydkxQd3Rtak5qYzdDOUR4b3NoR1d3bHdXbXNkM1ViV2lEZHNlN2RuNXFzZEQ4eF80LWVYU1VfQ0w2U0w4ZVlPVTUtYmE5RjYxZFBlellsQkU5NTZ1cXcwZWpmUFhIX3g2Tnc1NVlYZWRmOU1xblF1RllDNVlJdjl5eDNxS0JZcGoxeUpiSWNrS1NRbHpkRGVYUTRBa09UMzlqUVpidw?oc=5",
+   "published": "2026-10-15T12:25:13+00:00",
+   "lang": "en",
+   "topics": [
+    "6g"
+   ],
+   "categories": [
+    "comm"
    ]
   },
   {
@@ -539,32 +1532,6 @@
    ]
   },
   {
-   "title": "台積電：CoWoS仍是客戶首選已實際量產5倍光罩尺寸| 產經",
-   "source": "中央社 CNA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HYUhpRV84Qk9QakRqQUd2NUhnQ25lV0JXSzB5dWZWQnNOLUZHdDBhbFVoLUVtVkhYcnJuU3l6YjVrVENldFprVWtRRlhmM1o1RzZsTXFUWG1RM050S0E?oc=5",
-   "published": "2026-10-15T12:14:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "cowos"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "Verizon and Ericsson complete first 7 GHz pre-standard 6G call",
-   "source": "Investing.com UK",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVZ2ZUZHUGpvZkQtZlRlQzliR0p6elRFTGFZek1lQXNQUnJ3WFhKaEFtMlZ2Y1dkenlwbGRwamJ1aElJMVNGS2tqNng4RTRseVpLY0syWmhsWjNwUlktMklnc2szR0E3Yy0xMnJFLXNaYzR6dE1DZ0FwaW03VUJ6Y0hVUGY1TnRnSVNEYXZieFZnS2hfS25zalNDcFZkd3pwLUZOSmUyYVFac1BVSnNFamJ4RHdPaktqNUhiRmpaRQ?oc=5",
-   "published": "2026-10-15T12:14:00+00:00",
-   "lang": "en",
-   "topics": [
-    "6g"
-   ],
-   "categories": [
-    "comm"
-   ]
-  },
-  {
    "title": "Wall Street is 'tiring of the Bank of Nvidia, the Bank of AMD and the Bank of Broadcom': Baird's Mortonson",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORkdyc3Y4YW9yMy16ZURxa09KMnc4Yk9YelpKVHpmNU5EcEpBODJKNXJiOE9jU1hkMnFFckNRbWJoVHRZSDNfOVg2WHpBdFlTSHdYV2VUcmxYeGUtR2Z1Zk95X09NVF84dFNaWHM1VWJIVDJud0ZJUmRSMFpfMl9lYkJCOWNUa1VRajQwQlNOU0gteml2Vlk4ZVQyNE0xX2cxOG5nQU82eW1iUXRBcnVBZEdxRjZsanlhQ2JsbW1jdkp1bmN6blJVYlRSYzMzbTRBMVJfYl9iRy1XWFcxeEJYRmxxLUxMalFyRXk1RkpqSQ?oc=5",
@@ -591,19 +1558,6 @@
    ]
   },
   {
-   "title": "How Nvidia Could Stop the CoreWeave Panic",
-   "source": "Barron's",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5",
-   "published": "2026-10-15T12:06:00+00:00",
-   "lang": "en",
-   "topics": [
-    "nvidia"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "中華資安獲利／自結前三季獲利3.56億元 與營收同創同期新高",
    "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hTDU1a0lnUzdpXzNfT01FSmR5dTloVEVWWE8yRlQwQWVWa2dYNVc4XzByc1ptd2hWdzJEb1Iwb2ltd0E2OTRTbTZGcUJsSHY40gFWQVVfeXFMTTlGUGkyOTNTNjNCai1rWmE0WWpib2h5RXpTajZXZndicDVNdnRxNThLbFJrQ2lMaE9xQlNuNUMzX0NqWldwR2s2b212T09JRjQzNkVHa1E?oc=5",
@@ -614,19 +1568,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "title": "iDEAL Semiconductor Signs Distribution Agreement with Marubun to Expand Access to SuperQ® Power MOSFETs in Japan",
-   "source": "Democrat and Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWHRDd1B0NzBQRFJYNk1YSVJVTFl2RV9lMS1GcTVWcEZpdWl2MHkxcFlkak13WDlObW9mU0o3cWhTU0lSVzhyNmZ2Ql9PbHp3NFhsU3lKYzJBdjlSM2YxRTdDc1FORnFOTy1YVHh2X3dwdldTR0VzRjFxQTloYkdxcV8tTGlQWUdTcHB1UHNpLVlkcUJYd0k2MGtIUkZqNWJya0FodklhUGJEYnVCcDR2V2hJbk1GTGhDcmZMRjZpbl8xTFIwaEpNSkJCY3BCVmRkVDJUd1hqX0h6UnFkcG1SdWN4OHhHZUlWemt0TjMwUGR2ZWxTd003TFN5STdFNUdtb0NOdXFGWQ?oc=5",
-   "published": "2026-10-15T12:05:38+00:00",
-   "lang": "en",
-   "topics": [
-    "semi"
-   ],
-   "categories": [
-    "semi"
    ]
   },
   {
@@ -645,7 +1586,7 @@
   {
    "title": "汎銓矽光子設備明年拚出貨10台 法人看EPS暴增逾2倍、目標價750元",
    "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aRlc3SlBSWjRnV3BBNGVaRVRhSkh4MHpuZl9SVW5ZZVFtd05WdzdtT2xwamMwY1NFU1p3NWR4MDhBT0dSczlyN0tJZlh1czJ20gFWQVVfeXFMUFQ3QUIwZkZFNVFLNm5WTThvRVNIdi1nRjNMVmFtcjg5Zk52UDBQa1Q5bGpWcFVuSy1rWDJpd1E5Ui1WN2RERU10OE5HSnJDTlhCRkxoLWc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jQXZhT09Wa1RGNkYxNEpTOVE2V29BN3AzaHZvSjUxazAzbXFfWjUzaHlTUHVuN0wwLVI3Tk02c0J4S09SQkY3MmxJSlVqSEFLSllGNnV30gFWQVVfeXFMT2NBdmFPT1ZrVEY2RjE0SlM5UTZXb0E3cDNodm9KNTFrMDNtcV9aNTNoeVNQdW43TDAtUjdOTTZzQnhLT1JCRjcybElKVWpIQUtKWUY2dXc?oc=5",
    "published": "2026-10-15T12:00:32+00:00",
    "lang": "zh",
    "topics": [
@@ -653,19 +1594,6 @@
    ],
    "categories": [
     "photonics"
-   ]
-  },
-  {
-   "title": "Lyceum Project Leaders Talk Corporate Funding and AI in Education",
-   "source": "The Harvard Crimson",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1ZmlHNWlUSXNPaHJVemhDYWNTYjNIdE1uM0RwSXRKbXZuY0tzZkdBMU1HdmdrLS13OTZVd0pyN3pIS2xDOXdSTGYyanBkbFgwODVOX3N5QVZSUkotUlg2ZUNTbUkzWWJHd1BRUjNHV0JQQlZ0R29qUXBoTm0?oc=5",
-   "published": "2026-10-15T12:00:29+00:00",
-   "lang": "en",
-   "topics": [
-    "ai"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -679,6 +1607,19 @@
    ],
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "title": "TSMC Reports Third Quarter EPS of NT$29.43|Taiwan Semiconductor Manufacturing Company Limited",
+   "source": "TSMC",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53WTNKZC1rRTNpMk5IYXZOU2J1REhGZXdqNkduVDg2YVJvSHRVdHAxWlJGSldYTmJDVlZEeXhFaU9EU1V0T21fSzJYQ3NsUQ?oc=5",
+   "published": "2026-10-15T12:00:00+00:00",
+   "lang": "en",
+   "topics": [
+    "tsmc"
+   ],
+   "categories": [
+    "semi"
    ]
   },
   {
@@ -696,8 +1637,8 @@
   },
   {
    "title": "Verizon and Ericsson Accelerate 6G Development with World's First Outdoor 6G Field Call",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMjhNNGQ5bjc3ZFctUnlxOHQ3VWF0UmVzdEJqVkY3dGI2NlczaTl0NUVSMFlPdHJCYzlXRjdDdXF6SVdRcEtPMmhCOHAxQTI2WDZRYy0xaDg2Y05sLUowMGhrVmVFYzJOYWNmVnJPak0zaXBUNnE0ekFCMEx0Q05tQVVKZ1VKN3BkY1J1b0pzcXdHRmVDbDdxa2NIZmwtRnZfSGs2dG93?oc=5",
+   "source": "PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3VQLXZoNFhlSUVzbTVpNVo2VGNDaWtTYTlnMGRuNHpRS3plUWRfR0lBLWMwTktfU1FQUm5FWlJRd19NTHl2Z2pXQ3lqTC13SzVYX2Rza2tfVG1MSmFVV2J1ZkxRdlNZd2lELWJqWVFHUmFMaEZCaHN6LXA1cmFUSHFaSVhQQld3MlhvRVBxZzNmbVdZTURIVnB0WldYb2tWdUozRTNMdGZEaUk2eHF0ZWpScmxRRW1LVk1iRkpfSzJPWDd1TE1heUg5eGVNY0ZlcXNFTEVBZjduQQ?oc=5",
    "published": "2026-10-15T12:00:00+00:00",
    "lang": "en",
    "topics": [
@@ -721,6 +1662,19 @@
    ]
   },
   {
+   "title": "Microsoft May Abandon its Clean Energy Powered Data Centre Targets",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFhpNlpmQTV4bzNWX2RCU1BWYXlkSjJlcW1UWTdSTlNxYnhwU2Qwa3N3a1lyRzV1Z3VZQ3AxeXBVQXB4TUMtWTlzb1hJamZtV29XU2tVdVM3Y0ppNEFWTVh1NjUtbmowYi1aYjhPN0hMUjhjR3R4ZDV2a2RySGRuT2VKZWJHa0NMei1mdjV0aDAwMUY2OFl0ZHdaam40dw?oc=5",
+   "published": "2026-10-15T11:58:08+00:00",
+   "lang": "en",
+   "topics": [
+    "aidc"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
    "title": "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
    "source": "Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWhOTjFpcTVfa2ZENDN6UnU4MkJmc21SWW4xRkt0Y1dSNGxZRHNNTjhCYUZ2MEU5X1M3YU5hczRoeWpSdGdmcTZNcG40QUFycklCX2wxRF9sbzZFNXQwbWtFcU9OS1FGS2UtYlREMzIxVGZYaFdfYzNnSFpOcWdNeWpTT3dSaHQ4RjN1eGFsX2ttSTFqYXdxdE45aTBvck5uOW5OV2FPbXV1VklPazJZOUZEd9IBuAFBVV95cUxQc3NEVXpEU3hFdUNmNXMtVmluTDBVUjhUTGx1MS1ud1VWMmVkQ25PdmkwcFV6T0g0ZTkwaTdJZkYwS3RfT0xEUnozeDBKa0ZXNEtMTk1pVzA1dEpJZ3htRWltOTg3TU0xTm5RQm5xaXhnWl9FQTdvTGxvZmZDZ0FrdVJ3REkxREJUdUpqbkFxZ3lIdU1PekJEckxHVlYtWElKSlNsWTdadS1jM0Q1VDFUVU03Uy1xbGwz?oc=5",
@@ -731,19 +1685,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "title": "US Regulator Makes ‘Interventionist’ Pivot to Speed Data Centers",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnd3WmlXcVpnQ1UtYklyTGl4V3pZMVV4cjRXLW5VcnhWcjFTZDBfb1FDZl9qYUp6U19JV0lSb0Nac0YyYXNmUFVMaXNPUlU2ZmFUSjJsLVBYWjRLTS1PaW9XZ3h4Yng3YTM4ZW5kd0xKcnM1ZWdmbzItVzhHcWRiVUNpT2NncTZ3TWFqWTRzZ2hLSFkxcGJrag?oc=5",
-   "published": "2026-10-15T11:54:34+00:00",
-   "lang": "en",
-   "topics": [
-    "aidc"
-   ],
-   "categories": [
-    "photonics"
    ]
   },
   {
@@ -799,23 +1740,22 @@
    ]
   },
   {
-   "title": "TSMC Reports Third Quarter EPS of NT$29.43|Taiwan Semiconductor Manufacturing Company Limited",
-   "source": "TSMC",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53WTNKZC1rRTNpMk5IYXZOU2J1REhGZXdqNkduVDg2YVJvSHRVdHAxWlJGSldYTmJDVlZEeXhFaU9EU1V0T21fSzJYQ3NsUQ?oc=5",
-   "published": "2026-10-15T11:50:19+00:00",
-   "lang": "en",
+   "title": "平均年收入近1億！OpenAI 倫敦員工薪酬是英國全職員工中位數的58倍",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tLTl6ekJCQ0g5SGc5N3hCQjFuNEpnR2RnMVo1cGtLaW1CaU16dHFwd0NBME1Td1JEaEFxOFIwbHp4NkRZeWpOcVNZdlFzWng1REhkQVdoZlBjZ9IBX0FVX3lxTFBzR0s5SmM4aWY0STJqRTAwTmVKQkFTZ3k2WUxma3FPbW9MN05DZW9jVURZNlRfVG1BVFFPUk1abFRaLVdhd1JJZk9SYVd4cHZOVFJJZ0FuY1FrbkdfMVVr?oc=5",
+   "published": "2026-10-15T11:47:56+00:00",
+   "lang": "zh",
    "topics": [
-    "semi",
-    "tsmc"
+    "openai"
    ],
    "categories": [
-    "semi"
+    "ai"
    ]
   },
   {
-   "title": "平均年收入近1億！OpenAI倫敦員工薪酬是英國全職員工中位數的58倍",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44WnNPQmtfNTJVWTZtVUxvQ24zOV9PT0lIZ2NGemxzWGw5Z1FzRF81QzJ0WGJGZ3p4QjVVTENUQUtCOUlPNGV1ZF9QR2NwZU9Gc0J4UEJELUZFbDhzVlNLSTliaFI2ZVU4N1B2WDlUejd6YXJhN2tPUjRySQ?oc=5",
+   "title": "平均年收入近1億！OpenAI倫敦員工薪酬是英國全職員工中位數的58倍 | 國際焦點 | 國際",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaV9SVXpDeFR4bktoLTJCRmdmYXVLbjZ2Qk1uVUo0QmF3YnpyV0RlSjRZd3RzUlppSm9wRkQ1Q2JybjNrdnY3MlJUWk9pWFhDdlpPTlRnVnFQREhtOWxRdHVrTUJLazNmdEplZWkyR1Jrb2t0U0s2bVhIWHZEM0tibVN1V0FCMV8yd1UwaDlKS3k?oc=5",
    "published": "2026-10-15T11:47:56+00:00",
    "lang": "zh",
    "topics": [
@@ -852,19 +1792,6 @@
    ]
   },
   {
-   "title": "Nvidia CEO Jensen Huang urges AI safety dialogue with China",
-   "source": "Quartz",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oR1BWcUU4WE5OYlZxV25NNWI1RFNIdFNqcEtmTTFRdnNDU1doWUJpMEkwdFRNNExpQmRuQ09ORXB2M1JXbTFRWm4yV1dMRUV1R3hRcTBYcExxX3VqenRVVXZRV1BRSGVnT2ROYVBIc04yQmVM?oc=5",
-   "published": "2026-10-15T11:45:08+00:00",
-   "lang": "en",
-   "topics": [
-    "nvidia"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "Photonic Packaging Market (2035): AI Data Centers, Co-Packaged",
    "source": "openPR.com",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGNnWXl4T19xc3dZUEF1cG5qbXduZmRoR0M5cWlrNHNKaGJKRElzYW00dzV2YlplTWZaMlJUNlRBa0VVRWlzY3kxLW1fWkJVclpGT29PRW02V2JnTi1rZF90dnFrNXFSYnpDc3kyU3dvT1MxMWNOVVNDanNCTHZqb2lKZEtmSHFZRVJGakRhaTZZd1ZrMlc0dlZB?oc=5",
@@ -878,16 +1805,16 @@
    ]
   },
   {
-   "title": "Taiwan chipmaker TSMC explores Texas investment to expand production in the US",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFN3TlM1Tl8tTkNHd2R6NXQxdmtXcFQ4OFdFYUFiVHJKMzZhVzZULTQ2NkptSUktdGY1ZmtRNnJ1U0ZpQ1dVX0xYS3lLYkQ3eXgyeTEyN2ZIOXlIazNqb1ZETVNSdFRnRW9CUkpqYTI3OXp6ajU1cFJkVENnd1JpRUIxcUdoM3J0Wml4OWp1MFFpMnBTV2duZ3d4WXI2QTN4QVJjY2lKYV96OWNsYVp5cDNjdHrSAboBQVVfeXFMTUhVLUdDRTdZSjVfcGJfMzFtWFR3N3VpdHBySnhINVhLMDZZSC1ZVzhWNkVWZ1pyTVRhUFFzWHhiSDR3TmJmWmVJTllEd3FRazEycnZQRVVWeTlqYV9zUmljZmh2ckd6N3pFWlZOWE1UQW03c1k3cjN4VnhUM21ydUl6eEhFWU5MeHlDcDBXUUJSQzBaTTFCOWN1NzNsbGtFMGxzRkNHZmk2WmVZLUZ4REJSalNBZXVfc1N3?oc=5",
-   "published": "2026-10-15T11:44:06+00:00",
-   "lang": "en",
+   "title": "新漢：2026年為AI機器人試產年 下半年控制器量產可期",
+   "source": "自由時報",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94Tk1Nc3R3bGU5V3VKanJrQzB3WkxQa2ZOamxLa1VzTUVDMjF2UWNzNXFyOTJyZWVhbW1TZ1p1MTlMRXp1NDc0VGNKQjZFNnp5TEc0Z0tLVmk?oc=5",
+   "published": "2026-10-15T11:34:45+00:00",
+   "lang": "zh",
    "topics": [
-    "tsmc"
+    "robot"
    ],
    "categories": [
-    "semi"
+    "robot"
    ]
   },
   {
@@ -927,6 +1854,19 @@
    ],
    "categories": [
     "semi"
+   ]
+  },
+  {
+   "title": "Anthropic Claude Code: The Best Inventions of 2026",
+   "source": "Time Magazine",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zeG5NYzBRNWxXOFREaGl1dDh4STVtN1ZqLVBhd29aLVdQSm0tYzAzaFVlS2VQMUIxcm1XMXFldFVfbVRfdU9jV1NXZ1RBT09PNmpDdlJNYXJtcjFxQVpxeGN3bTBGVWpmXzhuZXh6QTExYUFhXzlUXzZfZw?oc=5",
+   "published": "2026-10-15T11:30:24+00:00",
+   "lang": "en",
+   "topics": [
+    "claude"
+   ],
+   "categories": [
+    "ai"
    ]
   },
   {
@@ -1021,6 +1961,19 @@
    ]
   },
   {
+   "title": "金管會調查：使用AI的金融業生成式AI導入率達76%",
+   "source": "台視全球資訊網",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXdjNXZneDlBeTIydmlzY1AwcXNrY1JSOG82NmZTbWpzZ3JsSWF5OU5ZNXIwRS1TckQzS3BlcWZJU29UWTNMMjVodUExYkNwT3FQYjlYTUh4RFV6TGF3M1REVFpNaFFZZ1FCNVhYS25YQjZHNFUyRG1PcUV1dVFwaTk1aUxLSHFzcUZPQWtaZm9KQQ?oc=5",
+   "published": "2026-10-15T11:20:36+00:00",
+   "lang": "zh",
+   "topics": [
+    "ai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "title": "ABB Robotics brings industrial-grade physical AI to fashion logistics",
    "source": "ABB",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1RSSzNUeHVBM2F4bnQtLXVfTDlHNHkyM3lsTTl2S09DbjZzZzZhdUp4SE1oVjBCY29HYm9yVEhRVm9vQTNuTUR0UGU1SnBhVWp5R1BuUjAxOG9rTUlINlB0bGRFTlVHWDJFVFZocmVqSUdCakt2bGtQRjVvY19zN2x6S195czYyMXhwNTJIRWhQN0c4QXlYSTZzUlpTTUFMWm0xa1ZXcnBIcU14SVVwbmVSSC1ST1N3?oc=5",
@@ -1035,19 +1988,6 @@
    ]
   },
   {
-   "title": "金管會調查：使用AI的金融業生成式AI導入率達76%",
-   "source": "台視全球資訊網",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXdjNXZneDlBeTIydmlzY1AwcXNrY1JSOG82NmZTbWpzZ3JsSWF5OU5ZNXIwRS1TckQzS3BlcWZJU29UWTNMMjVodUExYkNwT3FQYjlYTUh4RFV6TGF3M1REVFpNaFFZZ1FCNVhYS25YQjZHNFUyRG1PcUV1dVFwaTk1aUxLSHFzcUZPQWtaZm9KQQ?oc=5",
-   "published": "2026-10-15T11:19:13+00:00",
-   "lang": "zh",
-   "topics": [
-    "ai"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "日本資安論壇聚焦AI威脅防護 專家齊聚分享經驗",
    "source": "蕃新聞",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SVWRVV1NVVFhyeDFzd0liR0xIN214bC1GSGs2SE50dWNjQ0xzWlZ4U0dod3lfWUtjVnNoaGluYy0yNTh5V1U1QVRjNjVCaVp2Mnc?oc=5",
@@ -1058,6 +1998,19 @@
    ],
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "title": "The Ocean Might Be Next Frontier For Data Centers - But There's A Catch",
+   "source": "BGR",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTMGp1NmRqTUlzd2hsTG5vdlhscDcyN2V3aWZmeEpsVzNvdGNsd0lCYjVlWVc1ejU5YjRZUjh0LTI0OWlrdk9CWXZ0WWs0NEVrc2dsWHpraU11V0ktT1JWdzdybkQzR0NDUmtuQnVMakg2aDlhLVE?oc=5",
+   "published": "2026-10-15T11:17:00+00:00",
+   "lang": "en",
+   "topics": [
+    "aidc"
+   ],
+   "categories": [
+    "photonics"
    ]
   },
   {
@@ -1087,16 +2040,16 @@
    ]
   },
   {
-   "title": "台積電法說開始發威？台指期夜盤翻紅了 但ADR盤前摔1.65％",
-   "source": "自由財經",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54MGVFYktRMWNSM0Y1V0k4Sll5am5nbENfYUk4SlhSQ082b2k0eGZXN1JiM1lSRlRROG1QV3BFLTgtSWVUVGRheHc2SzlSMWRvYVRZRjJqWWJzNkI3WEw40gFkQVVfeXFMTnkxX09Gd2pMUjNmT1djT3lIX2gzQmVQRFZORXdwNHMxai1Da0x2SEhsUUVPTHpCRUNtZjhnTDVhd1dDS2ctOEZQekV1eHk3bkNqNERJdHVQSWNZeUhYZzZLMzFEdQ?oc=5",
-   "published": "2026-10-15T11:14:50+00:00",
+   "title": "無人機「生老病死」都想包！AIT牽線世紀民生簽3份MOU 賣機也賣「剋星」搶攻東協",
+   "source": "鏡報",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2QnllNkNxUGpZcndDVWYwZ0QwVkdqT05menFaUGY2YVFlMkIzN0FZTkZNemZFUnRQUTAxSVBnWFdsY1IyNmxLUjRMR004dTNDZVE?oc=5",
+   "published": "2026-10-15T11:14:00+00:00",
    "lang": "zh",
    "topics": [
-    "tsmc"
+    "drone"
    ],
    "categories": [
-    "semi"
+    "robot"
    ]
   },
   {
@@ -1140,13 +2093,26 @@
    ]
   },
   {
-   "title": "OpenAI總裁布羅克曼：資安支出應遠超軟體支出",
-   "source": "BigGo 財經",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WdnNrUW9YWU9WUWcxcTFZekEtb2ZadWFPV25nNlgzQmNsckJScmx4dER4VmxpOTBGdFIzYzB4c3c4TS00eVZydXptejFxTGpFNXl2YWRuNGtPbk9wWW44?oc=5",
-   "published": "2026-10-15T11:08:00+00:00",
-   "lang": "zh",
+   "title": "iShares PHLX SOX Semiconductor (SOXX) Adds AMD and INTC on Tuesday",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkJDRFFsdmRTaGl1b25hUDVvNEZnRHFSZHd1TTcwWUFRUzYxZVBqeVhfd05neERMd21ZWFBZYzVMMDRvWkNvaVBocmNFeVhkQ0VMRlk2WnVsMGpuY09QRF90dlg2YkRIdmVTbkJMUURCODdBMWRBdjN0WTFLbXFFTTMzYXA0WjJZNUxWUzNNY2VhODNOMElmNUw2cnlFMk1HYmc?oc=5",
+   "published": "2026-10-15T11:05:47+00:00",
+   "lang": "en",
    "topics": [
-    "openai"
+    "semi"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "AI Coding Agents Spark 49% Jump in PR Merge Time [2026]",
+   "source": "tech-insider.org",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkVFVi0yVHJKLW9BbHU0Qkc1U1R6YURGUjIxeVNwbXRuY3I3VVQ3UXNGWUd1NWJ3eE51eS1VZGtYTlI4bVJfbjZCSFpHVmV1ZHMwZkhyR2l1alJVeG91OW4yM0ZyYVZvcnhrWGxHaENaMk55cTRnUmFPTjhiV0ZWYg?oc=5",
+   "published": "2026-10-15T11:04:32+00:00",
+   "lang": "en",
+   "topics": [
+    "claude"
    ],
    "categories": [
     "ai"
@@ -1192,32 +2158,6 @@
    ]
   },
   {
-   "title": "Harmonic Security bags $50m as boards demand AI proof",
-   "source": "FinTech Global",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRHlPal9kdGE3OVZkWnV1cVRqcGk3MnZpZDZMa3pNeUZaZUtGamJNTlJ2ZUVLTXhfY0hqWmJzMGtXTTVmYW95ZHdHY1lnaEFYblBfTVFQNHo3TGxNdk55eUs4RU9RZVN4RjI2bVRRNzlfbnkxdndkenFTWTJ3ekZaUU5uSUVuT0MyVVVfdFpqSjM?oc=5",
-   "published": "2026-10-15T11:01:50+00:00",
-   "lang": "en",
-   "topics": [
-    "ai-security"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "The Other AI Jobs",
-   "source": "The Atlantic",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jRFl3Rlk2SGlfbXV3MXVrTXliQWt4bF9vZV9JM012Z0tfT1hXdjlWZjQ1X2JJN2o1RFo2dGdBUm9uSVJZSER5NU4yOTdHQlpTdTlNU0NoU3BnM2dvRWFVTTdyaVpfeTJKQllFZHFKOERTUXhDMDZCbw?oc=5",
-   "published": "2026-10-15T11:00:00+00:00",
-   "lang": "en",
-   "topics": [
-    "ai"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "Anthropic’s AI worm research raises new fears about smart device security",
    "source": "Scientific American",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFYtR2M5U2ZLTHJRamRPMk1UQm1Lb05jWjdTRUJCVEdJZnRRQ1p1ZzREeGZ3MGpoSVBHNTAxcUpfNGxBT01kVFVJb1AzXzVqZjNvTUZWc09WMHRFQi1NcVZsWnBDeGdoRVZtUDVsUTBDb1NUWEREZnV3SGRVWVdnaHdfTElaX2JvV21XYWdIcWRUdGxnR3Y0c0NaMU40NU1aa0g1VnFfSGZzMnVRRi03d2RPblRGOGc?oc=5",
@@ -1257,6 +2197,19 @@
    ]
   },
   {
+   "title": "Anthropic 也要培訓「前線部署工程師」，目標訓練萬名「AI 傳教士」將 Claude 切實導入企業經營| 科技新報",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13ZXcwY2VHUkFVRjRxSk1PRndtYktPZlBWRDFScDlHUm04Z3hneGxsSG1aazJiMFpZZEdUNl93V0ZCZWZVM0Jyank1ZVNRUUV0WlZTelpB?oc=5",
+   "published": "2026-10-15T10:57:52+00:00",
+   "lang": "zh",
+   "topics": [
+    "claude"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "title": "Google最新Gemini 4 Argon擴大開放！能做什麼、誰能用1次看",
    "source": "自由財經",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nbEt0RjIzZUgySGVEeVNwZE9JWEV5LThEU2hnX0RQS1NBNFdSdERYV1VJOF9aV250cjBfaTA2VDlvWUREUkE2eFRMR1hsb0h0aEZaSXRyYWhWMmZKTjd4aXd6NGvSAWRBVV95cUxNZ2xLdEYyM2VIMkhlRHlTcGRPSVhFeS04RFNoZ19EUEtTQTRXUnREWFdVSThfWldudHIwX2kwNlQ5b1lERFJBNnhUTEdYbG9IdGhGWkl0cmFoVjJmSk43eGl3ejRr?oc=5",
@@ -1270,16 +2223,16 @@
    ]
   },
   {
-   "title": "Taiwan Semiconductor Sees Sequential Fourth-Quarter Gross Margin Decline; Issues Upbeat Revenue Outlook",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXc0cWZ6ZEtoTW5tRk1aR0tWcWZVbzNxWDY0TnNCeVhUOTc5SEUybUF3RzYzZm9BVlpWTFZBMFVnOFBuVUczX3ByQzBQVnUtbnNZM3pRQjFLM2loX3BWU0xfVEFxOEdBWkhWUDhMN1dhaTVYYlZjdHppMjZoeS13TFVScWFndmRiREJnamY3S3lXOGJ0UHVKTVkweFVPVDN2X2ZPZkhLckFYcFU?oc=5",
-   "published": "2026-10-15T10:53:39+00:00",
-   "lang": "en",
+   "title": "AI 算力霸權下現金流大洗牌，摩根大通揭大廠資金轉移力拚輝達喊出 4 兆美元榮景 | 科技新報",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZQ3M2djdUem14a2VCdkxraERrS1lSY0hLYmlHWFRaX0s0UEdBY0U0WExvTWo3eExBUzRrTnFfS01GLWszakh3Z0JxT0FSYV9Ockx2dmFB?oc=5",
+   "published": "2026-10-15T10:55:32+00:00",
+   "lang": "zh",
    "topics": [
-    "semi"
+    "nvidia"
    ],
    "categories": [
-    "semi"
+    "ai"
    ]
   },
   {
@@ -1338,32 +2291,6 @@
    ]
   },
   {
-   "title": "印永翔專欄：台灣經濟的兩種力量─半導體拉動產值，服務業承接就業 | 印永翔 | 評論",
-   "source": "風傳媒",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83TFU5ak1IRHpnenZiVkJpaWQ5ZHRUNG12OUMtSEpsUllJdEp0cU1Zbmxzck5zRnJXTW9sZXY5MFdyZEpySGtZN2VPNmhRZw?oc=5",
-   "published": "2026-10-15T10:42:53+00:00",
-   "lang": "zh",
-   "topics": [
-    "semi"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "Bank of America hired 1,000 security consultants to address Mythos-spotted flaws",
-   "source": "IT Pro",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSm05QXNDQVJCbVVvbmZ2d2RrVl93a2NKWHIxay1na3dnTF9aenBsTDZlNVM5ZThmYUEtNzJSaTVzcTh6SXZoejdDdF92cm9ZMXVfNGpFVS1za2tQRGQ0V1M2emJsTXhhVnBENUtpVVRmTE9OUHVtUmMtLVNzXzVlV1dLSlZaNHZ4emhPdUdMX0FnOWhNWm43eWc4aGprZHNoMVZ1Nk5QZWhFYjNPWUd4bU8wWkFjbm9DNjRtdENGczdWeUE5UTZZcXpCR2pKbTBTcGdz?oc=5",
-   "published": "2026-10-15T10:42:29+00:00",
-   "lang": "en",
-   "topics": [
-    "ai-security"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "Schneider launches digital switchgear in Argentina",
    "source": "https://megaproject.com/",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0NHWmtTaGxDTWRSclJwUldqZ1VzSzM4R09CcjZJMUlvMHlOWGphem4tckR1Yy1wSG5TREd5Mm9oczJPQ3BtYjhpN3pvRGQyb1hoeTVJSVY5R0trOEtJdnluaW03OXBLLV9PTGJLVlBTcUp5ZkZLdDNlMkV0OWFjRFRYTnhyQUVWck92clhfaUg4UnRY?oc=5",
@@ -1400,45 +2327,6 @@
    ],
    "categories": [
     "semi"
-   ]
-  },
-  {
-   "title": "Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today’s Market",
-   "source": "Barron's",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKbzlPNVFQSmNkYlRIUHpZLWhEUU5iTWFBNUpNakVnd3g0cjlBMEtCQURpcTg5WnRuRUFvdDdtZl81MU5LMGxnUHAtQS1kMS1zOU94Q1JEVC0tNXdrYW90OVl4Sko?oc=5",
-   "published": "2026-10-15T10:36:00+00:00",
-   "lang": "en",
-   "topics": [
-    "tsmc"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "Chip Leader TSMC Delivers Beat-And-Raise Third-Quarter Report",
-   "source": "Investor's Business Daily",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1TbG85Y0hNQkxYR3pFRDV0UWZPVG5udjJxekd6RkNJWmlBX1Y0T2NnSEF3V1Q2VXAwNGZleWxwRC1DakxjZmZha2V1Q2J1cFNqdWRLek9fQlI1R010Q3NRQ3pYeE16WVY3dUVuUkRyQzhkeHYyb0VVSVhaWWJMT1BrT09Fem54Y2NQRVhjbzNqX1FHRzZOeW9JSQ?oc=5",
-   "published": "2026-10-15T10:36:00+00:00",
-   "lang": "en",
-   "topics": [
-    "tsmc"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "Hebi Robotics CEO: Humanoids are ‘more cool than practical’",
-   "source": "TechInformed",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1NLZG0tN1BMZU1zMVdwZVV5VDAtZERBMjg3RFc0WGYxbXd5MFpLQUY2REtFa0gzR2ZZd0xYWkJvNHZqUEY2c0VlU0VlMkZyLXJTWk9QWHhwY0paMzYtZzJZc2EwY0V5MlR0R1RmZWU1OVVfUDVOajA5a3V6dy1zT0syVXFqeUNQcmc?oc=5",
-   "published": "2026-10-15T10:35:26+00:00",
-   "lang": "en",
-   "topics": [
-    "robot"
-   ],
-   "categories": [
-    "robot"
    ]
   },
   {
@@ -1481,16 +2369,16 @@
    ]
   },
   {
-   "title": "\"Data Center Alley\" in suburban Virginia may be hitting a dead end",
-   "source": "Marketplace.org",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzM0dC1ncDZidVZhUEVZYnA4enNMdEh3RVo2ejVKTFU4TFFMMzdkWUszNDN3YXBtcUlBZ2cwX0ZQbnpyWG1wUndQR0lqZi1tUGdMZi0tRVpjSktibEZ4MkJGdThhQkVZZ3hjOEpuSzVEZG5vUG5iMXZyQXc1elBuMWc3eDNFRVBOOWJhQVNINmpfQWM?oc=5",
-   "published": "2026-10-15T10:27:00+00:00",
+   "title": "L3Harris Kicks Off VAMPIRE Anti-Drone Weapon Supply to US Army",
+   "source": "The Defense Post",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vNUJZUUFnTXpFXzI3WF9Ka3JaeU1DdkQtUkdFRzU4SkNYT1VnRjlkQzcta3Y0Uy15SFJHaDNLeURxZEV6VjFVTHA5Sl9CTVdrYUExYVQyOGxsemxrWFFHU0xudlhFbG93U2RxTmF30gFzQVVfeXFMTUJ3ZGc2d0RwdWtmdEx6dDlqTUxoOW5ySDNWcE41RUltckpTc0VUM2ZSQ0djaDhNVkp0eUtiUWhfc3MyVkpWblpua1lhVmxEaGd1Z19PYkVBMWdUWWtYSFM2RWcxcldTNTRNY3o2eFBLOFo5Yw?oc=5",
+   "published": "2026-10-15T10:24:56+00:00",
    "lang": "en",
    "topics": [
-    "aidc"
+    "drone"
    ],
    "categories": [
-    "photonics"
+    "robot"
    ]
   },
   {
@@ -1517,19 +2405,6 @@
    ],
    "categories": [
     "photonics"
-   ]
-  },
-  {
-   "title": "The Nikkei Crashed Nearly 5% Overnight. Will The NASDAQ Follow It Today?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVV1bndERllzY3ZlYjQ4Q05VRTBoY2JYc3Myd0lhUFR1RmlxWU9JQTZOMW1ZeUx3aFUwS3lMLWxpRVZ0am1YbTBTWTlNMXRpejBnYmtXZm1NVGIwRUJYYVFHVUYta3NpRkNyaXZEbm9MTGFzY1NUWm1aOUVxX3YteHlUdGdlOUlOV0x2ZWFqTU0xUGtjMnVYclhoMGJBeXIzX2EzbU1QWVI?oc=5",
-   "published": "2026-10-15T10:19:39+00:00",
-   "lang": "en",
-   "topics": [
-    "top10"
-   ],
-   "categories": [
-    "semi"
    ]
   },
   {
@@ -1624,19 +2499,6 @@
    ]
   },
   {
-   "title": "L3Harris Kicks Off VAMPIRE Anti-Drone Weapon Supply to US Army",
-   "source": "The Defense Post",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vNUJZUUFnTXpFXzI3WF9Ka3JaeU1DdkQtUkdFRzU4SkNYT1VnRjlkQzcta3Y0Uy15SFJHaDNLeURxZEV6VjFVTHA5Sl9CTVdrYUExYVQyOGxsemxrWFFHU0xudlhFbG93U2RxTmF30gFzQVVfeXFMTUJ3ZGc2d0RwdWtmdEx6dDlqTUxoOW5ySDNWcE41RUltckpTc0VUM2ZSQ0djaDhNVkp0eUtiUWhfc3MyVkpWblpua1lhVmxEaGd1Z19PYkVBMWdUWWtYSFM2RWcxcldTNTRNY3o2eFBLOFo5Yw?oc=5",
-   "published": "2026-10-15T10:10:03+00:00",
-   "lang": "en",
-   "topics": [
-    "drone"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
    "title": "TSMC’s AI Chip Boom Is Set To Deliver Another Record Quarter",
    "source": "Finimize",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVhFUXNnbFhYNWdfNEJuX1JfZTZXTHJsaW9PcDVNb3BqLVdXVFgwWlNQMURsV3NNUTNOM1dFcGdlSkpDZjQ3SjNHYWpFcTNuVHFwMHBvVktaWGlUcmZyai1fTlUwZGFhMXVkd1N3cnJyNTVYMkI5TklCVHRhWXBfN25rYndESG9UZEFOUS1hUW1Rd0Y2?oc=5",
@@ -1663,16 +2525,16 @@
    ]
   },
   {
-   "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5",
-   "published": "2026-10-15T10:05:27+00:00",
-   "lang": "en",
+   "title": "正文與Starman合資4500萬美元 布局美國製造光收發器最快半年後投產",
+   "source": "鉅亨網",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XU3lITS1NeEVFNGFvaG9KVkR4eng2dUxDbDF5Z3RLTEpoOGl5V3V1QXFJNnNQZEoxSHpwd3BvSHE2Y3ViWm95aEV2dw?oc=5",
+   "published": "2026-10-15T10:05:59+00:00",
+   "lang": "zh",
    "topics": [
-    "openai"
+    "wifi8"
    ],
    "categories": [
-    "ai"
+    "comm"
    ]
   },
   {
@@ -1729,19 +2591,6 @@
    ]
   },
   {
-   "title": "輝達在歐洲投資逼近100億美元，法國串聯鴻海、AI模型與能源布局自主算力供應鏈",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FZmdOTEwwVVB5Ykl5T2NrT3FRVTVzZng4X2V3X1QyM2lscjcyY3g3ZG5NM3dybDhiaE9GM1NxdHA5Q0xVZFBUcVNqbWVISkE?oc=5",
-   "published": "2026-10-15T10:00:34+00:00",
-   "lang": "zh",
-   "topics": [
-    "nvidia"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "訓練機器人執行人類工作的競賽內幕",
    "source": "Business Insider Taiwan",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NNmpIZk1ObVdkbUJvNUZickpITXlJRWQ5MWo1TFI2ZjhMOGZQdDN1XzR5TndTS0dCVjl1VEFoblJBb05EU21FQXIxZTJsalBZRFltWDl3?oc=5",
@@ -1752,19 +2601,6 @@
    ],
    "categories": [
     "robot"
-   ]
-  },
-  {
-   "title": "Meta has an AI advantage OpenAI and Anthropic can't replicate",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5",
-   "published": "2026-10-15T10:00:00+00:00",
-   "lang": "en",
-   "topics": [
-    "openai"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -1804,19 +2640,6 @@
    ],
    "categories": [
     "semi"
-   ]
-  },
-  {
-   "title": "AI may write safer code. It will still make software less secure.",
-   "source": "Cybersecurity Insiders",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekw5YU9Xb1JEUFctTWxIWHdqTDE3cFl1d202ZEFnOVZoVkozcUlVS2piNWI3cmJvWl9TZEp3NmJ5MjZ3Y29pOFI1QWNabjBKbjJkODVvQ0Vab1E2T1l5eHR2VHlOaFllaWVTNWljd1pldW9pb2tBMUxUTE14bWg4OGZIZC1yTjlzbXF0d1FKQlgyZmxxTkhrMDVDUWFiY3BLMmlkWllR?oc=5",
-   "published": "2026-10-15T09:59:43+00:00",
-   "lang": "en",
-   "topics": [
-    "ai-security"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -1873,8 +2696,8 @@
   },
   {
    "title": "記憶體、半導體重挫AI變天？ 鉅亨買基金揭三大原因籲分散布局有利抗震",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJQ2h1RlZIckwzSXdyVUtqNnpadjNyTE44YWYyUUxYV0VVWmFkeU1TUXlOeTc2VmtXZzBmblNZVEZxYWw0OTNLQ3l4NA?oc=5",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNbjlRVUF3dDRxaGhNYTZCN004SlNaVWZaclk4ckZreDhNSDdzeG9lV0x2RVFQc2JWck5JaDFsamIzRHZBUlpqWmdlVDc2ajVpaXdiM2Y4UW5POHFkYXB6aEtOVzgtNGdwZHJSYnVJN1M5UVpUWG9HcmFVQnNFTHFseEVFeDF3ZVJYV254YkctaWVGZkVuSXY2aUdRNS12S0I2NExhSFYzM2JwRnF0dExCMTVfLUNOSWx2cmpNUGFZa1BRWS1iTGg4bHZDRm1vYW0xeUo2c0RqdHQtOVZSMmxNUjZJSm1HLWp5aFlkS0NOdjM2b0lHZDNvODBsSDNFcjIyMkNLRm05dWU0ZVExUkE1ZngyemVPTUI0NFU0MUJuYmQ4QU5nMFNMVmExRHZMeFdtd1lTZ0lOYkZEUERJZEhRWk1taVRrS1dNUUNXTWlEd1FBMm5jRE9UcEU0VWVSTXBJamw1MFJpM0tKQzA4S1Q1REU5OE1GX3dfSUt2X1pvYW9rcE9heXV1NzY5c2VtZFY3TFpucWdhdWl0Zkl5ZHlHNFNwZ2VPaE4zYzhBbXpwUVAwemstSUJQWV9hV2Y?oc=5",
    "published": "2026-10-15T09:51:16+00:00",
    "lang": "zh",
    "topics": [
@@ -1944,23 +2767,12 @@
    "lang": "zh",
    "topics": [
     "ai",
-    "nvidia"
+    "nvidia",
+    "physical-ai"
    ],
    "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "Riverlane and NVIDIA Use AI to Speed Up Quantum Decoder Calibration",
-   "source": "The Quantum Insider",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU3RvaFVXSEoxOTJpek1GclFmV0xBWVlsN3dCVGtHRi0xR2tOQlVYaGloby1pSzViXzRkSnpMMVlWaS1BTTFlNW1iRWFKbFQtMVlvZFZoQ25MYldXMzRiOFlSR29HUjB1QVRGb2xvTnI2RDFTMWdJaE94NFZ0NlByVWFoYkhhRXp6U2dIblRzVHdEemM?oc=5",
-   "published": "2026-10-15T09:46:25+00:00",
-   "lang": "en",
-   "topics": [
-    "nvidia"
-   ],
-   "categories": [
-    "ai"
+    "ai",
+    "robot"
    ]
   },
   {
@@ -1990,19 +2802,6 @@
    ]
   },
   {
-   "title": "The AI productivity trap: Why speed doesn't equal ROI",
-   "source": "The World Economic Forum",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOblBhZHhoTWhyWE5ZaWR3MEFhZ24xamdHa2EtMXlTYjRZWi1VYXNiVlB5TzBvY0xmM3YtMjk4cXViSGpmeDJmM0ZoU0tjOTdEYzFnZXU1TEhUb2Q2Q2tMUXpUc3dISzJjQ29FUVZ5bV9uZEIzQnE3aklkbm0zNkhsLUg0SFRqZ1YzTzRxakNEQkhtRnVBY1RGMHFCQTNpR2E5WlNPelFCN00weFo0anBnYXVpN3Zfel8xbUlDZkpERXpxMktTd1ZySmdzTG9RUU9xU1Bfbi1iZFNSeEk?oc=5",
-   "published": "2026-10-15T09:45:25+00:00",
-   "lang": "en",
-   "topics": [
-    "ai"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjB0ci1GS09NczVkMHZGUlZQVE5PUWJuYlZUODlnZUtxWWxQVVNNcGRHVjh2U0p3ZU9iTHQ3aThVOWpnYXVZRGQxaTc0Q293bGFoeUowbnloOU1qNm1ZMlloOGl0c251c2pQRXh6cExNQXo5OXQ3ZDRpSVZZZ211alY0ZENWb0FJT3QwRzQyb1lRejMxTkFreExtLXhIUm9oUFBkRzRCZ1dzSGN6MVhNSGl3?oc=5",
@@ -2018,7 +2817,7 @@
   {
    "title": "美國八州控告OpenAI！指ChatGPT危害兒童並欺騙家長",
    "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tZWluUkZrZkRBNjZqRGpNOGZVOGRTaUtQWjdPS3czSHcxczlxYmxhQ3VmRUpIOUxXUGFSbFVCWU96M1JjdVBUOUliUGs1dUk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mbTJzT1Fyc09ldkhMZlhEelgtRHZsa1lRelNuTjI3bDVxSVctUjlvaXNVem9ldXNHVFdVb3pzNHluUURaaUppS0ROVQ?oc=5",
    "published": "2026-10-15T09:40:05+00:00",
    "lang": "zh",
    "topics": [
@@ -2055,19 +2854,6 @@
    ]
   },
   {
-   "title": "How to harness AI-powered security tools to prevent senior living elopements",
-   "source": "McKnight's Senior Living",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUFBSjFucjlGem1iUmxyVEhYZkY0elk2Uko4eWZMZVRhczNKck1ndFVxUDFCTGtLdXZOaFIwVFpYdnBRdUZQdE5ZaG1sZHlNc3RhWFAtaER4Umh2Z3NXZkw0UVZOVlZVeThYUVRUWnMxcDhiQS1samFQVlpTNzY4bXIyeDV2aVdFMlhmV1kyRXJyTVhjNUdPOUVpNDMwRUF1aU90NUVVOE5OUXVJTTVaQnpWZVJoLUJqVHRWYg?oc=5",
-   "published": "2026-10-15T09:33:45+00:00",
-   "lang": "en",
-   "topics": [
-    "ai-security"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "TSMC Reaches Record-High Performance: C.C. Wei Confirms the Company Will Seize Every Possible Business Opportunity",
    "source": "36 Kr",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkcXBBMi00TmNCMnVKaTIyVFhnLU9IY090bEJoZ3JqTXEtWXBtaS1tRXJhSUdTUHo3Q3ZRSVloamFzem5reUpMaEpLTTlPWjhodTNN?oc=5",
@@ -2078,45 +2864,6 @@
    ],
    "categories": [
     "semi"
-   ]
-  },
-  {
-   "title": "影音／誰的「瓦力」走丟？ 服飾店省人力 引進機器人招呼顧客",
-   "source": "TVBS新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZeEhPUks3WG44ZklBbTJTZ0VBNlRNMW05aEk3WnZ2SkFXVXoyMUktUHhDUHRMdTl3UFJUdk93R2RrNmtlelEta21kY3lnZw?oc=5",
-   "published": "2026-10-15T09:32:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "robot"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
-   "title": "TSMC explores role in Elon Musk’s proposed Texas chip complex",
-   "source": "South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWsxYnRSd0pYSmV0VjA5VTlmWVZETjQ5WDhHakxIZ2d2QXVhSXV2SnpyLTM5VU1KeXlTcGJWMnB5MnFVclVkLXFEVm1xZjZmbUFPbDZoVHJWckxTTnNHX2xVREt0cGhlMzdSOVRmOGpTQVJTbHRMTTJKM1NBSFljaEZyeVF3T0NyNkZxaUJDNk52bHJ2NHBrMFpRc1hhNUJLVEdtaE42eU51RjVHdFp5NEdDOGNDWmRLT2g4Z2VFTWozYnZIaEE?oc=5",
-   "published": "2026-10-15T09:31:35+00:00",
-   "lang": "en",
-   "topics": [
-    "tsmc"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "Google Gemini screens scam texts in Android Messages",
-   "source": "The Neuron",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0bzBKOU13QVpWbXV1QzVvMkRtRV9ScDYtRFJGN2RqYnBRVGtfcmFTY0lhS2d4SkE0dlNuTTVnc1hXNU1mRTVVQTRZZ1V5NjJqbnF6c2RlWDhHYWNWTUR2NzNjbzlrLUgtX25QWXREMA?oc=5",
-   "published": "2026-10-15T09:31:34+00:00",
-   "lang": "en",
-   "topics": [
-    "gemini"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -2185,19 +2932,6 @@
    ]
   },
   {
-   "title": "Anthropic News: Latest Updates on the AI Company Behind Claude - Bloomberg",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RWXl0T0lpR1J0WE1VZ050anMwUlhTeUEzVGtGcDhYUTNKUnpsMDlkZHV2ZEpGanBNc0Vxb3VueVBYQ19pc2xlWTVvdw?oc=5",
-   "published": "2026-10-15T09:24:34+00:00",
-   "lang": "en",
-   "topics": [
-    "claude"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "AI商機帶動HBM需求! 美光台中先進封裝二廠啟用",
    "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQRENIZ250VnpqT191THV2M2M5dmNlWVVzRF9CaWptQWRKX1U0TU9zdktVbE1uTVJENUxzMEpmbWliVS1xLWUyUFhZY3Atb3RFbEZ0QzhVOUFTVTdZMUhWaXUyM2JvWWRlZTh1WnRnbmtYY25DYWxaTWptMW1rNC1BNTdRVGxIZ3ZqQ1Q5ZU04eUZhSTlBQkt4YWJ3WDdqTDVqY0tJZHJrZ0xScFJmOVI0cXZaWGtsV0tJVDdsdWtuM2lBa19XaUQ1UU44MXlsU0Y4d1RqWC1SY2VKdkxkaDh0NjFaV0xHS3htVEZpaWFWMF9nQXZQSkFEbkhKekFWeDdrVFczbHNZcXlNQnMtaUg1N21JOXFQU1VYa28zWjljMHFfRDdRNFNkREJScVJteWwtQWpYZVlBQ1ZBdUk?oc=5",
@@ -2221,32 +2955,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "title": "Taiwan Semiconductor Manufacturing Q3 Earnings Call Highlights",
-   "source": "MarketBeat",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYjd5WnY4cUZJRFZ1Y056dmJXZzZkeS1MU2VjUFUtN1diSkNMTmd0VTJDQlNHYWZkdEM1bGpwR0RRN01DRWl1bDJocHNZN09HUjZkN2xzaC1sMDVlcUxCNHl2ZHQ5QjM3Ql9DVm1DUzhweVdTcTE5Q3ZodmxGN2pZY1h1S1pwY1BBVUR0Y2NmelBUUW5uUlZpcEpwTl8yYUNabkhVa0FONWltYWJjb3A4QloyX0hHYnp1c2FuMk5NWndpNGR2LVE?oc=5",
-   "published": "2026-10-15T09:22:33+00:00",
-   "lang": "en",
-   "topics": [
-    "semi"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "Taiwan Semiconductor CEO Sees No Ceiling on Profitability",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEJndWw2d3M3bE93WTdoZXJkZVdNNXdnZFZ4NGpPTzJ6RW9kQ2FlRllWVGgzTnViZXNOS2tuRVNQamY1X2dRWlZYOUN3bks3ZzlFNFlGM0c2aUo4aFJDb0FTcXlDTFJpZUVlUFQ5ZnJLYXlnZnQzWW5WaVEwZ25pVnZpZ0o2bWVnMXZLU1A0LUJVbHkyNFQ5ZVBMbDFXR2t1b2lNUG9RWjljTXhJRVJhMjlaVmo?oc=5",
-   "published": "2026-10-15T09:22:06+00:00",
-   "lang": "en",
-   "topics": [
-    "semi"
-   ],
-   "categories": [
-    "semi"
    ]
   },
   {
@@ -2276,16 +2984,16 @@
    ]
   },
   {
-   "title": "A year in the life of HP: How the UK&I MD is balancing perfection and speed—and putting people first",
-   "source": "Fortune",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0hncmlXbDBlUmtKYXhIZ1FvZlVzM1JBeFRFVjBVZW91Nk5yb3Vaa1FneGVuS3c3VGFFTXZmeWQwajJad19NZ1c0QmZXakdNYl9tUmg2Y3Yyb21RUkR4OHZSMVFvOFlBN2pvOW5TUWxrWGV1VXpUNTlvTVd6R2hsTnVTUDJjR1dWMV9CUHVWR000WkVteExsVnlFV1JDVVJfRXh3XzA0MEVzY3UtV0RaWnZsaEpXVl9nOHlkZHM0MFZDdk9SZ041OGpudUxPTW93ZGxUcHlPdEJfckU?oc=5",
+   "title": "台積電法說開始發威？台指期夜盤翻紅了 但ADR盤前摔1.65％",
+   "source": "自由財經",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54MGVFYktRMWNSM0Y1V0k4Sll5am5nbENfYUk4SlhSQ082b2k0eGZXN1JiM1lSRlRROG1QV3BFLTgtSWVUVGRheHc2SzlSMWRvYVRZRjJqWWJzNkI3WEw40gFkQVVfeXFMTnkxX09Gd2pMUjNmT1djT3lIX2gzQmVQRFZORXdwNHMxai1Da0x2SEhsUUVPTHpCRUNtZjhnTDVhd1dDS2ctOEZQekV1eHk3bkNqNERJdHVQSWNZeUhYZzZLMzFEdQ?oc=5",
    "published": "2026-10-15T09:17:00+00:00",
-   "lang": "en",
+   "lang": "zh",
    "topics": [
-    "ai-security"
+    "tsmc"
    ],
    "categories": [
-    "ai"
+    "semi"
    ]
   },
   {
@@ -2299,21 +3007,6 @@
    ],
    "categories": [
     "robot"
-   ]
-  },
-  {
-   "title": "Not Memory. Not Energy. This Is the Biggest Bottleneck in Artificial Intelligence, and These Are the Companies That Can Benefit.",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjF1S0pqYjE5Mk1zbW1QcHVaMm0zcmVrWjhNMnY0UERMbnFrYXpKeXVIbngwNTBxZWVJLUFzenFFQk4za1JOVnJwN1lPMmdvemFkbE5nQ29McnNjQ19qcXBWSFNaWDlnTkV1WGhWRW9JVm9ub2stRVk4UkdETVVMR1JJdW5lN0xiTXBHckNzOFZjN1AxR1RaVg?oc=5",
-   "published": "2026-10-15T09:14:00+00:00",
-   "lang": "en",
-   "topics": [
-    "ai",
-    "aidc"
-   ],
-   "categories": [
-    "ai",
-    "photonics"
    ]
   },
   {
@@ -2332,7 +3025,7 @@
   {
    "title": "Papaya Global and Tasq.ai Partner to Bring Neobanking to the Global Workforce Powering Physical AI",
    "source": "Inter Press Service",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYjFYU0pfVmRDWXJ6bGF1S3dJSnREOFVTUXppeWJ2OUpkYjg5VG9zM1FEYlQwR2lGVzE0WV82emxjbHJxTnpSWF85RE1neEpGR21JTTkxVEFmSlFZVlIwNUt6NnJJUkdYeXhCV3J5N2xEMzliQzJTU2dRZHJTU0tFU3oyWFFJWHBtUXM1OFhFcEE2bGtxR293QlFyS1dqZEZlQTlLcURIVDNidVd3NmhSTXFiYlRCZ3FlcE1lMUl6Z1hHOXJOMTI2MEk0ZV9TakpyNWJBVg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWmQwN3V3cFFmejdRWkg4dllfWlJmSm4zWnFLR0Y3SzVEeG90VjlsRExONXRsOHU3MkN5ZWs0cUVvZjFNSktfVHFrbXlYVmdUZUhPbkJSeG5wVVhRVkh6dDE2bThDR3U2QUJrTlRaN1JxZUpaaUZLY2pBRDF0UThPRVRmalNRLTJaY2NQb1JfcjlpVmNDZTNESkplVFhLSVB5YjFxaXpyQlpfMkxLd2dZMmpIRDJjajJ4TUFuM2tRVlpBd1JzWERjVC1UWFJqQ2RMYTIweEZFZ3IwOU1B?oc=5",
    "published": "2026-10-15T09:10:59+00:00",
    "lang": "en",
    "topics": [
@@ -2375,19 +3068,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiNks1cnRKbmdkYUZjRm5ZcDVHbUN0cHB3TkF1dG9zYnRmT2l4QUY4TElQbkxGT3N1Z2tXeE4yZGtVdWZzR3hrcUp0cnRxRnVoTkJSb3I1a1FBd2xvOWZXZWRPUl82Tzg?oc=5",
    "published": "2026-10-15T09:09:41+00:00",
    "lang": "zh",
-   "topics": [
-    "aidc"
-   ],
-   "categories": [
-    "photonics"
-   ]
-  },
-  {
-   "title": "Kansas candidates are clashing over guardrails for AI data centers",
-   "source": "The Topeka Capital-Journal",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObllGM2pTZzE0ajk5RmY4RGl5ZndhMnZxczRMUHdCS3JZMnJJZktpZlpRTnE2T1NiQy1ncVJUV2pRR1p1RlBWeXY4c014Nmh0RWhxelBrZC1YRjZaSFo3c2RmTjd2US1ReXlLb3hzem1GMmNiblpRaXF6UHpzNTZtLUNZWW1OcklMSHl5Vy0xY0otWUNXQUlJNWFlWkdYRGNscHhwMkJkSGYyYmcwbjJEWldJYlpEWEhqaXRHeW04NlVUQV9UZEViOWJmcEhyMWUzRHBUaEVlVQ?oc=5",
-   "published": "2026-10-15T09:07:00+00:00",
-   "lang": "en",
    "topics": [
     "aidc"
    ],
@@ -2448,13 +3128,39 @@
    ]
   },
   {
-   "title": "ANRA launches VISTA application for shared drone airspace awareness",
-   "source": "Unmanned airspace",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXNMdHg0QXNLNFZWX0IzTkR3TnhDanJ2bFQ3dl9YY3pZd3BwTm9qNG9zWnNMcVNFbnVOTC1Oam1qeE04Z1Z4Y0VyUV9TQ3JDX0hYVXQzWVRZZ0VIcG51YVJUSk1ZZXNnclNIa09tMmk4SU03LTNsMEN6RU5OdlBFdEw2bTZFZXdpa0UyTmh5N3d4NGlHZEkzZWpNYkhIYzA3T3JzZ2NvaGk3R3NtT0tqcGJQMjV3WUU?oc=5",
-   "published": "2026-10-15T09:01:11+00:00",
+   "title": "成大AI論壇年度壓軸登場 聚焦產學協作與新創加值",
+   "source": "中央社 CNA",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NcktUN1V0ZnB6SGJ6aDVLTG9VMy1RRkxlRFcyVTY5ZktFVUFjMEpoZU5Ib1IteGxuTnJPenEzdlpXRzYwbDlaNi1tdWdIUlVLcHhtQjhR?oc=5",
+   "published": "2026-10-15T09:02:36+00:00",
+   "lang": "zh",
+   "topics": [
+    "ai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5",
+   "published": "2026-10-15T09:01:58+00:00",
    "lang": "en",
    "topics": [
-    "drone"
+    "openai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "「硬體是 AI 的牙齒」：Matter 募得 4.5 億美元，押注機器人與下一波硬科技",
+   "source": "TechOrange 科技報橘",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1E5dDFhMlJleVRQS3ZrS1I1YlBuaW13VXEtbzRLdWlIamdJTWx2Y2JHRjFpdklFLWREYnpISFY4c18xSzlDVno4MDRiRHdwQWlTNGFTN1g3SW9rbXp5TzZXUV9xV2pOMGQ3a3FwV1FaYmljOUtfcHBkZ1d4RjJrc0pReXV4MXo4V3ZiLVdhaE1ReE1rUjR4RXk1V0ZtREVDRkpjMVVkWDlkQzZpZF9QVHVqbUhETEE?oc=5",
+   "published": "2026-10-15T09:00:36+00:00",
+   "lang": "zh",
+   "topics": [
+    "robot"
    ],
    "categories": [
     "robot"
@@ -2471,19 +3177,6 @@
    ],
    "categories": [
     "robot"
-   ]
-  },
-  {
-   "title": "SecureSoC strengthens Finland's future in secure semiconductor technologies",
-   "source": "Nokia",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNekhwOThESWYzaG82TUtuYkNvUi16VkRfQkQ5czhkZmMwalMydjJpclVYZUtETE9MbDlVS1RNYlFyMThaWXFVYW5NbGNWYWJBYlAyQ25xMkQ1X0VCaG82S2p1QWZYQThaOWNTMmRlR1dSRWl3VTdnMkNkbEVoOEgwRy1JSW5KMXJBbUJXRDdvbjUwVXdrb0Zfb2VDZUpNd3ZkQ3g5RGFJTC1aOXkzSVFSeTJOMkdEV28zLVc3R3FKZURIZzg?oc=5",
-   "published": "2026-10-15T08:59:02+00:00",
-   "lang": "en",
-   "topics": [
-    "cra"
-   ],
-   "categories": [
-    "comm"
    ]
   },
   {
@@ -2539,6 +3232,19 @@
    ]
   },
   {
+   "title": "Warm-water ready",
+   "source": "Data Center Dynamics",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56c3E4MUZmR1NTNTJpS05oOEhLOXlIb2pfWUEtSS1pbk1KQXlYWDhQMlIwaU5ELVd5ek5vd01FRE9aRTJTcGV4NUlPQW5RN2duWE9lc0pMeVpCRXRFNUNDM0JZcmFWa1hRSndETTRzQXBjN1VpNHc?oc=5",
+   "published": "2026-10-15T08:53:28+00:00",
+   "lang": "en",
+   "topics": [
+    "liquid"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
    "title": "NVIDIA 揭 AI 工廠四大布局！串聯半導體設計、製造到晶圓廠自動化",
    "source": "TechNews 科技新報",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQaXhGUjdlLXdFWGlFRWVYTV9FUGxXWlhtV3BxYVhZOTBLZkxSMnRZYndkUThxdndmODUzOUJPc3NLWHZjNGV3TU91dHBTckg2UEtHRXU5NTFWZVpFN3otdHJPZ2ZheXhZTlNVeUtZd1JHWXc?oc=5",
@@ -2561,19 +3267,6 @@
    "lang": "en",
    "topics": [
     "sip"
-   ],
-   "categories": [
-    "photonics"
-   ]
-  },
-  {
-   "title": "Warm-water ready",
-   "source": "Data Center Dynamics",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56c3E4MUZmR1NTNTJpS05oOEhLOXlIb2pfWUEtSS1pbk1KQXlYWDhQMlIwaU5ELVd5ek5vd01FRE9aRTJTcGV4NUlPQW5RN2duWE9lc0pMeVpCRXRFNUNDM0JZcmFWa1hRSndETTRzQXBjN1VpNHc?oc=5",
-   "published": "2026-10-15T08:48:27+00:00",
-   "lang": "en",
-   "topics": [
-    "liquid"
    ],
    "categories": [
     "photonics"
@@ -2606,19 +3299,6 @@
    ]
   },
   {
-   "title": "川普連兩天提台灣！自爆「剛與魏哲家通電話」高調喊：我招來偉大的台灣公司台積電",
-   "source": "FTNN 新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91d3loMkxvbVFGYWloeloxekFwd2Q4YUVXTjlERTJjdFZTMDh6TlllR1pqRXhjMFRiQkowUThkX2VVLTdHaFFYQ2RTTQ?oc=5",
-   "published": "2026-10-15T08:40:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "top10"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
    "title": "Corporate Cash Inflow Drives Biggest Time Deposit Jump in 44 Months",
    "source": "Seoul Economic Daily",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk1GcHZUTHFMMHJUOGJqZVdKTTdGaU1QZFFVYVZUWG9qdHdJWXI2MW1aaF8wWkVKb2tFN0ZlaXVnaV9vc1JPR3YyaUdjX2pBd3JyNW11NkVXbXFJMDFDOGpGNGowaFJOelZtT3g5cVhiWVBRYk1DRzZoNGd1SHNGSlVZV1RIcEdRamVYcXpwS1RVcVZLSlJtMzBGMl8?oc=5",
@@ -2642,6 +3322,19 @@
    ],
    "categories": [
     "semi"
+   ]
+  },
+  {
+   "title": "Claude也能做動畫了！丟試算表就能生成MP4影片，3步驟教你用Claude Motion | 數位時代",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FX0pCZEhzdlVaemEyYy1VN21NNlVtc3lPOVFnemJwVDVCaTE0ZVhnZFRQaGE3MDhiZ1VnWi03bk5ZZFpJOTkwT0hidkFhODZWaWpUVnZB?oc=5",
+   "published": "2026-10-15T08:35:21+00:00",
+   "lang": "zh",
+   "topics": [
+    "claude"
+   ],
+   "categories": [
+    "ai"
    ]
   },
   {
@@ -2678,10 +3371,12 @@
    "published": "2026-10-15T08:30:00+00:00",
    "lang": "zh",
    "topics": [
+    "drone",
     "aidc"
    ],
    "categories": [
-    "photonics"
+    "photonics",
+    "robot"
    ]
   },
   {
@@ -2726,7 +3421,7 @@
   {
    "title": "機器人伸鹹豬手！德國爆「機器人性騷」　警方啟動調查",
    "source": "鏡新聞",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YSW9VdHQwR1BrZ05DcTRIYUt1TGRVanBPM0pUSmt4ZjlRTTdxSFdIalpLNER5eXZsZ1dDbWl6bmRGYUgxUkUycENfajh2YVBwQ28zdUVySExxUU5SaHfSAV5BVV95cUxNWElvVXR0MEdQa2dOQ3E0SGFLdUxkVWpwTzNKVEpreGY5UU03cUhXSGpaSzREeXl2bGdXQ21pem5kRmFIMVJFMnBDX2o4dmFQcENvM3VFckhMcVFOUmh3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15NWtDQkNzQWZxNjNDQ2hpcF9vN1BCRmpYUGYzTGRzTkw4c2dhN2ZMQVVGVXNTUHFwdUZoT0t5N2tFNmJ6cjRwLXBkUnAzT3oySENzNU1uVzLSAV5BVV95cUxNWElvVXR0MEdQa2dOQ3E0SGFLdUxkVWpwTzNKVEpreGY5UU03cUhXSGpaSzREeXl2bGdXQ21pem5kRmFIMVJFMnBDX2o4dmFQcENvM3VFckhMcVFOUmh3?oc=5",
    "published": "2026-10-15T08:24:00+00:00",
    "lang": "zh",
    "topics": [
@@ -2737,39 +3432,13 @@
    ]
   },
   {
-   "title": "Lawsuit alleges OpenAI 'stole' children's user data",
-   "source": "Mashable",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NRFpvc2tkZzhkUl9ZSmwxZlVsdERqSWQ4cUI0UjV6bU5FR2IzTWZCdXNVeDFNYkE2Yy1VWEx6aEdpMndRTWVtWGZLLVNnNmlvMXpmX3cyWDlhSG9rZk0tYmhzbjdwZw?oc=5",
-   "published": "2026-10-15T08:17:57+00:00",
-   "lang": "en",
-   "topics": [
-    "openai"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "AI時代資料中心不再追著使用者跑，台電倡議「以光代電」納入AIDC選址策略",
    "source": "iThome",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1adFJJeFBrLVJRek1YNUs2UlRUdS1pYVJGRHNEYmVyNWUtcTNoNzgtbC02anBCQWZ6R0xMM1pWNnRNaVE0bjNRRmNVZDIwUQ?oc=5",
-   "published": "2026-10-15T08:17:18+00:00",
+   "published": "2026-10-15T08:21:49+00:00",
    "lang": "zh",
    "topics": [
     "aidc"
-   ],
-   "categories": [
-    "photonics"
-   ]
-  },
-  {
-   "title": "個股：跨足AI液冷市場，其陽(3564)業績升溫，9月每股盈餘0.17元，年增逾五成",
-   "source": "富聯網",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0d5MTFyaGxoaVZGZHFqRGgwQjZRUzNOU0FiTEdocE1MbkVYMU14MWlQTU1laFlOeUpaVC1mNVdwV1RsSFZkN2lBTG5acEJpZlc3ZWdNZnVqUDdtWk9oZXotSWExYlh6TjlTVmhjc09MYndsSC1fT0hQc1JTdTNFVWZ1RnVJTEJM?oc=5",
-   "published": "2026-10-15T08:17:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "liquid"
    ],
    "categories": [
     "photonics"
@@ -2828,10 +3497,49 @@
    ]
   },
   {
+   "title": "Salience Labs Raises $125M Series B to Scale Photonic Switching for AI Data Centres",
+   "source": "Konsulteer",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOanZyUHQ1Rk44RXlXeW9pSGFibVEwOW1IVGhGMzZkRzZUMFN4bHpwTnZxVFVFWXdnYk1HUnJUMEJXdDVKUEdkLWxzZkhpWVNZZWY2N3MzMWxCc2lfNElYQkdyZ0hRTl9mUzJMWTRYMUZLeFdIcThzNmZPZzZ5V3otdVRiWGxDSkxickpTUU96bnFiWGtwYkVHRjl5UktZQktGcUlYd2dzZmtzSG5TaWVzOVhoemhGMHhr?oc=5",
+   "published": "2026-10-15T08:08:45+00:00",
+   "lang": "en",
+   "topics": [
+    "sip"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
+   "title": "[FOUND] Silver Alert: Missing 88-Year-Old Richard Arredondo",
+   "source": "The Katy News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFVoS2s1S0ZWcURyWWdodmxuUlJ6UTBMcG1MU3lfUDl1NEhNd1Izd3MyUTZjT0lRdXVucDhSaG1vU19LWXNyN3o0ZDJOWUY1RS01ZkdNUWRfOHJxSklQSlZKZVFELUNUaldXQm0yekRxVS1kRU5vLThqLXNtMXA2SU00b0oxb0NRblNHOTZlWFRKX3ViMTdfSg?oc=5",
+   "published": "2026-10-15T08:08:22+00:00",
+   "lang": "en",
+   "topics": [
+    "iot-sec"
+   ],
+   "categories": [
+    "comm"
+   ]
+  },
+  {
    "title": "The Extractive State: Or, Peter Thiel in Argentina",
    "source": "Verfassungsblog",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94SktwZVpIODZhRzRWa1JEcjdQd3FRV1RUMnBPUUVqZzRfdkt0R3BtOW9kdnBmX3pDX29vUzRFZ01VTHlPM3oybFFLRFV5UkJEZnVreUNR?oc=5",
    "published": "2026-10-15T08:06:43+00:00",
+   "lang": "en",
+   "topics": [
+    "argentina-ai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Aramco’s gas expansion aligns with rising global demand from AI, power and industry",
+   "source": "Upstream Online",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSDR0dTV1NUlnb3VMZ0xxNDBWSjRYa240d2gteEF5TUdJUTZjUi1ER3JKaFNzaEt5eHJGd1Rzd0lpM0thaGRqWnk4VkhWVThvTVdIT2lNQVZabFB3VG5FTlpoSXhaa1RySXpYR182aEV1SDRUVTZRVFBMRXlkRFk2WGhhLWZXWUR5YXhxM1dERGZZc2FWWFE1MUhiY1VLSUxFd3NITUI4ckxLU3JhUF9vQURXdlp4djMxazFKMG5LUjJBNVJHUl8zbmFTU2hCMmxoSU9EWWdLZ1g?oc=5",
+   "published": "2026-10-15T08:06:03+00:00",
    "lang": "en",
    "topics": [
     "argentina-ai"
@@ -2919,19 +3627,6 @@
    ]
   },
   {
-   "title": "台灣美光先進封裝與測試二廠15日正式啟用 深化 AI 時代高頻寬記憶體布局 | 產業動態 | 商情",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT3VoTHJoSUtnZkFhWUNtQzJJbVNNb3dvR19qandIS0Z0WUxPWEp1dGw0ZXFmc2JuRXdPYXpna1RjWmxJMzJTNEZUQWFqTVY0RW9HcWRmWEpDUlVWYnB1NENham9rd25oVmhFVWx6ZHZUUTVLLS1rc2FXcXV2N1JwanBsbw?oc=5",
-   "published": "2026-10-15T08:02:35+00:00",
-   "lang": "zh",
-   "topics": [
-    "adv-pkg"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
    "title": "When the Robot Arrives, But Nobody Wants It",
    "source": "E3-Magazin",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rZEtFSHVEYWpQUzFmMnpsUmM3dVpVcUlvbXVrc2M3X3o2SkhGX0pUV0dUSE1PRms2WXZiOHFOaWxpVHBULUY3M3NJcmtWckxlVDBXVEV4TGhHUlh5djlkOTRUaTR4SVgxRHBlbXpISQ?oc=5",
@@ -2957,32 +3652,6 @@
    "categories": [
     "comm",
     "photonics"
-   ]
-  },
-  {
-   "title": "台積電全球擴產加速！近 20 座廠依計畫進行，台美日產能再升級",
-   "source": "TechNews 科技新報",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2hjbmhMOXdfekZuYzlSblJJSWsxNXdZOWZ5LVdXX1dIY3llU3FRYTlHZnlNVlhEM1RQYl91eVV6T0NWR2V4cmNoODVDdHlPeTRjbDRydFNXSlRWRklVSFRzSF9lelljaVlpNHdrRWU0ZnpSWjZYeUMtUEN4TDlUcFEydENKWWNzcE5GM3dySFNIUklZMTFBTTJVMGcxMFhYcFBFTTBGdXpEWlpqYTZFYw?oc=5",
-   "published": "2026-10-15T07:58:14+00:00",
-   "lang": "zh",
-   "topics": [
-    "tsmc"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "Aramco’s gas expansion aligns with rising global demand from AI, power and industry",
-   "source": "Upstream Online",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSDR0dTV1NUlnb3VMZ0xxNDBWSjRYa240d2gteEF5TUdJUTZjUi1ER3JKaFNzaEt5eHJGd1Rzd0lpM0thaGRqWnk4VkhWVThvTVdIT2lNQVZabFB3VG5FTlpoSXhaa1RySXpYR182aEV1SDRUVTZRVFBMRXlkRFk2WGhhLWZXWUR5YXhxM1dERGZZc2FWWFE1MUhiY1VLSUxFd3NITUI4ckxLU3JhUF9vQURXdlp4djMxazFKMG5LUjJBNVJHUl8zbmFTU2hCMmxoSU9EWWdLZ1g?oc=5",
-   "published": "2026-10-15T07:56:22+00:00",
-   "lang": "en",
-   "topics": [
-    "argentina-ai"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -3012,29 +3681,16 @@
    ]
   },
   {
-   "title": "工研院攜壹久科技攻高階電池拓無人機等市場- 新聞",
-   "source": "MoneyDJ",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdktsQ1FuWGoybENuenpDSUdzclBVVzlUV3phZWdfOXI5NU4zMm93QnFHTUM2ajBwSzNPS1JtcUhxMk9uVVZOWV8wUUVGYUo5ZEhyUU9kcF81NUJrZjhGTkFuT1lYcE51TkZ1all2WDdWUEx2aWVBZ0htSGMtTGhJTG94aW9GcENkWWFHUU1yQ1hKdw?oc=5",
-   "published": "2026-10-15T07:51:00+00:00",
+   "title": "Tether AI 推出裝置端語音辨識模型 強化智慧眼鏡與機器人隱私",
+   "source": "商傳媒",
+   "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQSGRxRm1xQzRXUVdWTjVDRXZYc2N2aHktNVk3VzZkOUVDYjFKdDdvbUdSc1JMYWI3U3gySWlfT0VZYVZ4dG5reHBBS0xSSXdzSG5xalc5WEJ5V1RCN2dEeHJDOHJSS2RrLVBOYVFYOWFKSmZNMzdBTndyUnF4QmVxUk9CWVU0Z0taRkNTOElVeGdZVWdfQk9VTHR1dElmb2dxQTd6eFRYZnU4bkJXeEpyWFpQYV83Uk5rV0ExQV9vNENBc19JTGFHTS1sVHJ1cjFrQTdaazllQ19PNVFxeU9LZ0xPRW1KSkRvRmxsemdINkpEWHRhVXlZWXJNdlV6ckozQkpWMXlYTl9BTjhJYTlkaU1XeldkdlRUTVdCQmRndnVvZUVyMkFtbDZYWUwwV2RvakM3dkdsMVhVQnI4dlh6b0dkYmVndWJZYm42aUg2blZOVmVud2tiZ05yQ2MyUzhmR0hDbGI2NFdYV0VLMHJFMFBrNk12TGhtYUdmaFFKTGJUZDI3SUE?oc=5",
+   "published": "2026-10-15T07:51:53+00:00",
    "lang": "zh",
    "topics": [
-    "drone"
+    "robot"
    ],
    "categories": [
     "robot"
-   ]
-  },
-  {
-   "title": "Salience Labs Raises $125M Series B to Scale Photonic Switching for AI Data Centres",
-   "source": "Konsulteer",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOanZyUHQ1Rk44RXlXeW9pSGFibVEwOW1IVGhGMzZkRzZUMFN4bHpwTnZxVFVFWXdnYk1HUnJUMEJXdDVKUEdkLWxzZkhpWVNZZWY2N3MzMWxCc2lfNElYQkdyZ0hRTl9mUzJMWTRYMUZLeFdIcThzNmZPZzZ5V3otdVRiWGxDSkxickpTUU96bnFiWGtwYkVHRjl5UktZQktGcUlYd2dzZmtzSG5TaWVzOVhoemhGMHhr?oc=5",
-   "published": "2026-10-15T07:49:31+00:00",
-   "lang": "en",
-   "topics": [
-    "sip"
-   ],
-   "categories": [
-    "photonics"
    ]
   },
   {
@@ -3051,6 +3707,19 @@
    ]
   },
   {
+   "title": "FTC opens probe into safety of AI, including Anthropic and OpenAI",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekhUaUxwdkZqR01YY01YYkpuMUVfckMyc1RKT2ZKVkVIR21CaGpTOHIyT2pYb3BlZzBVWFh0UGxGbEtDZlg1SVBOY3NjOGF1bVB5UF8wY2NiU0RSRFlNblVlSldNZjNiN3lHdHJ6X09aTm1qLTlkbWQtTjJmbFJmRkNNS2lGTkhYTHpIbm9peFlwLWJuMjlPQVZVTld3Z0nSAaQBQVVfeXFMTzR3RUtELUM4bGpzZ3RGaUJUQ0VFbHpsR0hwQnAzSFVaYlRndXdwanFxdWFCNUxpQTg1OFFmOFBJd05QUC02V1hGYUxpWlFmcUhGeUFPSHFKNXk2UVV4cTBCb01IQmRlN003bVlwaTZuTVJxNEhKZi1WczVhQWE0MWRaRnBFbXNTSHppUzNCbm51M20wVEU0SFdnZUFvamVkYUhlYXY?oc=5",
+   "published": "2026-10-15T07:47:27+00:00",
+   "lang": "en",
+   "topics": [
+    "openai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "title": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5",
@@ -3061,19 +3730,6 @@
    ],
    "categories": [
     "robot"
-   ]
-  },
-  {
-   "title": "成大 AI 論壇年度壓軸登場 聚焦產學協作與新創加值",
-   "source": "國立成功大學 National Cheng Kung University",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CSDRkNWVTWkpiR0NEc2lJbnNaVy1tQVZydWFJRVV5SXdTN0R1QndvcXVnYmpaaVZKVVAxNzI1QUlVcHFRSnZoc0pnTU5GY01CbzdaVzI3WUNsUGJob1ViTnJ2ZUpONmF6SldkUkJmRQ?oc=5",
-   "published": "2026-10-15T07:46:30+00:00",
-   "lang": "zh",
-   "topics": [
-    "ai"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -3103,6 +3759,19 @@
    ]
   },
   {
+   "title": "台積電：CoWoS仍是客戶首選已實際量產5倍光罩尺寸| 產經",
+   "source": "中央社 CNA",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HYUhpRV84Qk9QakRqQUd2NUhnQ25lV0JXSzB5dWZWQnNOLUZHdDBhbFVoLUVtVkhYcnJuU3l6YjVrVENldFprVWtRRlhmM1o1RzZsTXFUWG1RM050S0E?oc=5",
+   "published": "2026-10-15T07:44:00+00:00",
+   "lang": "zh",
+   "topics": [
+    "cowos"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
    "title": "【台積電法說會】明天當「全村的希望」？分析師揭「開紅盤」2大前提",
    "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOZWVvYndQNFRlYmhKZ1ZMY19ucnZETHJpNEozNldld3YwTHZfSXVzWTRrWDVBWTJuQklKdWpMS1RLVlFETjdhS3NQcDJKS1k5MUNNX1g5UWxVZVZlaGhSY3J4dURFQkdWb1hMSWh5N0RDVlAxRW12YmpDb1phRDNaNDZNZDFOVm5INjJyakRIRlVJMVlaNXVMUTRNVlJ4MUV5U085c0pIWlZiNWRNeU9VdWExclFhYnVEdFdGT3JubEZlal9jVV9jazNRemlQR2QycnBBcnRGWUZsQThNYmxva00yMVdHLWoxSEhTa1VnX0lTREg0anRURFBzc2xTTV9FekR0d08yN0Z4ampYNnRDVHV6OXloeG1aMGVab1hlQ0FjYTAyVTJFTEhPNEwxSU96T1gwd3lNSVZIMkZFUlhwQmE0dUIzUjg1YmZ5dDdWQVRBMkVqTmNKX1VZbVN0SkZDYmRIY3Iya2RzXzZxYzFKYlN3MXBkVUVfb0M0dUgwZC1CdlBxbklielpYbWh4Qi1WNHhwWEtqbk1FZXhLd0swQmt2VFBCUmJucy1yLXIxQ2F5UnV6ZHJTMGpYWU1tTmNFTFF5bmFLU3AyS3lHS2h4ZQ?oc=5",
@@ -3116,10 +3785,10 @@
    ]
   },
   {
-   "title": "【台積電法說會】要跟馬斯克合作了？魏哲家證實「評估德州」但要自己營運 6大重點一次看",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPcWZfdDNXM18xSGtSeU84QjZ2ZnFnOHcyX2d0RHZNakJVYld4ZlJudHVjNkF2M2lJUFlzUkNkOXQyRTRwMWYxZzdoYjJVR2lsLS1RZkt5QUxNNFJYcmM3SFcwNGtkN2EzeEZPbV9Bd1lCMDk5YWpJSk5CeHVsSWJsZ1hVOERnb2lkR2xVT2dPQzJyaWhWUHJGU3hQV3NmZks3MXpDLVEzaEV2Z2VDdFVFbVNmc29EbWNsNFJFZmFUcmMzYUo5dzNCV2Z3aHFwYTZSY3JYV3BYQnJpLTJRako5QzBndU5Eb0g1bF9ydEVsUXB1ZVNCbWNuZG5uMEVHRXlLb3JNQjJXQ3Vnbmlqbm5wejJ1RDJ5QVNZWG9YaUdDb1h5bkM0MXNNY1Y3MEhoQTlFVGFJTlJSbzViNVF6Qk5uejZoTXB5RkY1RGllUW9SX0h6WUgxb2NTQTAxamRPaDRNTXU2MWk5QXlVTFFfdHkzUW9lckU3UlpwYk5PVDRMbGl2WE1mWXZZSExqeGxGc1ZvVDM0QXRTdmpNdmZ3dEFEWHYtTlYtR3NfZ05MeERFNWlkSWR2WEcwcjJlX1Axd3pudG8wV0hJaHNwVHBsNmd5N0NHZEcxakN4eU14Qi1DMzJqaEZfMlk1aTg3UUtjZHlFbnJQSVVxRFVuVEZkbmhZNlpra05HUlJXMnNEZnVScVRmWS1yNWYzQU12bkluOWJBMm9FQlliWFFQMFNpM0hNNnhSR3MzUTJRTFNXWWpn?oc=5",
-   "published": "2026-10-15T07:38:22+00:00",
+   "title": "魏哲家：AI 需求極其強勁，台積電營收年複合成長率有望超越 50% 高標",
+   "source": "TechNews 科技新報",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQzlaclNoZ3hFRk85bUZkX3FHbmVReWRwQk9rX0xOZWRUbTA1OGZaY0JUdm42VG9fejZKQ252VHN2MHktZGRScmlCa2xIaFVSY2R0VGxlbC1VVklHN0VxeVRSWEFiTmJPZnNsdjdJZUpsUGllNHZPblAxUnNFN3JUU3A5c2NoRjh3UkpvNG9MWkVZUVRBNWo1MEJlV0dwdmRxclNBYTVOaDhIdll3UlJjVEdEdS1xT3luRWFuNm1RWFFkNXFzX20zZzhmVGVUQQ?oc=5",
+   "published": "2026-10-15T07:42:30+00:00",
    "lang": "zh",
    "topics": [
     "tsmc"
@@ -3139,32 +3808,6 @@
    ],
    "categories": [
     "comm"
-   ]
-  },
-  {
-   "title": "The AI Interview: Michael Kagan, CTO at NVIDIA",
-   "source": "AI Magazine",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVYyR2hxajRRc0lWYWN4b2ZUV0p4T3NnaFM4RmxnbjZqMHRoQUh4Y2w2NnplRElGelcyRy1wazlTVW5takVmdjZ5N2RsWk5rNjFMdEs5WW84emY4T0sycndJZWFuUHJnMGtZNEluSVdTUXl6bVhNeUtFY3JwY3dDV0h6QW4?oc=5",
-   "published": "2026-10-15T07:33:49+00:00",
-   "lang": "en",
-   "topics": [
-    "physical-ai"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
-   "title": "扯！德國少女當街遭人形機器人性騷擾，16 歲嫌犯還全程直播",
-   "source": "動區動趨",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmpqZU85LXo3c0VSUlFxR3IzVUlKYmdES3VEWW9fQ0hER180V1BYYU9OblU2czNtcUN4VUZnR3dfMmNQTWdrdGJsTUNBNm9XVkhqM0MzREFTbHBKM3JNRjhTM0RibHNodjlMbXhYMGt5eDczdmotc3JqdXJQbV8taHJrU0hUdnBmbWtDMnNsOFFLYVlzQkcyTF9pWFNQNWFZMnpsTWt3?oc=5",
-   "published": "2026-10-15T07:33:37+00:00",
-   "lang": "zh",
-   "topics": [
-    "robot"
-   ],
-   "categories": [
-    "robot"
    ]
   },
   {
@@ -3191,19 +3834,6 @@
    ],
    "categories": [
     "semi"
-   ]
-  },
-  {
-   "title": "A new class of batteries helps data centers play nicely with the grid",
-   "source": "Canary Media",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVdGcUNSNjJlTGNuYmVYa0U0NjBJczNWWXR5UGVXUm8zODZ2RXNkNUdGQjBYcnZnZHl4bzI3ak1GU1cwY0tYcXNHbUFVSzQ0SmlDbGlWdlVaY1ZDMmxXVGZPcGR2eTlDR3lkWXdvaGVNdkE3VGtFY2pDYWFLcXF5SzRldlJMSTJPdlR4T0FNRzluRGM?oc=5",
-   "published": "2026-10-15T07:30:00+00:00",
-   "lang": "en",
-   "topics": [
-    "aidc"
-   ],
-   "categories": [
-    "photonics"
    ]
   },
   {
@@ -3286,32 +3916,6 @@
    ]
   },
   {
-   "title": "ABB Robotics Adds AI Robot Trainer to Fashion Inductor Module",
-   "source": "Unite.AI",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOV9GTVlrMmtoVWJwaVpFbzlYVzFzOEtvbkNXcmlBYnR4ZGllS0J2SUJtT045U2U4LUZvcG1ack4tS2RGTElIaV9paU1rUmVLMmxCb1BJMVY4R3ZyOHNoZ2FQVjdDUGJzRUVFQ2FteWNGYnhGenNzWjB2OVp1QWQxLVo4a1pVZEdFaE9V?oc=5",
-   "published": "2026-10-15T07:16:02+00:00",
-   "lang": "en",
-   "topics": [
-    "robot"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
-   "title": "精準火力再升級 美無人機導引120公厘迫砲成功打擊射程外目標",
-   "source": "自由軍武頻道",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80cUZfY2cyRUZmNmVrTzI3VDJpZFlHT0FBdEJ0S0swS2w3THo5YWxucUdaSnV0cDRLVzNDSkdDblVNQkV6UjlCbm9ySWcyX2llNC11d25xQ0YzLWR2enBQcNIBZkFVX3lxTE5fWTBZNzB4Zm5JUkdQZ3VoNFlxTmZWT0VWdXJ1WnF3TWx0aDFiWF9tYWpUdjJSUkdKVU5wemd6d04zRVg5eG56YjNoTjBDOTdDWGJIUEx4SzZCM3Q1TTduRndibmp3dw?oc=5",
-   "published": "2026-10-15T07:15:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "drone"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
    "title": "台積電法說會／先進封裝競爭升溫 魏哲家：CoWoS 仍是客戶首選 | 產業熱點 | 產業",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBva3pHTGZ2Uk0wMkE0SUFaZXNxWG9mWXJqNXhUaTdvQ1BMeTlNYzFBaVFvNnhaQWkwejNJcUhXbFYzN1Q5b1hSbHd2S19UNHVka01scEhDbUw1UQ?oc=5",
@@ -3339,45 +3943,6 @@
    ]
   },
   {
-   "title": "Cerence AI and Geely Expand Collaboration from Intelligent Cockpits to Robotics, Debut Humanoid Robot at Paris Motor Show",
-   "source": "Quiver Quantitative",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHRtajBJamE1TGplZGFUajFXWVZIRE1UQUZoZFVoa2dMenNvWlVBcmZpak5jQkQzRnF2NUlLT3NnYjlBNUw3WWN2T0UtVlZTOW5sVWloZHRtNXJxQVhXMG93SHg4X3lfdVFRVXl5X2FsRkVNYXMwME52dFJPNlphLXBCTFc1OEo0SXZneHRrMzNDQS1oMjJIN1p3TUZEOUNEb3VfdXVTS1doOEF4Y2lsc3I2anZkT3k1am5tQWVFb0hLWHVVQS1wcHBzZ3l6M2FDb1VHazQxMkZ5MW1tOFA0UElmX0k1X3VlNXM5Mw?oc=5",
-   "published": "2026-10-15T07:10:00+00:00",
-   "lang": "en",
-   "topics": [
-    "robot"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
-   "title": "赴德州評估擴產！魏哲家霸氣回應：晶圓廠須由台積電營運",
-   "source": "TechNews 科技新報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLZkVERERCcWZzTndHOU9oQnVaV0xnMGNmV3RscU9NU0dQNEdYLUtlRVlGNzJ0UmtMTlF1VjJVNU51NG1oYms5NTBLd0s3Uy12MnQ4SlV0bEVxS1BVWV84?oc=5",
-   "published": "2026-10-15T07:08:01+00:00",
-   "lang": "zh",
-   "topics": [
-    "tsmc"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "【更新】半導體股賣壓襲來！日經收盤挫逾3300點 韓股今年9度熔斷",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPdnFWcGFINDJkQXdXaGtRQnJBUXVhWU01X1pGaFBJYVpZMm1RNk9HTS1ta3U1WlRyczF4WDlWTHV0ekRBT3RHYkFCdHN0OVlEMGltZ01FM0dpeURUOF83N0otUWJPVGxJc2x0bUcyaV9rTlN1ZFJWTkNuZ05nRnp2Qkg1LVZ6eV9FdU56RlNaUEpfUHpyZWl6Wnp6SmpVU1M4YWRVVENIYy1NVHBfaXprSVE2WTZnYVhGLVlGZ25lMm1wSkRhcDJsMUhnWTJiMENvQTZOeFdDbVVXZVFoRU5pN0trTThjd3h0VHVFRVpScEl0SVowQ0RzQWRhcmlaVnFfNHRBVUpORFc2M3RxNVhaQUhyajdEOExDSzVMSXhsTzNUa3BPVElLWVVHai1CNXhEUVhlbjkzSE9GdWJVVDRZV3FjREg5YjFydE12YQ?oc=5",
-   "published": "2026-10-15T07:06:32+00:00",
-   "lang": "zh",
-   "topics": [
-    "semi"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
    "title": "台積電法說會！估Q4營收達543億 資本支出達640億美元",
    "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQakxVMXpkZ2JiNUwxamlrWEgzLXJfTnZRWWtWNmZoR3VQUGdaYzRFN0tTTk9LM3VheEVmSUdmTkxEWFFJMjVSOERrLUt0X0QtMmFXOVVDeWpXbmVReHBSU2ctdHNIMF9pSUs2aV84ZlM2Y3lzaktOZXFZem1ic25NMVM3Uzc2cXVjdDI4ZGRTSVMzbXluWGc5Wmx4eTFoRGRmRFE5WFZDWk1ieDFsVWgtOWJRUmRZNllJdms2MUtwOFRtZkpVZ2RsbTZEU0VJSnJGMjM0MmZHbVhzd2RSS1VDTkNfdmJNWnF0WmxnNDktbDA0UnpTLUY3ellndm9SblFxQnc4SXZsTEVZQllsUGNKLVZMZ0oyVmpUT0dHZ3dES29OUHM0Nk9weUZKWnhLcUNQS0l6bDNCQzRDT2xYTC1GWnZjWVZEYVJ0eE11bg?oc=5",
@@ -3388,19 +3953,6 @@
    ],
    "categories": [
     "semi"
-   ]
-  },
-  {
-   "title": "Google Just Started Paying SpaceX $920 Million a Month. Here's What That's Worth per Share.",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXVwcXJXeTlyRTVrT0tPcS1yaDJBbXZnRG1vWVVma2hCME5KTXFaQnBpalRvYnBDcjhBOWFtczhzRnJocGx2andVVjZZUUZZUlBqaUlCRGRpOXNWUFRPSklkdm9ya1cxY2JPUU83U3JZaTl3czJrOG5XbGRKcVo4REg0TXFWVVRQMzRNMHNDZW5uNldUbHFjSA?oc=5",
-   "published": "2026-10-15T07:05:00+00:00",
-   "lang": "en",
-   "topics": [
-    "google"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -3427,19 +3979,6 @@
    ],
    "categories": [
     "photonics"
-   ]
-  },
-  {
-   "title": "魏哲家：AI 需求極其強勁，台積電營收年複合成長率有望超越 50% 高標",
-   "source": "TechNews 科技新報",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQzlaclNoZ3hFRk85bUZkX3FHbmVReWRwQk9rX0xOZWRUbTA1OGZaY0JUdm42VG9fejZKQ252VHN2MHktZGRScmlCa2xIaFVSY2R0VGxlbC1VVklHN0VxeVRSWEFiTmJPZnNsdjdJZUpsUGllNHZPblAxUnNFN3JUU3A5c2NoRjh3UkpvNG9MWkVZUVRBNWo1MEJlV0dwdmRxclNBYTVOaDhIdll3UlJjVEdEdS1xT3luRWFuNm1RWFFkNXFzX20zZzhmVGVUQQ?oc=5",
-   "published": "2026-10-15T07:02:59+00:00",
-   "lang": "zh",
-   "topics": [
-    "tsmc"
-   ],
-   "categories": [
-    "semi"
    ]
   },
   {
@@ -3495,19 +4034,6 @@
    ]
   },
   {
-   "title": "快訊／台積電魏哲家首證實！　「與馬斯克Terafab談產能合作」",
-   "source": "ETtoday財經雲",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92LTR0Ml9tZF84ckxjNGJHUE1uSDVfQ3hadDZtN09nNGk5OG9IWW0wRUR1Xy1QdWxVMllfZm5yaUNUdXFYM3VmSW5zaXdXT1NRZUHSAVBBVV95cUxOalZMek1PaWdEMWlpYWIwR3JBYm5zX3BoUlNwdWJUQTQtMzFsaTNkY2F3a0ozN2tVSjJSYllhNEl5UHBzV2tCa0s2bjNuT3J0LQ?oc=5",
-   "published": "2026-10-15T06:58:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "tsmc"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
    "title": "Salience Labs raises $125m to expand photonic switching technology for AI datacentres",
    "source": "New Electronics",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkE0ekhSYm1YZlpkRkhVUGZ1aXNwRFI4cUpFdDA5NGQyWHRvdklpTTBmcXVhSVBVVHBKSkloZVg0NkFIcHpMU0lfX1E5SjNWTzJJMlhEV0J2ai1ZbzVEMjBrZG1UNmhzZF8tMnlraFJ3SDJTMUZEVEtnRjJTRjNCWlpTYmZ5YXZlWWI5YTdmVXVGS3oxMW5OR0U3UkRwdUVscVEyZGhpN2x5eFBwWlNNcmRwX0o5RDFGR2NXY3VEa0h1NENGUGtNZG13?oc=5",
@@ -3547,36 +4073,10 @@
    ]
   },
   {
-   "title": "Hesai Unveils Physical AI-Focused Platform Kosmo; Shares Down 5%",
-   "source": "Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSElNN1JpWTlvQWlUTDhkeEdPQlJrTkpSM19aQ3V5eEZQMXBnaE9HSFlsRnRqM0JCNW1sak1ZOXBUYU1fanA5LTNSLWFPUjNZQ3VkOEdQaURNU0JnQnZMRUhDbncwUDRYTUtXMVpYdkRoZno4NzhkVGNmdzVZZy1vckhQX2dNOHljZzhoNlRpSUI4ZGIyR0NLMUg1R0w0WE5tZURQSjE0NHFWUQ?oc=5",
-   "published": "2026-10-15T06:41:18+00:00",
-   "lang": "en",
-   "topics": [
-    "physical-ai"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
    "title": "美8州告OpenAI 稱ChatGPT鼓勵危險行為- 國際",
    "source": "華視新聞網",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZMlBOdWNnaURvNmRiUEIwY3VkNFVrN3VtQlo4SXJOZ01VeTNYbkhrS0NrV2x0QWp0dHcxbHc3blR0aXZTZWEyRXVDV2JHcWRMaHg2bklqMFRhVkREOFoxNVFoV3RPY0JGZ0FoZC15OFYySmxjM0ZQTA?oc=5",
    "published": "2026-10-15T06:40:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "openai"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "美國女子提告 OpenAI ChatGPT「竊取」數百萬兒童資料，要求依 token 數分配公司股權",
-   "source": "TechNews 科技新報",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTzFSWGNHVmFWS1FxWFVHLUlSbktmcjFNY3VzS1JNRHRwbVQ5cjFrN1RoTTJ1b3V3Skk1SFRuSU95QUZ0Ump4YXlQdXdzQzdwTFBBY3FXOWJZdEdBaVFnY3RPc19JeklaaFBRRGJxOF9MTFhZMmtSUnhDaEw0cWoydkN0OGZVcE5SWndCS3AxeER2REU?oc=5",
-   "published": "2026-10-15T06:37:47+00:00",
    "lang": "zh",
    "topics": [
     "openai"
@@ -3617,19 +4117,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DczEwdjhVcUl1TEMtSHVQQjNTYW11NlNFRW1SS1dXWmNrZFd6WExVU2haQUNvSHliRlJIRVNUWmdKQmtPT2xjRFQxMGwtRGVPa1NBb1ZJQUJJamN1dGhoUmdfNkVZUTd3UkdXYlhn?oc=5",
    "published": "2026-10-15T06:33:00+00:00",
    "lang": "en",
-   "topics": [
-    "drone"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
-   "title": "目標價差近18％！長榮航太、漢翔、雷虎…法人點名它「老飛機愈多愈受惠」：無人機成下一道題- 上市櫃",
-   "source": "旺得富理財網",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vbDZjTl9ZV0hvX2p3alJjQnNCeUhlTzR6eFhRbFNCdmx5cjNuaFoyUDcwMjEwdWMwamFEXzVmMmZIY0R6TEdjZUZRbUVfdXZscldZc1BHS1lwbkg5M2huQmZ5YTllenJLQUE?oc=5",
-   "published": "2026-10-15T06:32:22+00:00",
-   "lang": "zh",
    "topics": [
     "drone"
    ],
@@ -3716,32 +4203,6 @@
    ]
   },
   {
-   "title": "從自駕光達到機器人：禾賽推空間相機 Kosmo，把真實場域變成訓練數據",
-   "source": "TechOrange 科技報橘",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iTWliaU5UYk9FRmNNYzhFMk9pbV9VblZnVHVzV2QxeHFvSzBmaS1XeDBQMzdRRk5FR1pLbGRPTWhTYWRvc2IwT09CLWQ1TGxpalpHaTE3eXJRREVERGd2OTJoUGNIelQ1LWRsZ1RJMFRNd28zN1RjYlNB?oc=5",
-   "published": "2026-10-15T06:08:39+00:00",
-   "lang": "zh",
-   "topics": [
-    "robot"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
-   "title": "台灣美光先進封裝與測試二廠正式啟用 深化AI時代高頻寬記憶體布局",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BWjhPRDgxX1dXb0tOOEdFWVllR3N3ODNiWjYzNFFSdTBYb1lRV3FFNkVXbGZNNkRrTTRnTk9MRzZGcV9JbzZUS1dnVV9lZlZJTXA1WVFn0gFWQVVfeXFMTkFaOE9EODFfV1dvS044R0VZWWVHc3c4M2JaNjM0UVJ1MFhvWVFXcUU2RVdsZk02RGtNNGdOT0xHNkZxX0lvNlRLV2dVX2VmVklNcDVZUWc?oc=5",
-   "published": "2026-10-15T06:07:01+00:00",
-   "lang": "zh",
-   "topics": [
-    "adv-pkg"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
    "title": "谷歌CEO給職場新人建議：別太看重第一份工作",
    "source": "大紀元",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vQWplbVh1TlRHQjJ6VFdjeFR0NTNaRjBZTmlPU2Y4anp3QUtwVmVCQUNULWFHUFNCamJPQXVDUFF2bzZCS1Jlemw4SFZqdkhvZ2xXNm1oVEtZNmV3LWQzVGpR0gFnQVVfeXFMTmRYN0w1eERyWVZlc0kyS2V5cEk0TWtIdnkxS1dqT2pnSUd2U1p0Y2JUT3UwRUF0am96cjJ0dEFPV2VtcF9uc3lPWlgtazFoZHUzZXZUbjZseWVRalRzSXNLMnhXQ0hROA?oc=5",
@@ -3781,19 +4242,6 @@
    ]
   },
   {
-   "title": "TSMC: Q3 Earnings Snapshot",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcV9pbFNTNTU0ZnhfSDZnRjk2SURpNGczUE5KN21fM000YUZxeHF1ZlM4SkFUdkFxX0FRVDUzN3pMOFNtNUNHWXNRM0tCU2tOYm1Ub1JwZ0FLTTNwQVJ4bFJ2SmZKNjhmQ2o2ZER5aEFLTGdLeFZ3eDBpbXFfMzBCNmJFbHhYMGxHdmpsV1hmLVd0a2RT?oc=5",
-   "published": "2026-10-15T05:58:52+00:00",
-   "lang": "en",
-   "topics": [
-    "tsmc"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
    "title": "Samsung Hosts Silicon Valley Summit to Discuss 6G, AI-Driven Networks",
    "source": "marketscreener.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN3pERlY2QzVwdmxlY0RHNnNqekJJcTRyN3JJTExidXRCY2UtMm5ydXRFaTVfUnBrZ2FTbW9VVU1EbGY2ZjNkajFDN1JOUmJGSUVrTjhnb2c0bFFLQWd4SU14N3doOG0td0haY3JldGdvel9QQVEwUGRKUlhqa3VKbXVJUXN4aTR1MUZ6Ry04TFMwUFdGdjIxdVJyMkJCQ3RHc3c5M0tSTkQxMXZaM3NVaTJXV1FRdjk1R1loN3FB?oc=5",
@@ -3804,19 +4252,6 @@
    ],
    "categories": [
     "comm"
-   ]
-  },
-  {
-   "title": "供應鏈高度重疊 中國車企採三種策略跨足人形機器人",
-   "source": "DIGITIMES",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYzhnSjhvU200c3hXWDlYVDdEOVBnRVFzWmI0b3ZlY2UyaW8yekhJMURVdV96Zjk4djF4eVdJQXdvQXcxS2QtYnZGbmJISUZIQXJDT2lTRUQtakdQcmVOcThxTHZqc1k3X3ppMGVPcklyNnJ2UEVuSHhhWUNFZFlXVVlLamtndEFxSXJjYVFn?oc=5",
-   "published": "2026-10-15T05:48:56+00:00",
-   "lang": "zh",
-   "topics": [
-    "robot"
-   ],
-   "categories": [
-    "robot"
    ]
   },
   {
@@ -3882,19 +4317,6 @@
    ],
    "categories": [
     "photonics"
-   ]
-  },
-  {
-   "title": "Anthropic is making Claude ‘election-ready’ as US mid-term polls near; company says: Goal is to prevent …",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUncwdzVLRnF2N082RVAxTV9hY0tNeGpLbWNhT0VrdGtBSS1CcUR1M3djQ3hrdGFKZ1JWdjl2MzZNZXdrTW5BRUV2aW90cUJpQnNYQzNxVUNxRmFxc0ZEMVpFLThzb2JvZ2J6R1FNbEF6ZFlta2pBOERjeFBIaVQtb0NNRWZCUG9OdEtLZjZvRmRkMXNWZ0h5SEtJQ3dfVWxQRDJjSndUQUJjZy1idXVGem5telJRX3kzcXNRNm1uRU1Cd2kza1I2YXQtSG80UDVFMU91dGNaRVBFYjdnTW5yZE1wd0J4YjREaDVIaENQVWdZa1REOXYxc0NVdFRnZ24tVThBZC11YVU1bHBjZGgwQdIBlgJBVV95cUxOM0tuR1h3bVdlYzREei1MelIwU252bk9HdHJRSmxTZVpFNDc4RVMyV0dGOE1pY2RDclM1eTJwTnMyamtiVGxhVU5UYXNRY1hEa2RLWlFab3JPWUowMEd3SWkxd0U1b2ZLSGthMmNMUlVFNmQ4ZmhheTg4T2VuVDJCbkc2RTBTR19vUWRlWk5za2NIdDRDbjI3OFc3NjZ3Ym5xTjRid1NXcUJGallodlE0NzhJUDRqVTJFOWF0elc0US1WakFjWWFHTktoUWdSRGdIbFpjcGpuSmk4YUp4bnFoZDZidklvMEhWMG0tT01WWkFNdjFsY0hldFJSMDlrRmhxZlNnak9PQWJiN1NhRjcyZjh3UGctQQ?oc=5",
-   "published": "2026-10-15T05:38:00+00:00",
-   "lang": "en",
-   "topics": [
-    "claude"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -4003,19 +4425,6 @@
    ]
   },
   {
-   "title": "Anthropic's Q3 Revenue Surged 45% to $16.8 Billion, Profitable on Adjusted Basis as Dario Amodei Courts Investors: Report",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPN1hFemt1NjBhcnJKejV1azI0bjZGdnpFZFJkeGtiOFQwc2NsVE5WN2lqZ2pDWGM4MmpVMTVUaVJIOEE4Vm9vaHNsQU5IclBzRENKYUxCTW9CREVLaVdwM0VRT1NoNXNaVzhrYzM0d1k3THJUTjhsNy1tci0zNE9rd1VnTldQN1Uzd0E2akFubHRyZERIN1B4Z0ZTdi1WaWUteWswRU43NnpXLTRwcTgwNGx0LUFfMzBlOGdPeV82MWV2eEtLODI3LV9uemQ4UXlXX2ItZDdrZXNwQXBwWnl2VXF3Vi1TdUdveGZmSU5STmlLODAySGRnUnhkMF83Y3dfSGRhWk1XRQ?oc=5",
-   "published": "2026-10-15T05:11:00+00:00",
-   "lang": "en",
-   "topics": [
-    "claude"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
    "source": "NVIDIA Blog",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1VnZ3Q0NabGw5VDBWc3RjSEotNnNaRDhyMTRJcF9VczhMTTB5Ui1ad2FQZllkTy1WNUhubmNBLXdjcDVQc3V3VzJsWkhjWlF2M044SWNVWGQxYkhBajBXeGVEeEpDU0UxZWZr?oc=5",
@@ -4097,19 +4506,6 @@
    ]
   },
   {
-   "title": "Google is now emailing Gemini subscribers about a change that will cost them 4x more",
-   "source": "Android Authority",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOTljSXZiX2lqSkhiVldYMURMSTBZNzF6dzRzaDZRdDg1YnQwWkw5LVdFR0RnZmlVakc5WENCSGhkNDVKTGVIZlplMWhlT2ZrWkhxSTFnYXJiMWhERjVFRVNSSUNJNEJpY2lqY2FQS1lUakdYcUZBTnh5dEw3bzA3S0tGR2RBNHRnSVBybThUNA?oc=5",
-   "published": "2026-10-15T04:59:00+00:00",
-   "lang": "en",
-   "topics": [
-    "gemini"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "MSI Cyborg 15吋輕薄電競(i7 12代/16GB DDR5/RTX4050 6G/2TB SSD 大容量)",
    "source": "Mobile01",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBleXBueWlXYkhvYndMQlAxRlVDRFJkbU40RktWdXBpbzZwbEtkbmlJeDBPVERXYk0xYU5rMmZCektOLUcwN2Fab2FFcDhPc052NkZoa0JQaHhXRFg2ZUZNOWVUVVNUQQ?oc=5",
@@ -4117,32 +4513,6 @@
    "lang": "zh",
    "topics": [
     "6g"
-   ],
-   "categories": [
-    "comm"
-   ]
-  },
-  {
-   "title": "Anthropic’s Claude AI to offer official US voting information ahead of 2026 midterms",
-   "source": "Firstpost",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGFhWUo4ZTlQek5mT0h6dHdQdDJhMkZGSzFoUkhhV1BQaW1ITmlVY254a19DVW84VXRIdnpaRnZtQ2RfVDRiNExFTzFTbWZEck9aUzQ4MzZGMmhDUVl0Umswc1N6ZVVQeXUyLTlQMDJrRm1zSFZDQkRuX0p6bEw2cl9LTWtuZU1CLV9odV9FaG5UbXZpRW5INzd2c2xGYzdfbnpNc1NyekJ6VUFlNGtZaUFJUTRsVWRlOW03aWVCWG5OUW1OSkRF0gHMAUFVX3lxTE5fRW5tcWZYZ2czZDlVQzdka2RBcklhVDNLUmN2TFlrc20tME50cXVmd082SjI2bW5Ialp5eFBNdUlnWGM1REk3MEtTX1FHaVZiMnU3UWdCWl9PcU9LMVVDVzU5Snh6M1ZuUDBGalh5RlhTNkRNM0V5SzlDdU90RUZsalhnVWI4U0FGUXVxRF9DMm5vX19abFpVVXVQN0dLcmd0WFNBOFp6SXpPeFA5UjBlMlpheUNkRWhJbXRFU2gzTkF2TmRDdzlYMHpJag?oc=5",
-   "published": "2026-10-15T04:41:51+00:00",
-   "lang": "en",
-   "topics": [
-    "claude"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "[FOUND] Silver Alert: Missing 88-Year-Old Richard Arredondo",
-   "source": "The Katy News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFVoS2s1S0ZWcURyWWdodmxuUlJ6UTBMcG1MU3lfUDl1NEhNd1Izd3MyUTZjT0lRdXVucDhSaG1vU19LWXNyN3o0ZDJOWUY1RS01ZkdNUWRfOHJxSklQSlZKZVFELUNUaldXQm0yekRxVS1kRU5vLThqLXNtMXA2SU00b0oxb0NRblNHOTZlWFRKX3ViMTdfSg?oc=5",
-   "published": "2026-10-15T04:41:25+00:00",
-   "lang": "en",
-   "topics": [
-    "iot-sec"
    ],
    "categories": [
     "comm"
@@ -4159,6 +4529,19 @@
    ],
    "categories": [
     "photonics"
+   ]
+  },
+  {
+   "title": "Kawasaki Kaleido 人形機器人瞄準 2030 自主上工，先巡廠搬零件、災害現場是終極目標",
+   "source": "SUPERMOTO8",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oUDZ1aVdudzR4dHhBUElyVU5IdWR3RzYyWTlWUmE0NDJqV1Rzc29TbGh4S1c1bXFIeDk3RTJtQ1RETWJXZTNNZ2dfOC1iNW45Zjh3?oc=5",
+   "published": "2026-10-15T04:38:23+00:00",
+   "lang": "zh",
+   "topics": [
+    "robot"
+   ],
+   "categories": [
+    "robot"
    ]
   },
   {
@@ -4237,32 +4620,6 @@
    ],
    "categories": [
     "photonics"
-   ]
-  },
-  {
-   "title": "一檔股票拖垮全球半導體？財經名嘴：美晶片股是看SK海力士臉色 不是輝達",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Z3lIaDVFZGl2TUFOeFFQX1J5VFU1ZTRQYWh0TTJWb1ZMc0FidWFqajRIakp0N3FweV90TUs3dnM1dWhJbG1MM2VLUi1tLXM?oc=5",
-   "published": "2026-10-15T04:20:04+00:00",
-   "lang": "zh",
-   "topics": [
-    "semi"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "TSMC Eyes Sixth Straight Record With 65% Q3 Profit Jump - Taiwan Semiconductor (NYSE:TSM)",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQzdSdDhoTk9RajdNemxDS20xQlpmQW5VN3lISjl2UW9qN0psVGp0Y1BFZnZyZElpVEpyLXN3cmpCdE1tMW14ZUpCMzdlQWZfYkQ0Q0xKeVV2bTQxc2E2eG1hdUZFSWp1SU1SQXJObWVfdGFBQjM5TnphaEhoTm5CZy1Ecl9LdG5zVkRORWdXYWpveHRFT2RsWEZCU18wVzZf?oc=5",
-   "published": "2026-10-15T04:16:14+00:00",
-   "lang": "en",
-   "topics": [
-    "tsmc"
-   ],
-   "categories": [
-    "semi"
    ]
   },
   {
@@ -4370,11 +4727,11 @@
    ]
   },
   {
-   "title": "英偉達 CPO 網路交換器量產住友電氣工業成關鍵夥伴- 財經新聞",
-   "source": "PChome Online 新聞",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZTUtaUxXUVdkcmFvYmNiRTJZTXBpWGRvMEQ2UjBHRDdFOGdja21ZRmRuRUFqREFMaURNQ3lja3VxUUhpWWNwNjdISFVMNmtNS3djRV9Id0I3Sm13dzY1UURlSTZienNUSWg4ZzdTYXFRLXlwNlVjNlBsejRDdnhUWVdvSzQ1UkpfLWhReQ?oc=5",
-   "published": "2026-10-15T03:45:58+00:00",
-   "lang": "zh",
+   "title": "Supermicro OCP Accepted Portfolio Adds 48V Busbar ORv3 Racks, a 250 kW In-Rack CDU, and a 102.4 Tbps CPO Sw...",
+   "source": "StorageReview.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMXNja2ZUWXVnS3JSaEtfYmFTcXljZG5kN016dDJBY0RlaVVuOHpraWgzUnhUcndjOUxZY0c2aTBZc3dqQk9PU1VPMDhzeFF2X3RjYWVyWll4ckxsSHFBaEtzaV9aSkU3RUpPLXlGNzJva282TFFaMENGV09KOXNxaEFLTUMtaDhULV9IbWtDelI2b2h3cDk4T2JXOFNvNWc3Q3o2RUljOVRwZVpBUjBxOGFWdFIwVk4wTWfSAb8BQVVfeXFMUGF6LXozSmhpT3VGRTBicFlWdHBJSElDQjhoX1V3X0RzamwwaFl4M2xDdTR4bHdFY3pjWEoyZjNiNWZNWWMyZUhtNHpKYWJTWXByOURjYk1hTnhyOWdHZ2c0NnQ0TmhMMFlqU25NbmhnQ0ZlMGxWOXJJc1hjN0p6MzlxYmtCUlhYa0YxYXY2bUVVNGprSENjd3VaX1B3OEluWWs2c3dNdUx2QjN4SWVKQ3ZzOEcxOTdiUm54UXduREE?oc=5",
+   "published": "2026-10-15T03:47:24+00:00",
+   "lang": "en",
    "topics": [
     "cpo"
    ],
@@ -4416,6 +4773,32 @@
    "lang": "zh",
    "topics": [
     "google"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "大量背鑽機訂單見至明年，半導體占比續升",
+   "source": "台視全球資訊網",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUh2ekdFOTAyM2xnLWhqdVdVV0w3bVFucFF5WDBaX2drMHJpYkZDMERmdDIxYnhLcnRnLXAxTC1pWFVxWkRfcjU3OUtMUjRaMkZNS1pkZDVWYnRES2ctNEtyQ1lXWnpuRl9Gamtuel9Vb3dYS3V6NjhnTjJYRjJ0U001ZXl4S1pMMXNITGRYalM4QQ?oc=5",
+   "published": "2026-10-15T03:31:39+00:00",
+   "lang": "zh",
+   "topics": [
+    "semi"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
+   "title": "Anthropic News: Latest Updates on the AI Company Behind Claude - Bloomberg",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RWXl0T0lpR1J0WE1VZ050anMwUlhTeUEzVGtGcDhYUTNKUnpsMDlkZHV2ZEpGanBNc0Vxb3VueVBYQ19pc2xlWTVvdw?oc=5",
+   "published": "2026-10-15T03:28:47+00:00",
+   "lang": "en",
+   "topics": [
+    "claude"
    ],
    "categories": [
     "ai"
@@ -4487,19 +4870,6 @@
    ]
   },
   {
-   "title": "Claude母公司開始有錢賺？ 料於美國中期選舉後上市",
-   "source": "winandmac",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85bjByVl9tOTd3SUFtNVcyQXAyLTJPVmMzdHpBNWhPTXVubi1YZXdaWW9kMHBZY3JTeG94ZEFTNDdPQ3kteW5VNktWcHo5U21tRHAyazR0bzhzbHVnX3A3U2hwREQ2TEtt?oc=5",
-   "published": "2026-10-15T03:12:13+00:00",
-   "lang": "zh",
-   "topics": [
-    "claude"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "把槍擺在筆電上「恐嚇」Claude！男子開玩笑過頭害全公司帳號遭停權",
    "source": "ETtoday AI科技",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SUWl4SnVyMFhpeXFHN3FJaXphMGQ3WXBaZUV6Mm54ZjhkTGtoVTQ0ZWUzZGd4cXFiUUh5eG9yUU5ZYlpBRnBEbzdQSdIBSkFVX3lxTE9oNWZtdUZIb0Z6ZmRzWUg3QVpTV0xsUXptbXFmUE5PNTZqbGlsSFJkR25xMVlyeDQzOEplRDk4Uy1KMmRVYU15b1B3?oc=5",
@@ -4562,19 +4932,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "title": "NDSU forum tackles data centers, AI",
-   "source": "Valley News Live",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDRBRm9heHF0R3lJN3VnQXNET3NKaWpUSXVTbGVIXzF5dTh0MENDeUMxcnhCOE5YS0E4WHhKVmdqYXdmTFd1VUpSUWtkUWJTWmJZSXI2NUNVRGQ4eWphMVRwcVh4ZVFuTFVKdzRyWlRydVdRRzhqbmpmM2xEUmpiT3RLbw?oc=5",
-   "published": "2026-10-15T02:59:00+00:00",
-   "lang": "en",
-   "topics": [
-    "aidc"
-   ],
-   "categories": [
-    "photonics"
    ]
   },
   {
@@ -4682,6 +5039,19 @@
    ]
   },
   {
+   "title": "從台積電法說會看台股下一步！CoWoS先進封裝爆發 00418A深入前300大卡位受惠供應鏈",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNU3E2WmNRVU9yT2E1dWNpZTctLTh1WHdOdTIxWWFqVVpfMzUzYkl6ZWdqWG5TSDBPRXBaYjlwWjhObENYNnBhRk4yYmg0TkF0NHItUm5kNnJKZkdrZWFUUWxpVUxzLXZFZ2pSWHFOV0E4ellVUk54Vk9PMl83UDB4OVdWQUFwbjhrdFh4bVNsLTJmNVRuUFBCZklWX29ldFV6VXpuTnYtc3pmbW1pYzN4WFRkcjBXaE5GN2RCRW15aHVSX05IbEV3U1JQYjRqUEVsZ1ozV0RCTk9hTEJ1ZU9US1JLSHlGYUk2TjlKY3hFb2VJeVlDT0pwUk1kS0owLS1SbW5JNkROeVN4Z3g1NWo1LVBCSWdWQkpRMGdlVDNMRkNKVkZuZTRZLU9lbl83ZjgyLVNlU2pjUjhCLWRPUkxyQklaVjlMRnFzRVRkVHNrdU9FUnBlVlc5eW1hZ215SnBoNDZleXZic3YzRUZ0SVIxdDZJaElKb1NHeU0ycmVzRHc4cWdibXQ4MDFxdkpQd2F1QTM4V25fWUhEYUdEM0NmeVI4eldEaDdFM3dlSU13OG9MQ2Jhci1PZUI2TkNyV3dPOTJKc2xsWXUzSzN5WlE?oc=5",
+   "published": "2026-10-15T02:42:15+00:00",
+   "lang": "zh",
+   "topics": [
+    "cowos"
+   ],
+   "categories": [
+    "semi"
+   ]
+  },
+  {
    "title": "America's Greatest Workplaces by State 2026",
    "source": "Newsweek Rankings",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUo5MXpfRGdNODhhay02SDJZajBnbUVYZnR0bS0zNzN0V01xb2ZOSnFILUZ0Zmw2OS15al9sa0VHMV9UTnE1bzdFekNhQld0T3lKTWJ6ai1hZU5sTkNkemd2RTFQd3hjSGpaMjlITlZaQWNOeHhNZXVCUE9WUmpnTg?oc=5",
@@ -4689,19 +5059,6 @@
    "lang": "en",
    "topics": [
     "top10"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "從台積電法說會看台股下一步！CoWoS先進封裝爆發 00418A深入前300大卡位受惠供應鏈",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOTHBuNnNkc05vMmJacFNDOFMxVHVVYjc4OURtel80T05YODhHMW83M3Fsd0owRlNsQzBPUGFuWjlWNlNjWmUxakg0TWtxblJkREMtTzJBMXZXdUQ5X0d3OHY2eGF6aUlvamR0a2Z5b2l3RC01ODdmVFdOallHTHVhVkJncTJQdDVBT2JpUnJTYUJjT3ZmWTZXdllRak1tWV9CSjRjMDhrTDJEX3RZYkR2dWMwNWwwWTA5c0JzM0xmM2FXMnRqVFVqXzFpMEFaVzJNamdfSjE2V0xadmplVXdhY2traUdrdlIxWVhQWlN0cFFSdGswd01GTEVtWkZXMFJpZTVpSDdnYlRQYndWWVIxN3VlUmh4R0R5Uk0xMkR2ZVlFZzI5Y0JnRUFDVXVkeXZWclRVMUU1S05xRDFBUzBpTlozbjlfbG5aTUtvYWJHT2pxU2ZBOVAzOW56OU9aWktqZk9aN21BY0syR21MN3pYYlpYQkozb2JVX1pnQXFBbm5pclJJY3BVNWFDaS1iMWtHbndjbVY1T0NSenB1ZWM1OUVpSVcwa3gtYWhabmg3RS1sblJSa0ttaExUcFRkTnlEN0RLSzZn?oc=5",
-   "published": "2026-10-15T02:41:14+00:00",
-   "lang": "zh",
-   "topics": [
-    "cowos"
    ],
    "categories": [
     "semi"
@@ -4734,6 +5091,19 @@
    ]
   },
   {
+   "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDNlZmdxUUtpdjRlWUlycEJKMFdvYk4xUkxiLTNnT2xrLTZPdkRkUU44aVBfU3NleVcxc2tMRTBvd2tQU01MRWJwSnhKelJ4d3ltc0JoUnhza3FqbjhVcndVaGY5ajhfOXhyVXl5dHZmZkY2dUNLek1pdHRuTVRnWVd3Z3ZjSjNpcGtkRUFHemZTWjhScTVGZjhUdmFKUQ?oc=5",
+   "published": "2026-10-15T02:31:10+00:00",
+   "lang": "en",
+   "topics": [
+    "openai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "title": "Google 正式開放 Gemini 4 Argon 模型，主打長期任務與超大 Token 上下文",
    "source": "T客邦",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51TGNnclhreURQeVczMThUZ19HeGpabGFHM0k4VkNNTklyTnBqREczRHFPbVpzN0UyUlNoN29VZC1LM1RKSHhHQmxkc24tQi1DUDRpUE1yYmJFRnc3bm1RMmc2MDVBSTdHUDNEelRYaFNMYnppV3ptcy04LXBUZw?oc=5",
@@ -4747,29 +5117,16 @@
    ]
   },
   {
-   "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
-   "source": "The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDNlZmdxUUtpdjRlWUlycEJKMFdvYk4xUkxiLTNnT2xrLTZPdkRkUU44aVBfU3NleVcxc2tMRTBvd2tQU01MRWJwSnhKelJ4d3ltc0JoUnhza3FqbjhVcndVaGY5ajhfOXhyVXl5dHZmZkY2dUNLek1pdHRuTVRnWVd3Z3ZjSjNpcGtkRUFHemZTWjhScTVGZjhUdmFKUQ?oc=5",
-   "published": "2026-10-15T02:26:38+00:00",
-   "lang": "en",
+   "title": "ChatGPT 涉重大兒少安全疑慮，美國八州聯手控告 OpenAI 誤導消費者",
+   "source": "TechNews 科技新報",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHRiTU5sRDJaejlyTXYxa08tcUVEU1BwNVlkOWRvMUU4Z0x5bzV4RXhnY1dQbmhiQWprdFdjdTJoQk0tTXJPdWlXWjNtejlqNDhaMXp4cS1lYk1raW13Z0ZJa0VDNzJ5MjJBSDJPYnlkeU1Rd3J2dnVaeGtiX1RjdEl4V0xfdw?oc=5",
+   "published": "2026-10-15T02:29:33+00:00",
+   "lang": "zh",
    "topics": [
     "openai"
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "title": "台灣人在柏林做AI資料中心想吃的「漢堡肉」！NextGO Epi押注下一代省電材料氧化鎵",
-   "source": "Meet創業小聚",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IY1RSZnhOWnk5SFhXd210VFlkNnpYWkhYMzlaVk5mM3dtd2x2MVplajY4MzJ6cXhBZWFjLVczNGpDQU1CWGtYa1BGLUZNQWpnVS1zWDBxSzE?oc=5",
-   "published": "2026-10-15T02:26:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "aidc"
-   ],
-   "categories": [
-    "photonics"
    ]
   },
   {
@@ -4783,19 +5140,6 @@
    ],
    "categories": [
     "photonics"
-   ]
-  },
-  {
-   "title": "中國人工智慧加入「失控」大軍：騰訊AI被指越界操作- 紐約時報中文網",
-   "source": "纽约时报中文网",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVR4VE1SZkVJR1NoSnd5TEozNEFZV2RVVTFlaWhDZVV1S1NWRThSLWJzbFU0R0NHMHF1RG8tbjR0NlRYN0JNeGtrdVRnYUFZVkhjZng4aU1FcXdlcVRiMjNSZWtWRE1uUE9zaTNkMDFVM0tDNlZRbnBuQmh5aHZWWQ?oc=5",
-   "published": "2026-10-15T02:20:26+00:00",
-   "lang": "zh",
-   "topics": [
-    "ai"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -4943,19 +5287,6 @@
    ]
   },
   {
-   "title": "Anthropic開放第三方呼叫，Claude訂閱生態系迎來擴容",
-   "source": "BigGo 財經",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SS2NHLWhzRXJEYXByM1dVRmRrVXJrNENfN24wSG04MmItVDJLakY2bXpXRVowODBGWHF2YWxHZ3MyVHRuSXBDaXlnSmo2bExkUDFkUGcza3YtMWdiM25vT1lnRXNQTHhFdE5Nd29qdUlJMmRQOGctTV93?oc=5",
-   "published": "2026-10-15T01:55:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "claude"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "Yuan Jen targets semiconductor shift with focus on packaging, specialty wire materials",
    "source": "digitimes",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmp6TmtkQnQ5V0RUemUzV0JYbG1Ydk9FNk1LTVdlVlJHT3BkR0h5WVkwVmgtbXgyOGRQeDFiRDBqdmRJcFFNRXhRS0lBRExPOXRxcU5MVDJ5Q2xUbzk0S0tIdXBkLUYyc1hLTTc1NTNWWlB6ai1Pa2dKZV9SaVNUTFBnUEN6elZkNUYxb0JQLUhNcTFpcGI2ZQ?oc=5",
@@ -5047,9 +5378,9 @@
    ]
   },
   {
-   "title": "中小企業也能擁抱企業級安全AI 資安工具成防禦新利器- 財經新聞",
-   "source": "PChome Online 新聞",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWlGaUx2RkhyRk1zM29JUW9TYkxFWXRxNTl5QXZ2RVA0cWVIdnEyWlI2cTVWV2xkS3dOZ2E4UVExVndfaHRDM0hKaWNVZVFIdWRvWmMtSjNoSGc0VG1rZm9BOEs3aE00ZC1ua2UyeDJ5aTBkOW1wNnFpUmFOMUFPdjZncVM1MTdCd0xIdA?oc=5",
+   "title": "中小企業也能擁抱企業級安全 AI 資安工具成防禦新利器",
+   "source": "商傳媒",
+   "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPMDFobFBsV3E0U0d1NFNURDU0bkVoVWZHNVJuRFBEc1NQXzRwb2p0aVZHWDdsbW1Uc3NvcFFSblNFSEMyX3pNWmxKcnlLVW1wM2huQ20xLUJpVFJxdFFiczdaRjlvNHVZSFlIYkdVUzV0ckxTRm4tZUdrOVhiYURZOXNNdGc4U003TjRHX0FKMXBDaDJETk5IQnFkY1lHVjEtYkM3c0tXVFZ0TDBTdHFhRWNUbXo4dzE4ckVkaTYzeG04enhqQWl5MXpMbFBsTGVLSHR1NFBrOW5MZUhqNWJEZmZpRWpOUFRsVnY0Z2V3MHdpZmQ1UkxnM3gzem1aYm9fRDYyc050Y3JUSjZyN0k0ZjZRSTR4RTY2X2FnOXB1MXJwWk1DTktHX25QV01URVM5bmV2UVFwVHlYTko4eTFrUmFJRm5BS1RVWDA5MGVOWGZoRy00YTgtSVlpOWhyS1RZSlVtajNGX2ZzRmF1S3F0MS0zWnEza19FVmdOcjg1QzRDN21Hc0Ytd21ZaHEyR1U?oc=5",
    "published": "2026-10-15T01:43:50+00:00",
    "lang": "zh",
    "topics": [
@@ -5057,19 +5388,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "title": "無人機飛太快直接斷網！美烏關係緊張之際 華府突限制基輔「星盾」服務",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OcmVtT1h1TU1TOVFnTEpVd2pPR0o3YUlOMGl3V2ktaGhBendKY05PMjV2ZDVxTVhUNk1BaG9QU1hvb0pfR1k2WmVuajlyT28?oc=5",
-   "published": "2026-10-15T01:40:04+00:00",
-   "lang": "zh",
-   "topics": [
-    "drone"
-   ],
-   "categories": [
-    "robot"
    ]
   },
   {
@@ -5102,7 +5420,7 @@
    "title": "Anthropic cut off Claude users for election-related abuses",
    "source": "NewsNation",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3l0Q3BMRlR2ZVUwQzludjNHWVREQzN6aHZlRUhoaWJLeUQ2TlQ5Tks5ZEluLU5ocUJCMkd0NWtXU2ZyRVRZZVFrc0pDcWlnWFVHQTN1ZVRzZjBPVU1LSE82SGpWWDhMbkEyU1JHU1lvd2JjUEFweEJ2OE1OMDVyVFI3U2pGcTdubGVR0gGQAUFVX3lxTE9BNWVud3RSNzhqTmtQYXBhaS1MZC1FSGQyNjVpc2V5RlFibl9iQXk2UnlLN0ZGdk13YXNwb0ZRekxtZmtKc0VTRUlwR1FJUW9BdklEOGtma2d0MFFVWmMxb1k4LU1YYVkxc0NELWk3b25Eb0tDVEx4NTVFVWFlOUxSWkZ2WHNwdm4xZ3RWUVU4bA?oc=5",
-   "published": "2026-10-15T01:25:34+00:00",
+   "published": "2026-10-15T01:27:14+00:00",
    "lang": "en",
    "topics": [
     "claude"
@@ -5122,19 +5440,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "title": "台積擬返龍科三期 設先進封裝廠",
-   "source": "自由時報",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1udWIzb2dub2ZMOElaMy1Eb1o2UzQxMEVLcnF4UWhjT1NPU0QxZVd1X2RPSHFKOHlieWNYRlNMeU10UnZJcl9lQXpSVnN2YzZwYjRUVVVrcTM?oc=5",
-   "published": "2026-10-15T01:12:09+00:00",
-   "lang": "zh",
-   "topics": [
-    "plp"
-   ],
-   "categories": [
-    "semi"
    ]
   },
   {
@@ -5187,19 +5492,6 @@
    ],
    "categories": [
     "photonics"
-   ]
-  },
-  {
-   "title": "History Says Nvidia Stock Usually Rises in the Fourth Quarter -- It Has in 20 of the Last 27",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGhzSEMtZHZhSjJQVVNCeDFIX2FhRHE5TnQ2ZlJzOTV2UjZrNUltY0dFckdnYnZ0NkNoZzFhalJXMnJZeG96T3BXUUE2WUxGLW1rZXYzUzNHUng2c0NTend6UHpJaFNhcENvdS0yc25PTkYtaFItbXo5QjdUSHE2YnU1TmEzaW1SM2pCUjEwOE5NdmZTazZpTlVlNUdaTXhlTU9uOFRBUGxwMVpndEFEZDdBdjE4ZU0tbDJSTzg1SnFmU1J2NTM0aUU0SEU?oc=5",
-   "published": "2026-10-15T00:51:00+00:00",
-   "lang": "en",
-   "topics": [
-    "nvidia"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -5282,21 +5574,8 @@
    ]
   },
   {
-   "title": "美方突然限制烏克蘭“星盾”服務，無人機飛太快直接斷網",
-   "source": "群益期貨",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWk3cmFZWXVkc1RHNDluTEVWcERxVW9TQ2EtYkJ0OUN1Rnd5dklJOEZqUUJveUhBSG9aQ3NGTFlKUGU4OW1XUmd3MllBMjh3b1FVN015U2kycnh4Y3lzU1VkLVN6Z0JsQWY5cU1mS1dGOER5dVE5aDZGQXBMLWJzanFUcDZsck9JQ05oVXk3V0ltelFlclpUVmpkQVBjTko1?oc=5",
-   "published": "2026-10-15T00:39:02+00:00",
-   "lang": "zh",
-   "topics": [
-    "drone"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
    "title": "AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science",
-   "source": "Chromatography Online",
+   "source": "LCGC International",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVNpQS1kMHVuNkZNTi1nZkxEVmx6LVIwX0E4U25qOVlteER3WVdObkZWc1otQm9zU1dSVzB3Rm1lOS1sbldsZWw5ekI4a0ZfcVprS1VkaUtsaHd0bkNLeTA5VURnRHAyNk5PSGlnWUp4X2ZkR1JGS0Z4MHlfU3RPMXJ1d2FhTEQyeGV1eVByVHFNQTFIbGtXSkliNE9Xem1sTUwtVzQ5akJiOGRWYXVWZ1dnNlJJNHZ1SURkVGdRZlR4d0s2Z3hBVmdzXzFYTVI0NW92WTZTeldOMkZJbjdJ?oc=5",
    "published": "2026-10-15T00:36:52+00:00",
    "lang": "en",
@@ -5309,7 +5588,7 @@
   },
   {
    "title": "Gemini 4 Argon on GitLab: Built for long-running agentic work",
-   "source": "GitLab",
+   "source": "about.gitlab.com",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rQ2xBOXZOenZkblFXc0t3eUVLWnpoMnA0bjUyTlRSSWd0c2J6NWk0OXV0TzVpYjQ4S1BVaTRUa3NpaHZmaTU2c2FTbGFoV0ZNSHZNZllZQjJQNFNfanBuR19WSW9Sd3BQ?oc=5",
    "published": "2026-10-15T00:36:35+00:00",
    "lang": "en",
@@ -5318,32 +5597,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "title": "Google 推出最新旗艦 AI 模型 Gemini 4 Argon 即日起 AI Pro 或以上訂戶已可使用",
-   "source": "Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdTRtaVRzOXVPZDdnc1JRVHdULVk4ZTQ0V0hydENJV3JlaDFobDFfUUpZWDlHT3F4VWdxY0hCNERDdzRwWUVybFhpa0dUUHVIZlJWTDdSdGFha1BZLV83U0Qyd3pSQ0liMWxRSlpSODVBb2VfV3hrbFd1bFRRWi1kaUx3aV83cWJiTVhrQUdfbHo3TWpibUVZYkswZXczX2oySjFkMkVqVTY5aWoxWG9pLTdxRDM3emN1R0wzY3NuMW9NcktiNHRmVWhEQQ?oc=5",
-   "published": "2026-10-15T00:35:36+00:00",
-   "lang": "zh",
-   "topics": [
-    "gemini"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "川普亞利桑那集會提台積電，稱美將占全球 50% 晶片產能",
-   "source": "TechNews 科技新報",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGZOaktDQWVOSHVWQ3pQendFQXdObTFJakgwc1RYR0Jha3QyNnU5Q3lHaUtURlJVMnRTOE1fRFVUQnlVWmRHOVFJel96cGRMUlp6V3FSWXhoamtUMDdwRU5zdTJQYUduR2pNODV1NEs5Y0x2QlhnQndGRExiQnk3OTMwR3ZyZUo5dTViNnlR?oc=5",
-   "published": "2026-10-15T00:32:47+00:00",
-   "lang": "zh",
-   "topics": [
-    "top10"
-   ],
-   "categories": [
-    "semi"
    ]
   },
   {
@@ -5370,19 +5623,6 @@
    ],
    "categories": [
     "semi"
-   ]
-  },
-  {
-   "title": "輝達擴充CUDA-X AI工具 半導體製造模擬速度提升2至3倍",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwaHVhZzFwMkJtcTFnV05DVE1ZWWdqSV9ZUnRkdWYtTVRiM1VFbXVkRVBHUzdzTkhQa3BmNjJWUlJHTDdGb01vbTJRZw?oc=5",
-   "published": "2026-10-15T00:20:08+00:00",
-   "lang": "zh",
-   "topics": [
-    "nvidia"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -5470,6 +5710,7 @@
    "published": "2026-10-15T00:00:37+00:00",
    "lang": "en",
    "topics": [
+    "adv-pkg",
     "plp"
    ],
    "categories": [
@@ -5529,13 +5770,13 @@
    ]
   },
   {
-   "title": "How Should Engineering Schools Adapt To Artificial Intelligence?",
-   "source": "Aviation Week",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDFtYjREdWJtWEE3a2ZGcHhiN0RQSF85TXJFb2NSZHhRM21KeFFBUlhLMjJzQk5ma1NFRThzQjVEdlRTZVBFb1JPWVE3czFGWVo3d2hSZEtBNG5qODhWS1J0VFNjQnlyV29sc1hFcTZjOEphUHdnWFI3ZDRGbWswTTFaQjFsX1V4SWRrOVY1VzR5TXc2bGxVZ0VWQnJmTWFyQjVPRmV0Vmh1THg0eVNQZXR4LTQyQVFFbEdHT3I2VQ?oc=5",
-   "published": "2026-10-14T23:44:22+00:00",
+   "title": "Anthropic's quarterly revenue leaps to $16.8 billion as IPO looms",
+   "source": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGxFd28tYWotcHdnVnUzVUE2a2xwNUpuU3NiTHFVM0ZhVDc2QW9ZeHlmTjRPU2dIcnVoOE5MMXJ1SmVmY0VTM3NLQnFDc0taR053cGtrZEFORHBudXVtSEpNT2NUWV91eGFTSVAxMG45ZTJLcEdhbFNBcEZJdkJyLUp6R3o4YmdhQUJ5R0MtOTJXazc0OWE4dA?oc=5",
+   "published": "2026-10-14T23:38:00+00:00",
    "lang": "en",
    "topics": [
-    "ai"
+    "claude"
    ],
    "categories": [
     "ai"
@@ -5543,7 +5784,7 @@
   },
   {
    "title": "Ukrainian drones hit Russia's top data center in attack on AI ambitions",
-   "source": "KSL.com",
+   "source": "KSL News",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVlfRExJY3RhWG9kY05idWUtMU4weHhnazlhSVNoRk9VenFsTXZnN2hHamQtNXlJTGJxWGFmSzJXSkc2Q0FnXzM4RVJkMjJ2bDhUMlBBczE4bVNRZnZOTkYtRnJSMlJwRHMzWHUwT1VWc094SVdaMWE1eTdrMFZiVk5fdzVEcGcxTkR2Q1NUT3FpUU1oaldPdnVDNFhMUjZtY0dCMHlwS2pYNGs?oc=5",
    "published": "2026-10-14T23:36:21+00:00",
    "lang": "en",
@@ -5552,6 +5793,19 @@
    ],
    "categories": [
     "photonics"
+   ]
+  },
+  {
+   "title": "Anthropic 第三季度營收達 168 億美元 預計於 11 月進行 IPO 推介",
+   "source": "Techritual",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14d3E1Ylp4UzBOaEQ4Z1BLcTllbFY5SDdiU1ZpYW9mX3pGd0MzZ2tVWTFRUnVzQUJqS0FjaG14dnJMU2xyazBqN0ptNUp0Xy12Zmg2Tl9acGo?oc=5",
+   "published": "2026-10-14T23:31:09+00:00",
+   "lang": "zh",
+   "topics": [
+    "claude"
+   ],
+   "categories": [
+    "ai"
    ]
   },
   {
@@ -5633,45 +5887,6 @@
    ]
   },
   {
-   "title": "人形機器人涉猥褻少女 德國警方介入",
-   "source": "大紀元",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1dHRaamhlcUg3bmdlY3k3TFJENEtQQ2ZtLXE4S2xFVnBrLWt6MkJKZGZzX182VGR0Y0Qya0VWZFFwbU1IeGItb1VadTNnWjVzZEo3ZUpRY3BJX2h3MHlZMWo2b2JoTmfSAWdBVV95cUxQdXR0WmpoZXFIN25nZWN5N0xSRDRLUENmbS1xOEtsRVZway1rejJCSmRmc19fNlRkdGNEMmtFVmRRcG1NSHhiLW9VWnUzZ1o1c2RKN2VKUWNwSV9odzB5WTFqNm9iaE5n?oc=5",
-   "published": "2026-10-14T23:07:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "robot"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
-   "title": "TSMC 'prudent' going into 2027 after posting sixth straight quarter of record profit",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWE9HY3JEZl96LXVuQmdXM1I4VVBoUUI4d09uNk9qYUdDSXpBTE8zYnJsNUwxUEljLXJ2aTYxYW5rcnFza0duNVNVRnFCWVAzd19MSXVzUTc2cnhnZkxfaVNXS3I2b25JNlJHZnlpMmpiTkQ1NXF5cWNVTG5sRTk3TE9fZExqRExHcjRUa3EybXEzZ1JRNjJPYlZUTWVaMk5hdWJta0g0UWtHZ251dE5BLTk5bk9nYm5vTDh5alo5c05QT054QVE?oc=5",
-   "published": "2026-10-14T23:02:00+00:00",
-   "lang": "en",
-   "topics": [
-    "tsmc"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "OpenAI employee accused of planting a bug in the company's San Francisco headquarters",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1F2ZExPVm5RV05CRlhrRTNzRWNGbkpGRkVoN3plZE9PaE9Sd3ZCMURxMGw4WGhuUnFCZ3QwRGthem9nd1hNdnRncHVRa1c3cHJwdXd1VDBWbko0ZVFIbUQwX3ZNOEVMdUNleXdUS21ZS2pkakQ1Wks2WVozbTFaM3dKdEFtMWp3OF93RmJkX0dlc1lsbTllNGxIakdjTEd2c2s5MzZEbll4YmvSAbABQVVfeXFMUGNwQW5yM2UwQ3ctTDQzMmNyaXhkVDBRQ0lNRGlwc0RBY2NOLU9HNjV5aEoyRHN2Sm5zZ0ZpTmswY0VMM0tiNlBpT3MyRnVUWER3NHd6M25tS0RzOFRPMGhxOEhtUm1uelFYYmdzbDFZaS1vNVdNeHdHc0wxMjhPSHE3dWVDbFBUNU84a0VFSDFwX09MbkhIalowVlJvM3lKX0JESTEtR21yWkVYVDZFRnk?oc=5",
-   "published": "2026-10-14T23:01:11+00:00",
-   "lang": "en",
-   "topics": [
-    "openai"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "Google Gemini 4 Argon正式登場 | 將成最強AI？5大亮點一次看懂",
    "source": "香港01",
    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOdjg5WFRQY255SlFLSzBjekNuLXl3VXNlVnB3ekdRSFBNanM0blBITlJDUkNZOFZOcU93WE04OFNPX3NjZ0lNb0Qzejh4aTc4UFpQcmNiVGgxejdyZk5FRUVKRldCRTNCRTJnY2lULTFZS0ZJVHJmZXhfNHZjUGMxOUNNU3BvTlpJTElFZG5KdnczbzltclRRMUtmUTNDd3RkaVNITW1TcjkzWWpSdjhJaUVyWWtvTFNCWk9HSi1sOS1ucmYyOGhub0s3YnFlbjRjSXoxanZRZUk0TzdkT1JZTlZOeC1mczRVdktrZWdnRDJQUlpqNE4xcGJ1UVhmd3g1UDNNWmRhU1M5dFVYdHNSOVZyZG5IbEtZNzdYTmJDWmdKZHVPU2VMUG50QlliUnh4ZmtrbmNsSkpBWjEyZkZDMlYzRGxJRjBJR1BYcw?oc=5",
@@ -5679,19 +5894,6 @@
    "lang": "zh",
    "topics": [
     "gemini"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "This Google Pixel feature leaves users with less storage space than expected",
-   "source": "Android Police",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0N6WXA5MTQtZjEwMUZfX0lMa0V2aEV1TDVBdkZmZXRkX3J4TTd0bWR6eGhzUUp3TG1PZ3FtVzZjVVN2Um5naXdQQVRmeHltTkFkQ0M0UUxyWGNTdlRJRTJhbDg0ZTVzQ21oNVh2YlJYMEJjc3o3YVlEdXpNbTNrWWExR2pjQXFyc0RlbmFsaVd6Q2M4SUo3aXpXOGVXMmJVRXVBWQ?oc=5",
-   "published": "2026-10-14T23:00:10+00:00",
-   "lang": "en",
-   "topics": [
-    "google"
    ],
    "categories": [
     "ai"
@@ -5743,7 +5945,6 @@
    "published": "2026-10-14T22:54:04+00:00",
    "lang": "en",
    "topics": [
-    "openai",
     "ai-security"
    ],
    "categories": [
@@ -5758,19 +5959,6 @@
    "lang": "zh",
    "topics": [
     "claude"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "Old Google Home and Nest speakers getting big firmware update",
-   "source": "9to5Google",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sb3lCV1Bwd29qUHpLU0JPdG9RcmJEdWxLTFdtMWZWRFA1clp5NzQxa25TSkU0Y1pVM3lxeU9wQ1p2ckpnNVZ3ODJIMlFGYzNrbTZTcWEyZ19CZjAzblRvZm9FX2pzTkQ4aUxmSmkyYUpCQmFk?oc=5",
-   "published": "2026-10-14T22:35:00+00:00",
-   "lang": "en",
-   "topics": [
-    "google"
    ],
    "categories": [
     "ai"
@@ -5803,6 +5991,19 @@
    ]
   },
   {
+   "title": "Data center expansion and the AI backlash",
+   "source": "Niskanen Center",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13aGFtLWRESkp5TEg3Rk1wMFlmQVRDcDZMMHRBRVFyU2twR3E5M0VKMjJyeWRHZHkyN29BRFNkbC16VGxFb1RLbHpFeFBERklfVndRU1UwMGlPUy10VjBjWjJpRXQ5Y19uTXNOdTh6eGdVR1g3RDhFNHVFSXAwZw?oc=5",
+   "published": "2026-10-14T22:17:34+00:00",
+   "lang": "en",
+   "topics": [
+    "aidc"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
    "title": "Kioxia CM9 企業級 SSD 新增直接液冷版本，最高容量 30.72TB",
    "source": "三嘻行動哇 Yipee!",
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQVFVMMnFlTVBUY21LTEdmM2V1aHpnSmxBYnhsNkc4RE9aUmRpMnFucDVwYkF0a0RWaGtzOVZtYklOcm1IVTBLcXNxMU5DbUQ1UFRoVHRYbmJ6QWxraDE5cmFmMzdvU29JMWtDbk9pQWI2eE04YzEyYlh6bk9XR3B6bXJ5cC1pdVRad3FjRzBEMmo4eUt1aXo2THNmeTFxVkFwcDhJS2o2MzlSRjBZSDlLSmo2cGJqc3dyR0l5M01DcFJiakFBamRzcFk1d2JrdkZBZkxDQzduTTNoeTV0LThLRk5OWkhpVFR5cmctWGJKcC16TU9MS3JYZjl1NDRrcGJMd2Q3Zk9DMzFIQXE1TkxscXZaSzlabWxXTFhOTnZBMnQ1QQ?oc=5",
@@ -5829,32 +6030,6 @@
    ]
   },
   {
-   "title": "High-Energy Lithium-Metal Battery Technology for Drones & Robotics",
-   "source": "Unmanned Systems Technology",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0tDLUdHWVJ3UjZKQWFiVm5odGJ6NDJ2dDZxdDFqaGhVejRNRFV4RHRCSk5CVHlpYVh0c3UtRW4xU3pTdWtWV1dJU1NyRXBrcG9xTkcyNkpRSTFUVFRUZWRTT3JzcHRnbHpOa0JfZFhQMkFXX05xTXFQd3c3NVZzTjRHaXVCakIwZ2dDXzBMMzF4Szg3bEZIV1ZEQXBhQW04TmI2OU1xY2ltaUFuVzB6dXRyeVI5dw?oc=5",
-   "published": "2026-10-14T22:09:34+00:00",
-   "lang": "en",
-   "topics": [
-    "drone"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
-   "title": "Mission adopts policy for artificial intelligence usage in city business",
-   "source": "MyRGV.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFhaZTBOYVE1bDZLa05VekJCbEJJeFVhUmpETnprMzdTbkhUUXMtbklQTnRzQWVqNEdVYUMtWk5SR2xuMnJwcHF4UmlVNWFWYUVWUktTaXZOYTFxcUxSUS1yNGU0U3JuUkpaNWNva1c4dlhaVjc4b1ozUlp2aWlldkpkQlFXd2h3ZE1PRXZnV2tyMnBtNjYwR29pX3N6MTBldV91SFlhV1JjYWFRRUFhR010VQ?oc=5",
-   "published": "2026-10-14T22:05:00+00:00",
-   "lang": "en",
-   "topics": [
-    "ai"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "TP-Link Eyes Assembling Wi-Fi 8 Routers In US 'as Soon as Next Year'",
    "source": "PCMag",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDdTRlU3OE9Fc1ROODZEd2R5dUYxeTZHOVl2VFl0YjlxTFNIZkZzcEozaUYzQVBvUGJGdUxkVWhuS2lBQjh3VHNBZ21YM1B5Rm95aUJ0enhaWmhQUW9VUVBoNklTUkVXNDJtR29xZThlZTFjRWJibjRzeGtwU1pmNElaNGdqMjZ0dlZKVl9JNS1ZTDVkeGg4NA?oc=5",
@@ -5865,32 +6040,6 @@
    ],
    "categories": [
     "comm"
-   ]
-  },
-  {
-   "title": "GlobalFoundries reaches agreement to establish U.S.-based supply of silicon interposers for advanced AI packaging",
-   "source": "DQ",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbTkzSlg5ZVBMY0xqeHo5ZHlkRVhUUVg4YzN1U1pxX19OQWJkMy1CbzRYYXJ3ejNOSlVFY3RLRTFHcnY0WWRIMFp0bWliLWFlMkVsQ2VJa0tnRUhwV05mZVBhTmkxeGw5RncyX2lGVUJQOTBkMlZSVTJsTVc4UnV6Q0REMmhzakw2WUF4LWpsa3ZMOGl2RS1sb3FLLWFWRVNoODl3Y2k3X1dpRjlFeGstMmRVZ1NVLWh2V1ByOWl4Q1dieklEWVVELW1tRWtYTW5BNmJrdEt2dWNvemVfR0E2TGJCdEw0X0RoNUlJclo5cULSAfABQVVfeXFMUG05M0pYOWVQTGNManh6OWR5ZEVYVFFYOGMzdVNacV9fTkFiZDMtQm80WGFyd3ozTkpVRWN0S0UxR3J2NFlkSDBadG1pYi1hZTJFbENlSWtLZ0VIcFdOZmVQYU5pMXhsOUZ3Ml9pRlVCUDkwZDJWUlUybE1XOFJ1ekNERDJoc2pMNllBeC1qbGt2TDhpdkUtbG9xSy1hVkVTaDg5d2NpN19XaUY5RXhrLTJkVWdTVS1odldQcjlpeENXYnpJRFlVRC1tbUVrWE1uQTZia3RLdnVjb3plX0dBNkxiQnRMNF9EaDVJSXJaOXFC?oc=5",
-   "published": "2026-10-14T22:00:37+00:00",
-   "lang": "en",
-   "topics": [
-    "adv-pkg"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the \"Nvidia Killer\" Everyone's Been Looking For?",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzNibHkxcXpGVU1NNE5xVTlpU0NRWFo0R1JZdTRGRUR6MnFfTGx0aXl0ZFY5UGl4T2NPX3cxQWdNWTVvUTFaOGNFaGNLTkdBckoxR2xMUlQ0RHFVT0ttRGZROFlwY3ZCVlJ6aHA1TFpWc0pGNzFpV21SbC14RzlTdDhucWdCRkxBSDZrLWRR?oc=5",
-   "published": "2026-10-14T21:57:00+00:00",
-   "lang": "en",
-   "topics": [
-    "nvidia"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -5933,13 +6082,13 @@
    ]
   },
   {
-   "title": "Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnhxakNaMklvT25NQjFreTNHYVhMME45SHh4QkhBSGhVNFlPUFFCTmNyaGhYWFJobXZSMFZSUGtlUE5JNkxicGNhOVIzUkowVFo1UjlfZmliN2lFVmlJVDN6UGNUMFhDN0twbnJ6ejdpU19xQ01jSUR5Y3lnWnkxM0pUdGVDQnNiNFdkenE2dG9Zcm1DakdFUUdnbFZqTXc4TVR1c2hHX0hWV2I3aGFFcmhTcw?oc=5",
-   "published": "2026-10-14T21:29:26+00:00",
+   "title": "Bipartisan coalition of states sues OpenAI over user safety",
+   "source": "Politico",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHhfTkZFRW9fdDlJY0NRZmR0enVlbTBFZms2MGNXMGtmekthMHI0Y3JWTHR6MURZU0JXWk5ZbkRRdElMcW1LOEFELWVIcTNsU0tQaVhHdmtuMDFZbXNMYjA0cTRfbzVvY1B5VldvY1gzUmFWRzNVd01TTU03Wk9QTnV4dw?oc=5",
+   "published": "2026-10-14T21:18:00+00:00",
    "lang": "en",
    "topics": [
-    "nvidia"
+    "openai"
    ],
    "categories": [
     "ai"
@@ -6024,19 +6173,6 @@
    ]
   },
   {
-   "title": "NVIDIA's cuPotential Takes the CUDA Moat Down to the Atom in the AI-Defined Fab",
-   "source": "The Futurum Group",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3BSZWhoME5qRjFwWkd1T195Q3R6dlpxcEl5bTlpVXJEX1VQaEluam5jNHVPaGdTWEkwREJOX3YyVEx2R2JwdktyN3pfNWNadU4zZTRxajRLM2RkMTZaZ0NRU1I3RDhyczdKR0ZJSzZCREJHSTY0cE5LQ2tXRHRVNFdBVDE3dzhXXzRqblJXdkxYTnZjdk9LeVB3SkszcGU1aTctSTdNNFpuRkxHbjRMS0xYOA?oc=5",
-   "published": "2026-10-14T20:45:06+00:00",
-   "lang": "en",
-   "topics": [
-    "physical-ai"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
    "title": "Thompson Center construction: Google executives detail vision for transformation in downtown Chicago",
    "source": "ABC7 Chicago",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2lndzBXa1lBaVc0dGpKbzhXT0dqbXltUG9acENTMmxaQnAwTFEzM2VnOFZfbUw3TkVWWnhjZzNiNktsVFI5dUJWcUt2ejRKZVY4d3hqSkQ5Y2tjS0s5X1d5djNsamVTMVlFRlVsa0luV0tnNlVzUkU5NlZGdk9MVzVqdkMxeEhNUGxiaVk2WDF4STN4SzBCcXppV0RNSGloR0hMemtFNDRyWERqNHJ4OHdRSERXV1lfWHZUdjBNbGxnTHNPOTFpcXVraUNDSFNQSG9PSTBFeU5xVURpTDhKUnhRWlrSAeoBQVVfeXFMUC1ZT2RfT2lOWHpZMENaNVl5WHlINHVKZ01vNnk0VVB3ZWxJWFdKN0xCQ05pQ0FyUi1oUW5MNVFWeEJfT1VQUXhna2VzbHlMMEc3Q2t2RkNsclVxMFZQeXVoS3JQa3k2TTFjSmd5X1JRS3BxcXZ5NThpaGdrcVlicExZUUlwS3V5SjZxVENBcEdzSTdKbmN6cVNaMTJYUy1XYi1qdUhPNFZvUVdrWFB5NnUzU1FJWFhTc0RYUHE4QmMzdGlmUl9EMUVWVldGNl9iZEtwbjkyWjh6RF96dncteC1LWmhVcU1KQ25R?oc=5",
@@ -6063,19 +6199,6 @@
    ]
   },
   {
-   "title": "Google Home update rolling out with improved Favorites, more app & Gemini fixes",
-   "source": "9to5Google",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNnotcmJGVV9FSFJ3MC0zbXhCR0w1ZXBwbWdWYy1PUlVDWU5IVjAwcXRnejdSR3lYSjBkUVlkZ1JtdEY5S3hGYl9tV1NxcnhteVh5RWtEU3lwZDhJSE56Vlo0NU5MUXZYZFUyTGpvNzBVWmZQMnZ4WXdxVFhFUlB6aHhwVFN3ZnV2N2JIOWZpblJweGZmOEEwQnFUSkQ3QQ?oc=5",
-   "published": "2026-10-14T20:35:00+00:00",
-   "lang": "en",
-   "topics": [
-    "gemini"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "SpaceX突限制星鏈！烏軍無人機慘遭斷網 多項任務失敗",
    "source": "鉅亨網",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5idEJFWVpvMXN3VXU5MV9WNnRXS0p0MXhkVV9GQUNjM21qMWdPUk5aTEVmRklsam1mNUEyTC1iUlh2ekZzUlJIbUJUTGEzVG8?oc=5",
@@ -6086,19 +6209,6 @@
    ],
    "categories": [
     "robot"
-   ]
-  },
-  {
-   "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
-   "source": "The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFRZb3RDSE9DZDBnMmVaMm1ldEV2TUZaM3ZiVHhUWkFVbG1CS3EwU3ZzUTRvT2l2elVHR2NLc2thQXJpRElxcEhJcDBPN1pwVmhvQllETVl0QVpucUFTMXJiQldCQXlLUlJMZmFQSS1wZWRhY2VpcDFOWWtwZWZuWjA4bmNVMVhw?oc=5",
-   "published": "2026-10-14T20:26:00+00:00",
-   "lang": "en",
-   "topics": [
-    "openai"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -6193,19 +6303,6 @@
    ]
   },
   {
-   "title": "Eye-inspired cameras help new system detect fast-moving drones in complex skies",
-   "source": "Tech Xplore",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56cVVkcDFBUFVJRGcxSGlfdThJTzNiWmM1WTJwUXBoRnFEVXpDMmVPZzAyTXFESEN5MEhEU0RaRklkWjhoZHNPbXhCSmFXVzcwRFE5UEczN1U2d19CU1B5alcwWTh1Q1haMmQtdzU5QVhDS2habHhYekVZYTQ?oc=5",
-   "published": "2026-10-14T20:00:08+00:00",
-   "lang": "en",
-   "topics": [
-    "drone"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
    "title": "AI data centers need a new control plane for power, cooling and compute",
    "source": "Fierce Network",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN0RzUUowQnhDVzBienc3RWhJbHVCNGpDMTVoX2J1Z3oybFhTNWhvRFJMcElKa04tWVRzUzA5WjgwakVDYkNOd2J3VmhKQ2wwdUc4ekxWdTNqdzU1SC0xaE5SWWFLTk9INWRER3JmRVNDMWQtaVNtUWxVUENzc0lqakJNelRHSUcyRE5IR3BGRExYWEI1ODY5MFJzVnFINkZjR0c0?oc=5",
@@ -6216,19 +6313,6 @@
    ],
    "categories": [
     "photonics"
-   ]
-  },
-  {
-   "title": "Cartels use drones to scout border agents and map smuggling routes, expert warns",
-   "source": "Fox News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0dqNFF0M3NwRGk2MGxnWTV5YTdOWkpsTElXQWt0Y0MwQXFOdlNBWU9kYmNaMU5IdklERzh0SDNYaHdqQ1MxUW9NTEM3SEdDZF82Q181a3gzMFhSUG1rcDRJSUp5Y2VqZkk3UUdjVVFlSUpkRHJtSDNKU1pHN2w1RkZ1dldtRl9mcVhOZTZyMnZKMVFRZGtXRWFBTklrN3BLV01HZNIBqgFBVV95cUxQaWVRTWJNdV84S2Y4TjNobE5JYjFmNV9iSW1scVZqdGRLZHJZNzUxSXVpb0VFdldPa2JjS3Q3Z09vU05CU1pGMm9SVExDYkZYY0oyeTlSaV9RQnpET2gyZ1kwZzVqLV9ZNUtBVUdqNHdhZHdNV2dxdUdzTHUxeTFfbmg2Q0RORmNHX0YtZ29FVFdpNjNsY1pkQ184UVcyYUo5R284aGdBRXhBZw?oc=5",
-   "published": "2026-10-14T19:51:45+00:00",
-   "lang": "en",
-   "topics": [
-    "drone"
-   ],
-   "categories": [
-    "robot"
    ]
   },
   {
@@ -6258,6 +6342,19 @@
    ]
   },
   {
+   "title": "台灣傳產突圍新契機",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hSTVDTXl3Mi1XR3VWX1JBM0pkb1hMWUpWV3ZXZ3ZWTVBUQXVCZFZMUlhiMTlUcnIyN0FBQWpXTmpfZkhuMTkwUEx2akliaEluSlVSMXhfbkNzNFFCbmlR0gFfQVVfeXFMT2FJNUNNeXcyLVdHdVZfUkEzSmRvWExZSlZXdldndlZNUFRBdUJkVkxSWGIxOVRycjI3QUFBaldOal9mSG4xOTBQTHZqSWJoSW5KVVIxeF9uQ3M0UUJuaVE?oc=5",
+   "published": "2026-10-14T19:43:41+00:00",
+   "lang": "zh",
+   "topics": [
+    "iot-sec"
+   ],
+   "categories": [
+    "comm"
+   ]
+  },
+  {
    "title": "先進封裝需求引爆百億商機！CoWoS產能外溢帶動Q3創高，這3檔記憶體股卻遇亂流-財經焦點情報站",
    "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYnZLdmUtSFNzZzY1QTdIZjZlby1qNTJnZThYUWV2ajBqVDZWMVUxVGRPX2l5R0RONnVQVjczQUtrSGlqMTVwMkp0dVB2cmdjbms2VUg2S2QzS3pDMGo2U3VOQVdSS0ZoZmVrNlRxMXUyUTZHZ3czdXZCaUF1UHVrWHFn?oc=5",
@@ -6268,32 +6365,6 @@
    ],
    "categories": [
     "semi"
-   ]
-  },
-  {
-   "title": "Google最強AI模型教導機器人 學人類動作",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZLWd2c1BhLUFoRUd4eS1WbW12a2xpSVktTHdkVVB3WFVGYzNkcHpnTmtNb3FKZmQ5T29OaW9SRHNiRno3b1cxR1lqUENsQ1Jl0gFWQVVfeXFMT0VCRnVYRXRMeW9hUDFOTl8weTdhT3pEOVE5MkJfUkcwVmllRmpzakU2Z2Q2LVpGT1NHVDJBVTV6OTBGQnk2TDRQWTBZZUdDZ3RPcW5iVGc?oc=5",
-   "published": "2026-10-14T19:23:36+00:00",
-   "lang": "zh",
-   "topics": [
-    "gemini"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI",
-   "source": "A3 Association for Advancing Automation",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDRpUmJtanVlREYwRGlfcV9qdGJVOHpwZFl2M2J2ZlFRdEtIeWJmNUI2Z3ctNGhsaVBxaDE3ZWZpTkJJRnZIenFuVUJIdXZmbEE2MlFtQ0hUeW5UVWM4Yy1pZkEzQXpPb0tIaURJTmZseFpfMXR4b2xlMjNJMVpNQ0FHT2l1bVZLZzVENFZ3WC1KTUU1eXRLWHBtOWRxZUNJQ2tzbnpPdjFoMlBIcUE?oc=5",
-   "published": "2026-10-14T19:14:02+00:00",
-   "lang": "en",
-   "topics": [
-    "physical-ai"
-   ],
-   "categories": [
-    "robot"
    ]
   },
   {
@@ -6320,19 +6391,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "title": "Newly-formed data center supplier searches for Austin facility",
-   "source": "The Business Journals",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGgxdU9rV0hNdmNFYldJbktubDdvLTUyYVFIU3FDV084eEJJdkdDWUhvZXNfQS1YZFBXcGlxR1pXZDk1REwzSDNpcmJNazFkMXhDTlpzUjNhdEtwOUVDV1lnS0kwU19HX05ycWU0b0I2d1JpeGcwN1hBMlJUbE9uXy0ybTlrOGFNeWZPal9pT1c2WE02YzhyanFzeVpjVnN4bVcwM1ZB?oc=5",
-   "published": "2026-10-14T19:09:00+00:00",
-   "lang": "en",
-   "topics": [
-    "liquid"
-   ],
-   "categories": [
-    "photonics"
    ]
   },
   {
@@ -6372,19 +6430,6 @@
    ],
    "categories": [
     "comm"
-   ]
-  },
-  {
-   "title": "NOPD to start using drones as first responders for French Quarter by end of October",
-   "source": "FOX 8 Live WVUE",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2RUSUg4cDdyLVR2WklaVHhQbHZCWTdjNW5zc2U2OGFCc1Ezcm9uR1gtQWZBMkx0VS1TMUtmczlrbmc4ajNjMlY3aTVYSDZSUnk5Sm8zRmxMbF82ZUVYbVd1a21rQzFRU0lneUF1Vlhaa09tT0dGdlVaSzRDT0tDeldsTEtMSjJ1UnFtY1NWTUQwWlRnNDd6dk95alZLV3VzWTJTNFhxbGpQUWM?oc=5",
-   "published": "2026-10-14T18:59:00+00:00",
-   "lang": "en",
-   "topics": [
-    "drone"
-   ],
-   "categories": [
-    "robot"
    ]
   },
   {
@@ -6440,19 +6485,6 @@
    ]
   },
   {
-   "title": "從籃球機器人到智慧巡檢 日本移動展展現實體AI應用潛力",
-   "source": "DIGITIMES",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVl9yYk02ZTFLbTFyY0kwbHctWVloZDVnYUh5ZWNCWFZTaFFkMDhUWHJTS00zMm5jQTZKTFd1MkNkbXdxRnV6ZE9JaFhUZVVQVl9DdzZiQVA0ZHJ2MXdELUhRSzcxOEF4S2NpbkNBeTBidW9RckQ0U1J2ektTNU1VODVsVkpla1MxZ2U0N253?oc=5",
-   "published": "2026-10-14T18:38:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "physical-ai"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
    "title": "輝達加碼歐洲 投資法國新創 執行長黃仁勳計劃追加20億美元",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQ1NxbnYwQUJ1ekk5QmFjMDZNSUpNaVFoNllUUVVvV0RaWHNMTlBSWmlwakF5b3ZfaWV0UmFKMkZNWDVVVFhIS0Nxby1YOVdSTmxRckpEQVFnd9IBX0FVX3lxTE5vV0FoYVRpdnNzMDlDVlhvOEZxSmJGVmdyMW5yVGZGaThwYXhVSDRLcDQ0eUJYaVhrbTFPNTBIYTRiSEdVcnp1Wm9zek5ZMmNabG1lYm1qd0s1ZTZ5b2g4?oc=5",
@@ -6473,19 +6505,6 @@
    "lang": "en",
    "topics": [
     "claude"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
-   "source": "Marquette Today",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2RIcWdpSmJBaGpkbU0?oc=5",
-   "published": "2026-10-14T18:31:35+00:00",
-   "lang": "en",
-   "topics": [
-    "ai"
    ],
    "categories": [
     "ai"
@@ -6525,6 +6544,19 @@
    "lang": "en",
    "topics": [
     "6g"
+   ],
+   "categories": [
+    "comm"
+   ]
+  },
+  {
+   "title": "European Grid Security Forum Exposes Critical Gap: 100GW+ of Solar, Batteries, Heat Pumps Run on Unsecured Clouds",
+   "source": "news.lavx.hu",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc3dTRFA1eWFWYmd3Zm1halNvSFJLWC1ORWZvQnU3ZFhYZ25kcUhCUHRKRmVkQTR5X2pFR2lObjZDNHZyTGNBOHFIa1N3YmhxRmZtRVltMEZ5U19YNDFIQWZMdFlLZWUzTWUxZHVjcTJsTTNzaFVralNGNlFvSFdyUWMtcm94VDZrUWd4dU9aTlNpcFkwR1YyRlpJMDlUdm9EMGRYU1paTVBUeWgwMlRkS0hkQUxzbkZDSDF4Zkd4dkNzeVdUU2N1OTViVlFlaHl1c3owcg?oc=5",
+   "published": "2026-10-14T17:33:43+00:00",
+   "lang": "en",
+   "topics": [
+    "cra"
    ],
    "categories": [
     "comm"
@@ -6739,32 +6771,6 @@
    ]
   },
   {
-   "title": "Analyzing technical documents with Deep Review",
-   "source": "Google Research",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTFxOEpwbUg5SjRhdE9oWEdfd0c1Nk04ZVV0dVF1U1AwTElMWC00SC1EWjJQVGhpMkFJdVBwTGxjZjhzb1RFR2sxMWpfc3FZVU44bU93TEYwdW03QVpFeWFoNHZlRThyNy03cmhKM2pCTEM3aVA5eE9iY0JlLVQ2MXhB?oc=5",
-   "published": "2026-10-14T16:17:33+00:00",
-   "lang": "en",
-   "topics": [
-    "google"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "American Electric Power to invest $4 billion in fuel cell project to power Google",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDVWVDNiei1GdWtyUjd1WUIxSlVJVDFLQ2xnazFXVkZBLWRvUmwtTnJ0R0xmRTBscml5UnJVaWJhXzZzakQxbFMwTlE4MDhLUWRBTzVjWjMtcXotbV80aWd4RHJ5WkVhZVpTb2x5MmZpeDhtNG53RzEwcUlPZEdfb0N6VE8xeGpfZC05YUduY1g3c1lvUWF1R2JDQzg0cy12TlZrTGRKWnJfYzNSOXFuMURYVVJyT2ZFcjJ6ejFhaDh3MklF?oc=5",
-   "published": "2026-10-14T16:02:44+00:00",
-   "lang": "en",
-   "topics": [
-    "google"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "title": "Energy Taiwan 2026 opens with record international participation",
    "source": "digitimes",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHBuNEJkaENwd3F6cy1EX0NzajBTdDdhUi1xZGRRNDE2ZlBFUHY1TUh0aFlzeGVRNlU2aHdkQkZzZnJBSWtvei16VDYycWhMS3BieHF1V1gxYjZWTzZXWjNGbzUzdDVmRjY3MTM4dGdUVEFYVVRlai1FZHFoR2QtWmtsZ0hLQ1hES2VyWE5RNnNCU0ttSlZR?oc=5",
@@ -6844,19 +6850,6 @@
    ]
   },
   {
-   "title": "Data Center Cooling Keeps Producing HVAC Opportunities",
-   "source": "ACHR News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1NQT0ZEU2trZEZtODAwS1NBVmhlQ3VJcnlUUm1VYjV0aFM2WUFsUGIxUWY2MFhlZmxxRWtGX2pya3QxRkRLTHhrUkIyR1BNNTZ5TFEtZldzX0pXancxNWYwYVVrVW91RkFZYy1qTGVsTUZZQ0FmV0M5VHVwaTFWbGh6T0xkVjlHSnZHSC1xSmd4ZDRoY0M2RmhaYw?oc=5",
-   "published": "2026-10-14T15:00:00+00:00",
-   "lang": "en",
-   "topics": [
-    "liquid"
-   ],
-   "categories": [
-    "photonics"
-   ]
-  },
-  {
    "title": "Argentina Eyes Tapping China Swap to Cover 2027 Financing Needs",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUhQMFlOZDN6Mmtla0U1VW9feXVRM2s0T0tZVDh4Q096NmVpSGVhU1FNbHh5QmROZTVvZ29SeVRNTzBaT3djTlZUTlhTWFBfSGhnUHR5dkoyYVdSLWpxS3ZzOTAtc2hvVmFCV3k5MEo5bjNyVGstUFdlWUxJNFJoUUlyWHFsTW5jZXJWUmFvWDRXQVoxMndEc3pkbDRubmppZ1c5eVlYRUFwMUNjWVZfbWFpTUg?oc=5",
@@ -6903,19 +6896,6 @@
    "lang": "en",
    "topics": [
     "adv-pkg"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "Roundtable 100 analysts move Super League 71 places lower",
-   "source": "TheStreet",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONWdkRF9xZnFZLS1iRm5ITktMMW1rU0RpaUh6cWJnMXF4LVBWN0xmYzdrbmktMTN6M1VRbldSNzhhMXFXcGRGVlVtdkJVcVVjX2Zzdm9mYzhoaXJZMVk4VGdFUGFteGZBbVBWblZ3LXJSOVYwOXlHU3JWcC1SM3NNQkZnY0pteFRYRDNpSngzZjNJWThIemxQU1RwQktjVjQ?oc=5",
-   "published": "2026-10-14T14:33:55+00:00",
-   "lang": "en",
-   "topics": [
-    "top10"
    ],
    "categories": [
     "semi"
@@ -6971,6 +6951,19 @@
    ],
    "categories": [
     "comm"
+   ]
+  },
+  {
+   "title": "半導體先進封裝設備廠 萬潤、家登 客戶需求強勁",
+   "source": "自由時報",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wckpUSjRqdTd2OC1IQWF1SWFuYW44TG9BMEcxRVE0TVpGYUFVc2s2ZGJCa0tyT0EwTVdNWmJsQ0JCUFc2ZFZGSmU0UEIwdVlsanVtUEdXZWQ?oc=5",
+   "published": "2026-10-14T14:00:31+00:00",
+   "lang": "zh",
+   "topics": [
+    "plp"
+   ],
+   "categories": [
+    "semi"
    ]
   },
   {
@@ -7081,19 +7074,6 @@
    "title": "Salience Labs Secures $125 Million in Series B Funding to Scale Photonic Networking Chips for AI Datacenter Infrastructure",
    "source": "Business Wire",
    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZTRwTm5vR2FsTElqNDFLZm1UZWh6UkVONnRlRC1YNzdIQUZTeC1WZnBBODc5M0VydGpfLW9FYWU0YmZfd2t4dWtqd2VzeGFXeDJTUE5Mel85aG5JN0pwbjRBcVNQNkV4bUJQTFRYaTFndDVyZGQyY0pJQnZsTmhMRXY1RVc1cGxDZE9HNG9SSEtnbU0wUDR5U2Zrc0hVc2Q5THdySUhvbEFibnNGY2NrX1VQUWJIbXNWYkNWeXQyRHNPcXVtZzlBVF9mSjVmNk4xeV9aM0c1LThVdDJIX3NxUWl1X1d3QW9IQXRDM0dqZFF1OXpXVHVjdERvZ1FVemhMNzNBSkFrZm9vZ0w1VGc?oc=5",
-   "published": "2026-10-14T13:00:00+00:00",
-   "lang": "en",
-   "topics": [
-    "sip"
-   ],
-   "categories": [
-    "photonics"
-   ]
-  },
-  {
-   "title": "Salience Labs raises $125 million for optical switches",
-   "source": "Techzine Global",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFdjbEVxMkF1aVJmZTBFeGNjX2JPUGhURU1pUzR3cWNjbEpiODU5QU55OW9Kb2oxVnhzNXRuWV9pZ1pQV1doUzMtVVFvQ0dvczRGQkZTek82OERpZ3p0MGpmNUZ0SnZGUnptclpaaXVoblNhMTV6LVBVcFFqdTdfZjc5TEJJWFU2bnlBQk9URndULVNKQUZkM2NuUFNudWdIVkc1TXM2Ync?oc=5",
    "published": "2026-10-14T13:00:00+00:00",
    "lang": "en",
    "topics": [
@@ -7223,6 +7203,19 @@
    ]
   },
   {
+   "title": "The Wi-Fi Wars: Delta, American, and United Race for the Sky",
+   "source": "Travel Agent Central",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0w3Q1VPa2FBaGVmaUVhNUZxdldZMm1uSDFaSjIySUE2RmJqbmtuNFB6d2k0VWZ2ejBVOUM1dVBPdG9IeW16WXhoVUJ3Vi15SHhfazVKSXByazRfZFZzODVnUkNWZGdOa3hOWFdQckM5Nk5HZjNQMjNvM0MzbExHT3hBcHptbTRIek1LdXJnOXhFcFlFMm40bGllbw?oc=5",
+   "published": "2026-10-14T12:00:00+00:00",
+   "lang": "en",
+   "topics": [
+    "wifi8"
+   ],
+   "categories": [
+    "comm"
+   ]
+  },
+  {
    "title": "Future-Proofing Data Center Cooling: Designing for the Unknown",
    "source": "Data Center Frontier",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObHZ1TklqV3dHb1NPVDVVSDY2emlFMlBVT0FxaVdtSWpOUF9hMEZjaGNUS2xNcEhvYUprYjJYLU1zMDE3bTNfVER4dm9TdENxM2VYakg2TzZFVWp1Z1JsOHBGak9hWWxra3BFdkIxY29OTkd3UVNkVl9nT0xRb3ZCdE41N1VCNzZxWExrVHZmM2kzanY3bWVOdWI2Y1d1eE5XUWVsVjg3Sm5kaHZQZGE2UlJya0xDOTRzTnZPYkdOODY?oc=5",
@@ -7259,19 +7252,6 @@
    ],
    "categories": [
     "comm"
-   ]
-  },
-  {
-   "title": "英首名國會議員以AI生成語音發言 患脊髓肌肉萎縮症影響說話能力 (19:20) - 20261014 - 熱點",
-   "source": "明報新聞網",
-   "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQVjZ2NTVaVnYzWUQwaUVYVUV3ZGs1Mm85WkZRa005Rmw5QktRd0dFNDN6ZEctMjFBbnllM1k4YlJ0d0ExMTMyZFNUTGIwUkdrT1lqR3ZoN09XM2F2SV95MUNISDNtZlc5QUJENlcwYklKV0dqYzB1MTZZX0gyMVlMRU1jNUVURmE1d2luTGNTcW1mQkNkajF0a0h3WGpqaW5KVTM4X3k1cU1sYVFSa3hFSEM3V20xMmNPTG5ra0hlNG9KVG9KTUZUTTlSWFFZMm9HS2doZ0wwdEFkZllCWThPQzlGams3UzVHYlVTUWsxNkZQVWFRekNPT1lLU2V3Y1V5MkNQY0JIcWthSGhnV090dHQ3dk9XWWUyMnc2dXhFdTdEd1V3QXpQemxOLTA1RUQ0b2JHM1ZkNW5oUm1GSGFuT18wVWRYaklWYWtlSGlYdktWMFVUQ0JfMldhOXowSExxNTdyQk9sbmhVcVNMcmNWOTE4ZEZibkVDOVFYaUg1a0FDXy1RYUVPR2J0LVk5aXYxUVFyWnAtbHpqem43UzRzQ2trdFRqMG1Hc0FZN1B3WVhyZ3JDTmJrVFNPMzVkOU9XMGtUMUx3bVJ4VEl6Ym1iY2ZReGtjcENtdlZpU19QQkN5Ync?oc=5",
-   "published": "2026-10-14T11:20:31+00:00",
-   "lang": "zh",
-   "topics": [
-    "argentina-ai"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -7562,6 +7542,19 @@
    ]
   },
   {
+   "title": "CES 2027「智慧時代」揭幕…AI代理、實體AI、量子運算全面登場",
+   "source": "BigGo 財經",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NWHBJbzN1MEY4eDFrVkh5eHlVMV9ORzlQRWVsM0N0ZmgzcTFtM2ltSEgxcHltZlpvVjBUdGxMVzhwV1lqVlRIcDdfS0FtT3BXRnpQcFIzTTdQNk9LR2U3bjRBbmhUOXNNY2tGOFRKSUdDU0JOZGlnMFZR?oc=5",
+   "published": "2026-10-14T07:56:00+00:00",
+   "lang": "zh",
+   "topics": [
+    "physical-ai"
+   ],
+   "categories": [
+    "robot"
+   ]
+  },
+  {
    "title": "台積電法說會4大焦點！明年營收再成長40%？德州設廠、晶圓漲價與CoWoS擴產進度一次看",
    "source": "數位時代",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PTGU4RElDWE5aQkg1dWZPLVR6djZrQ0dkcV92Q1VaYWRWakVfMnQwRUJCZU9iSjFzQ1hVeUJUNnZlU0JOQlVDQl9tSnYyTXg2NUVNSDFlZ1dlZ2hjQWU3d0VMb2hOdGxvTlNoN002U1U4MTE1NHEw?oc=5",
@@ -7702,6 +7695,19 @@
    ],
    "categories": [
     "robot"
+   ]
+  },
+  {
+   "title": "先進封裝材料挑戰怎解？三菱化學靠計算化學、量子技術加速材料開發",
+   "source": "TechNews 科技新報",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVhJYVVpa2R1MVhJQktLVTZxdVBDcGVwbjBuLUozNVBMaXpQei02dnFfd0JKbUdydE9JbW9LTHNva1N1ZXVfR19nUURuSGlBbW83UDd4UDgzNUVpWVphNEZGT2E1UFFsMkI1SkdFSnpBb1pnTy01X3dnWC1sQVIxTFFTYU14Vzl5TGVn?oc=5",
+   "published": "2026-10-14T07:00:00+00:00",
+   "lang": "zh",
+   "topics": [
+    "plp"
+   ],
+   "categories": [
+    "semi"
    ]
   },
   {
@@ -7884,6 +7890,32 @@
    ],
    "categories": [
     "photonics"
+   ]
+  },
+  {
+   "title": "Google Gemini 4 Argon正式上線 付費用戶率先體驗",
+   "source": "DIGITIMES",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU3ZOc0JoR09Ecmg2eFRkNGtvZEJPOXFZQWtkand4bGtxZkU1SU9SM0h2NWktU181SkNyRTdsWkxVaGMyWGZqR2k4bzZ6eHQ5V2RYeklRNVNKRUZqYmUxV3Y1NGhnX0dlaV9pTFUyZ3R3djBkYzdRdXVQVEdJUjVhM2Fzc2RWdS1nOHUwZERn?oc=5",
+   "published": "2026-10-14T04:17:00+00:00",
+   "lang": "zh",
+   "topics": [
+    "gemini"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "title": "Google丨Gemini 4 Argon全球登場 半價優惠吸用戶",
+   "source": "信報網站",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPbkNTMTBUaHY0U3lfR1A1eF91REx2dF9HRFJGYUF2eHp0ZlZmbUVKTlc0ODVzelFJU3pQTkZYNjJ3T2JKakQwRTZ1c1hRZkFZNmhLZmpMb01BeHBWcDlrVlQ2WFhxTFBHVktSTkhBWkJzYjZHTGx5dkFrWGZSV0ltejhNV3VzckdwXzZaZmxqcnpVNjhmMGZ0ei1vcDZSUGplVTJtWkV3VnhCVXRnX1BhdTR3Tzg5MnJJRDVXa0dhOHoxQW5hdHJTdTlmU19HMU9EcXkwd2Z1ZkRSLWZVUWhDeTJBSzVxOHhCYjEtSzJYUm4zNXlEM3hvY1FtcHI3bktuMVpaYVhpMGI3dF9PNlFVNFc0RXNPU1F0QTctdQ?oc=5",
+   "published": "2026-10-14T04:01:54+00:00",
+   "lang": "zh",
+   "topics": [
+    "google"
+   ],
+   "categories": [
+    "ai"
    ]
   },
   {
@@ -8095,16 +8127,16 @@
    ]
   },
   {
-   "title": "Google最強Gemini 4 Argon開放更多人用！官方公布使用資格",
-   "source": "自由電子報3C科技",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xMVpkRzFnVkhyNV9WZDBQS09HWWZyN0QwT1hBV0EzNUtMQzRRRWozTnN1RjBseUs5Tl9JemZhU2JjWkFDY3NQV2xJY0PSAUxBVV95cUxOMTFaZEcxZ1ZIcjVfVmQwUEtPR1lmcjdEME9YQVdBMzVLTEM0UUVqM05zdUYwbHlLOU5fSXpmYVNiY1pBQ2NzUFdsSWND?oc=5",
-   "published": "2026-10-14T01:55:00+00:00",
-   "lang": "zh",
+   "title": "Rockwell Automation Launches Industrial Integrated Controller with 43% Smaller Footprint",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mM1FWS3lsRU5XLXRtOE11a19ZNUZXX3RXUG01YWMzVUhRSkhKTHFkZnRzaDhCUkZTWTB2U0FMcldwVDY4RHpEMXBxdkxhejdzS0NrMTJCcTJNU2hnZHdFdmw5aERjMnRoclFTOGFZUmo2QUtjUWc?oc=5",
+   "published": "2026-10-14T01:57:00+00:00",
+   "lang": "en",
    "topics": [
-    "google"
+    "cra"
    ],
    "categories": [
-    "ai"
+    "comm"
    ]
   },
   {
@@ -8115,32 +8147,6 @@
    "lang": "zh",
    "topics": [
     "sip"
-   ],
-   "categories": [
-    "photonics"
-   ]
-  },
-  {
-   "title": "Brazil and Argentina draw 2-2 at the Arena de Pernambuco",
-   "source": "Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhREJBNFZ0dDl3UVlfclV6T0hzcWRRUWd1WUdZSnNCYW9UR0lMT2ZPbUR6QU1jWmVzTHNIcEIya1lCdTFyeVNFMm5zUzYyLWw4MnhBb3FTXzhzOV8zWEhrZnhEcWNNVS1xcHFDb2dwOTdwUnVEQzBiOEtra0FDRjA?oc=5",
-   "published": "2026-10-14T01:31:00+00:00",
-   "lang": "en",
-   "topics": [
-    "argentina-ai"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "緯穎攜Ayar Labs、創意推進CPO技術，邁系統級驗證 | MoneyDJ理財網",
-   "source": "LINE TODAY",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40UGpRSnVnbnQzd2loTkFyNlBnRVJnTTlqYnByM0hQVEtJSDlmUWZlWmRMbnEwODF6Tnc1WE5JNGZTV2FfclVyYkVRUlpvbjhjT0R2WEVB?oc=5",
-   "published": "2026-10-14T01:29:38+00:00",
-   "lang": "zh",
-   "topics": [
-    "cpo"
    ],
    "categories": [
     "photonics"
@@ -8290,19 +8296,6 @@
    ]
   },
   {
-   "title": "Acting on the AI Shift in Cyber Risk With Prevention at the Codebase Level",
-   "source": "Security Boulevard",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRDViTFAzWXVBRkxqOUpYeElIZS1qdlAyaVp5X3BIcUkyVnJHaE16dUpyR2lBTWtiOUNLS1ZMaC0xZkFtdGp4eXIzaF9uVmR6WnBDNHFnZFVsdFVjMWx1UE52U29YLUN6S09hUTk1ZWhKbGpxOWVhcE5ocEZ0WHJaUXBmVXl0NUJPZWN3VmtBaWpaYk1kbVk4djBuVDFSS1VESkplQ0lCODE4UE1aSzhCTE1CSQ?oc=5",
-   "published": "2026-10-13T23:19:02+00:00",
-   "lang": "en",
-   "topics": [
-    "cra"
-   ],
-   "categories": [
-    "comm"
-   ]
-  },
-  {
    "title": "熱門股》天價出天量 力成漲停鎖不住",
    "source": "自由時報",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jSk5Uc24ycUZJbk9hNVhDenBqN3ZzTTVpYy15VEtsZ1pWYkVGSWxRSy1ydll2dlhKb3pRRGNoZ0hmN1dxYzI0WEx1NTJGVlhscHV1VVE4WVA?oc=5",
@@ -8331,7 +8324,7 @@
   {
    "title": "Rockwell Automation推出CompactLogix 5390控制器，強化Integrated Architecture產品組合(06:53)",
    "source": "財訊快報",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU0VmbTRyWEdfSFFWdWhtRTJOeVlmVW4wWmFSckpoaHY0ejNhZmRIaDlyU05sOTU1alJhajNpLTZ0R2hKOEJfREpJRlZKcVVjNWVLY18yaENHS3Zmbnc4Mmw4Ukx0MG5GMlFPdlh2YzlvOUJCTmx0cC13SnlPdGxVdXEwcXZKU3lmblE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOelRUWmdfZVFwdzUwRWFFRGo5ZTVpVmRvZUN1LXV5bGRXU1ZCaXlsazJKT0I0czZFV2NhVVAzdUpoOGdDRV9mT0FXaFo0TU43b0NURVM0c0VTTEk2RDQyX2xZMV9QeXRPVl91c0dMNTJucFROeVZLZWJxZmZ4VVNzelZEY015dEVheUE?oc=5",
    "published": "2026-10-13T22:58:21+00:00",
    "lang": "zh",
    "topics": [
@@ -8391,19 +8384,6 @@
    ],
    "categories": [
     "comm"
-   ]
-  },
-  {
-   "title": "Anthropic 模型誤送費城警方假線索 垃圾訊息機制攔下後續調查",
-   "source": "網路資訊雜誌",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NVGNwZEszYmF2YUw1MkVyRzlvcXZ1SUE3SmNrZl83RTRwcElwclNpSnl6SGxPYlYzUm5nNEpZc2E0d2hZbnU5MmFTNjR6QWdsLWJFOFNDbUJ5Nm8waTYzR2FsbnFXY3hqU3c?oc=5",
-   "published": "2026-10-13T21:22:46+00:00",
-   "lang": "zh",
-   "topics": [
-    "claude"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -8524,6 +8504,19 @@
    ]
   },
   {
+   "title": "光電測試平台成CPO量產關鍵測試設備供應鏈版圖將迎新變局- 股市爆料同學會",
+   "source": "CMoney",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uZE9yTmVOVm55T2NfYVU3aDJJSVFFNWN5eVlUNDNsdGI3NmdGdzhsTDV0Y2dxUDZBYVlkeXhLRUhvYXE3Mzc1c09WYmx5ejFtQkNjZ0dUeDk?oc=5",
+   "published": "2026-10-13T19:24:33+00:00",
+   "lang": "zh",
+   "topics": [
+    "cpo"
+   ],
+   "categories": [
+    "photonics"
+   ]
+  },
+  {
    "title": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal",
    "source": "Thomasnet",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnFNMWFFZkg1Q3E1WHFVcEdUUjhZUnZVSjNfOUl3ZHdHRUxTRTRmX1hQa1p1bWNhQW9DTnpUNDlTMXpRTUJ2ZlVaMExFdkpyeTV6TVBrTC1tTTBQSjdfVXpSX1U5V3MzVGxaZm5uUHJJRDdGdGtQeUhaNWc5elNNaWRkVmZSbDg?oc=5",
@@ -8568,19 +8561,6 @@
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80SkI1RUowWUxtTS1ZWFkxSEVZMklzNW5lVnVFdTh5b1lPdHZiYi1ocXZDWklrc0J5TndNT1BNUldkTkdkdWlPSmpSQ2pYMEZ3SmRKMDlyVEp3Q0FycWtrY3otancxWS1KS3JPbzFyanpqd3Vl?oc=5",
    "published": "2026-10-13T18:26:22+00:00",
-   "lang": "zh",
-   "topics": [
-    "wifi8"
-   ],
-   "categories": [
-    "comm"
-   ]
-  },
-  {
-   "title": "聯發科、達發攜手網通廠 全球攻城掠地",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FSWl0NXJUZmRqZ1AxdFlCOXZ6b2FhaFlrUHM5MndNQ0JxUTc2OUxkMTRnSDNVekRESFdTUUZfREdNYkNEQ2NGQnBtS3VHNEg40gFWQVVfeXFMTm1VNmJ5bmNjYVRFNE03S0ZWQ1VHcTdpNktieVU2dmJsLW52QUdCZ3VnZnBnakVDR18tOGhsX0FmQ0dYN1VXSmdxTURxcVFRNXZPM2tKRHc?oc=5",
-   "published": "2026-10-13T18:24:51+00:00",
    "lang": "zh",
    "topics": [
     "wifi8"
@@ -8824,6 +8804,19 @@
    ]
   },
   {
+   "title": "U.S. Signals Argentina Financing Could Exceed EXIM's $7 Billion Ceiling",
+   "source": "Shale24",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3FrVTUwTzVPdTVJcUFsNFZkNUFmNFUtR2JCQkh0ZTdlYTJVLUwwaE90QUxDRVpBQ3RuNTZhTUd1OHJFbDRDeEEzMHFjaEx5N2Rsa3BIdW1mUHBqeVVqN2NHaVdNa2N1N2U1ZFZzbUZ2U29jVWUyVnVoemllSi1VajFwSXBrb2tndjVKM0VNa1UyNHEwVHR4Q0F0TF80T0VuRWdCcGZXb2xzTVVwa1B0NE9R0gG3AUFVX3lxTE9iVy01UWtaSVVPOGJZN0ZCYjBuOGtkZ2d1ZE1xdjZ4LUY2OWt5ZE1XaG1Yb0JjYnctZzVjdTgxYldER3BmeXMtNG4xWTl0LVNmZmlCaHItLU9HY3pLci0zRDlMZkFjRDM5WGc4ZUtoaXBnZUNhQk16UjlzdXlwb1ZaWDd2Wk1uVVdJUGQxSTJBY0p3V1AtcHoxYUZyU2JrRXJNcGVTNXZlLWptOWprdGFYa3N0bFh6Zw?oc=5",
+   "published": "2026-10-13T15:50:00+00:00",
+   "lang": "en",
+   "topics": [
+    "argentina-ai"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "title": "【23:32 即時新聞】Teradyne(TER)重挫5%：CPO測試平台競賽加劇、市場消化題材",
    "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONlJ1UnF6TWZRREE0TjYzYTlaS1ZabVVjWWt0TjI2Ym1HdHJkSkhwTk14ZWpkLXRWLVdWMHY0RzlFNnVja2J0MkQ2WlBiUnNMLUpTMWE3OHBnVXJiV3lLd3J6OHJmYnpqdnQ2UU1vVlRBbkNPRS1HeXNnd1lKd0ZROGRnejdxLUJUZ3lfTkt3?oc=5",
@@ -8834,136 +8827,6 @@
    ],
    "categories": [
     "photonics"
-   ]
-  },
-  {
-   "title": "AI image detected of Enzo Fernandez in Argentina national team kit",
-   "source": "AI or Not",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVppTnlXelM2WXpYUWJvay1HTk56NEp3akYzbXRwR2ZtQnduOVdoWExKeDQ4WG1RUmpya3g1N2hMU0ozbVVXVm5OVFg4SzJudmI2dC1mdmZrcW5mQk1FbnZMalFoTzB0ZnpQcW5LQmU3blp5MVRBT1RDSjBlOTJRTmNFSUxZQQ?oc=5",
-   "published": "2026-10-13T15:24:22+00:00",
-   "lang": "en",
-   "topics": [
-    "argentina-ai"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "title": "Aaron Nathan：兩公分等級GPS是實體AI的隱形骨幹",
-   "source": "BigGo 財經",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mWHk3MDNVSl9fbG9RYzhsQlZ4MFFNRWVvY1pYcTFoT3M0M00ydGVsU2wtYlBCUlNwdmpQWGFYNmVkRDgwalVLVUpUZENXX09GTVJwUXJweHU3Um92TEkw?oc=5",
-   "published": "2026-10-13T15:08:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "physical-ai"
-   ],
-   "categories": [
-    "robot"
-   ]
-  },
-  {
-   "title": "Anthropic Shows How Small AI Models Could Replicate Across IoT Devices",
-   "source": "Security Affairs",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjA4dGhNYTZ0TU4tWDN1cTN6aTY2N1N0eDA2TkxPTmxyazJaaDdSNm9NQlRRZDR6VElRUHNvMDBLcnd3UXp1cHkycWdYNXdaenVMZWQxdlpDdnBvN05QdEdrWHJQT19LaGZGT1FLeEU2UTExaFAzODdNaExJSWFhRFVrcEhQd0tCQXNtWWFRRVlaLU0xY204WU9IR1B5cDQxY1IzQjYxNkJnY3kwcHcwNnFwVdIBuAFBVV95cUxNRHZ2ekFMVUZHX25Sbzc3SjMwMFBsd2Fqd0hNRlJDSE9rbzlwcFhYRHBPQjBlQm1TdGREM3NSWTFUV2R0aEZRSW00ZGlxMjh6c0p1T3liXy1QYUNMU3hMZW1NWFlrYmxXVHBMdlh3elJkdm80WEo5X0xFdHg1MlhtYTFCZ3BtRVV1eU9oWkIzM0FBeXMtNzZFdS01YnRKZUFQNmJ1b3ZCVkdQbjZhRzBvUUpmSFV5Yi14?oc=5",
-   "published": "2026-10-13T15:04:56+00:00",
-   "lang": "en",
-   "topics": [
-    "iot-sec"
-   ],
-   "categories": [
-    "comm"
-   ]
-  },
-  {
-   "title": "光電測試平台成CPO量產關鍵　測試設備供應鏈版圖將迎新變局",
-   "source": "ETtoday財經雲",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13VmtrTWFydFZJUlVSS0pKSW1vYW5CY0hKcXlzcUl0RkJhXzhBUkpjaFd6c0xvWklpUGJ1VEZDVUZuZjNSY3MyTEZGcFBydkw4RmfSAVBBVV95cUxQb3JMRXB2ZUMxSzRtandWbG1zTmRXaGFmeEVBWHFxb2x0UzdTQWJqWWtKS1RfaGRQd1Jybmd5aF91Rmg5YWY5OThGWGdPN1laZg?oc=5",
-   "published": "2026-10-13T14:56:00+00:00",
-   "lang": "zh",
-   "topics": [
-    "cpo"
-   ],
-   "categories": [
-    "photonics"
-   ]
-  },
-  {
-   "title": "Anthropic 警告「AI 病毒」逼近！數月內就能自我複製感染家電",
-   "source": "動區動趨",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd0VldDlLbUlETWFWZmhWRGJLbUljQjZuSHRabzdCM3F0S0lUWlZFVG5FMTFDQWY5cDdQalVlcDJieHRvUlVYWHZ3VFYwX0VtNFhsTkxEMUJWV3E5VmtpaXhrQktyZEwtVjFCSm1Vc1ZuRVJUSEdyMGVvWUxOMjRqX3RoRXkxUExhNVBjVXpHaXVNbXNydWZiQg?oc=5",
-   "published": "2026-10-13T14:53:59+00:00",
-   "lang": "zh",
-   "topics": [
-    "iot-sec"
-   ],
-   "categories": [
-    "comm"
-   ]
-  },
-  {
-   "title": "Network X: Major Qualcomm announcements on Wi-Fi 8, ISP intelligence SW platform, and new silicon for FWA",
-   "source": "Wi-Fi NOW Global",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWmZlbFJRU0RKaEVrZ1VBeUJxbE9RX3RCQnFleTdQemdFNll2ZGpod2dfT3hEaF9RYlRvdnlHdDNJenVVMk1oaTdYWEw0SDJUSFhoV3RUVm5zNmRiQWt2amlMZkdUbzRyelFwUEJnNEV0Y1VGMFlWbDNXeDhMWDd6aHdEVTV4Z1Q4RUhjT2pfa0N0eW1xWUVUVHZzdENVZ0xQaklzMnlneTJPNFlkNlJsZkR6UmU3TGtnZFBpM1lrU0ZvVmhCcEdfcHhTUV85Q0tkaGhyM3RRVkpIVGFpeTN1eEt5ZWYyaEJvUUpHMy1WbkRiazRNX2dINl9ZMFVackdCTl8wTDFvNFpCV0VR?oc=5",
-   "published": "2026-10-13T14:48:46+00:00",
-   "lang": "en",
-   "topics": [
-    "wifi8"
-   ],
-   "categories": [
-    "comm"
-   ]
-  },
-  {
-   "title": "Why Aeropowder Launched Feather-Based Cold Chain Packaging In the U.S.",
-   "source": "Pharmaceutical Commerce",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1kzbGI2MUo4dDdZdFUxYUJXMmJFRHlHcU5XQU9RN2FFLWRiOUM3QmpUSm4zVHlPSEJmVjU5TEE1M0hfZndpcmRFTkxleWlZVjFjRWVUVzNnQ2gzVUhmQVhuR3F2SXloSVlQT3VIX3NJLXNlUmU1aUZTdzFKS1dPbGRzS190VzhMd2I3THJtekNJdHBnNEFYN0FLamtzckFacG0wcnVYM01oLWVxTjNZX2x5Q2c?oc=5",
-   "published": "2026-10-13T14:45:03+00:00",
-   "lang": "en",
-   "topics": [
-    "plp"
-   ],
-   "categories": [
-    "semi"
-   ]
-  },
-  {
-   "title": "Gemtek, Qualcomm and gFiber Collaborate to Bring Edge AI to Wi-Fi 8 Broadband Gateways",
-   "source": "Thailand Business News",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWkMtSm1HMU9URmpqdk9xcGl6blR3Z1B1RXg2VVp6YUxTOGpuMnZtbUtjWjJpVmQ0SkE5TmpuMk1MZzNVOTZPVXgxeFlDbmRyQzJfUFgxR0lsYXBCeldudVNpWFhJZ1VMZXlTOHVJaW1vVl9QTlV5elpmU0k2QjNuQTRwdGJZdXp6WUYwLUhYZnVOUmZDRkwyUk1QV2xtSFQzS2dlMTdSdnRseWJ6dUhFZVViZVF5WkFmRlhZQmF6RnpDX0ZyendFQWZMLVI?oc=5",
-   "published": "2026-10-13T14:39:45+00:00",
-   "lang": "en",
-   "topics": [
-    "wifi8"
-   ],
-   "categories": [
-    "comm"
-   ]
-  },
-  {
-   "title": "Lightmatter揭CPO 2028年放量！ 日月光、鴻海、創意和海峰電腦搶先機 | 太報",
-   "source": "LINE TODAY",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QNnJIWmFRaTF6WTdFNFcta1N3UnphM1RkV0w1amQzamp3T0trSnhlcVF6cXEtb3JEZW1SLTN3S3ZDbmNUSlhwVF9DTUFZcTM1dndWQVpn?oc=5",
-   "published": "2026-10-13T14:14:03+00:00",
-   "lang": "zh",
-   "topics": [
-    "cpo"
-   ],
-   "categories": [
-    "photonics"
-   ]
-  },
-  {
-   "title": "耀登科技八德新總部暨研發中心落成 張善政：助攻桃園通訊產業接軌國際",
-   "source": "台灣好新聞",
-   "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPd3NsTjZDZGJDUjlCNl9HWVVaRWZVSS1EOGdBRjZsYW85bkpOSERVS0J1SVdBS3JxOVg4ckF4VXphWTlEaDZSSUdMc3BBUmFSczQtbjE0QkwtMURYZ3RGM0JSbFFoSEJZZ0U4S2xNRGt2c1R0LWJTUFVybUNwbjNqbF9fSXduZFVFaC1XMUMwZWlfNmF4TnVQaHVsZnRwMmZJZmFBMi1lbUpWb1JMVjBNei11ZV80bmh4YVM0Vm9IeE1uQlhXVFNmMXh3Zk0yVHU3YnByWDVPRWVQVmZLLS00NXZmaENFYjFYNmJBd1l3cUNhU0RqZ3Z6SzZLa2VKcjdzNTlGUlkzVDVsRlFvTW9hbWc1ZXBJLWxwX25ZblZPdk9qb21HWll0MHFrNDkzZmhzS01Ba0l4NFlzeGc1OUZEd3JTTlRLZDR2UWxiYmFJekRXb2ZnVUxDRjBLZmluN1pNZXFzX2NxTXJBODJjT2Fmc3dfUUNlVjdhNjNHYjJCaFdOZ1VsOG9jVnliWEExRGxLTkNZZURlUC1lUXZNdlJVWnV5eVlndEJmSkFXYlNMUDR0XzljMlV3VXpvWHFXQUxmcUtVc3UyUDUtLWdCRm1CUkxLaF9RN1Rza3JvcGN4N3NwNUdWNEdNdUswbWFkaXVpSzFQNGU1NA?oc=5",
-   "published": "2026-10-13T13:42:56+00:00",
-   "lang": "zh",
-   "topics": [
-    "6g"
-   ],
-   "categories": [
-    "comm"
    ]
   }
  ]
