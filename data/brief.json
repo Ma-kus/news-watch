@@ -1,369 +1,369 @@
 {
- "date": "2026-11-03",
- "generated_at": "2026-11-03T11:25:00+08:00",
- "analysis": "對陸管制升溫(AI晶片走私入罪化與立院公聽會)與美期中選舉、台幣貶值同日交織;市場續以英特爾財測與費半修正檢驗AI投資,但台廠財報與光寶、記憶體等訊號顯示實體需求未消,先進封裝、ASIC與光通訊併購則指向下一波硬體競賽。",
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T08:35:00+08:00",
+ "analysis": "CSP資本支出展望與輝達限縮中國資料中心曝險並陳；台股重挫、匯市動盪與美期中選舉同日交織，先進封裝散熱材料、CPO／COUPE與歐盟CRA合規則指向下一波硬體與法遵競賽。",
  "analysis_editor": {
   "persona_title": "總編輯視角:資深 B2B 科技媒體總編輯",
-  "summary": "今天編輯台最該盯的主軸有三條。第一是台灣對陸半導體管制明顯升級:外電指立委推動將輝達等高階AI晶片走私入罪(#1),經濟日報則報導綠委擬擴大限制晶片與材料出口、台積電低調出席公聽會(#3),兩者合起來意味「行政管制+刑責」雙軌逼近,對貿易商、封測與材料廠的合規成本與對陸業務將是長線題。第二是資本市場與實體訂單的落差仍在擴大——英特爾財測重挫拖累半導體(#4),台股失守四萬五、外資連賣(#20),但今周刊以台達電、聯發科、聯電等財報指出AI需求未消失、卡在交付(#2),光寶獲利大增(#10)、旺宏看好記憶體至2030(#14),構成「殺估值、不殺訂單」的報導空間。\n\n第三條是硬體下半場的技術與併購戲碼:台積電CoPoS與面板廠玻璃基板傳聞(#8)、High-NA EUV時程(#11)、聯發科/邁威爾/博通ASIC延長賽(#13),以及邁威爾官方宣布與Lumentum全股票合併(#6,對價約1,150億美元企業價值、換股比4.5、目標2028上半年交割),都指向先進封裝與光通訊成為下一爭奪點。海外政經面,南韓以史上最大預算加碼AI與半導體(#9)、奧特曼訪韓(#18)、鴻海洽談OpenAI硬體合作(#17,未公告細節)、美國期中選舉遇上AI估值修正(#19)、台幣貶破32.7(#15),則決定未來數季的補貼、關稅與匯兌變數。旺宏獲IEEE Milestone(#7)與吳誠文Team Global(#12)則提供產業敘事與政策敘事的長線素材。",
+  "summary": "今天編輯台的主軸是「需求敘事回穩、合規與資金面同時緊縮」。摩根士丹利續唱CSP明年資本支出樂觀並點名15檔台系供應鏈(#1)，但輝達據報要求資料中心客戶縮減中國曝險(#2)、立委擴大零組件與設備對陸管制(#12)、以及HBM偽裝走私破口外電(#18)，合起來顯示AI算力的「物理需求」還在，可服務的地理範圍與文件軌跡卻在急速收窄。環球晶獲美光獨包認購約163億私募可轉債(#3)、Entegris宣布切入SiC／鑽石熱管理材料(#5)、日月光CPO對台積電COUPE的路線之爭(#9)、PTFE無玻纖布製程升級(#7)，則把報導重心從「還有沒有AI訂單」推向「誰拿得到下一代封裝、散熱與板材門票」。\n\n第二條線是評價與政經共振。台股單日重挫逾1600點、外資股匯雙殺、新台幣重貶(#16、#17)，疊加美國期中選舉投票日的三情境推演(#16)，會決定未來數周半導體評價修復的斜率；Google TPU v9傳延後(#8)、台達電自高點腰斬(#11)、蘋果示警記憶體成本(#19)則提醒ASIC與消費電子鏈並非免疫。政策敘事上，林佳龍投書Foreign Affairs定位台灣為美AI不可或缺夥伴(#15)、旺宏因應歐盟CRA把硬體安全做進Flash(#14)、SK海力士紐約投資因對陸限制卡關(#13)，都是長線專題素材。邁威爾併Lumentum後TrendForce稱可挑戰博通(#4)、韓媒指台積電評估鄰近三星Taylor的德州廠址(#6，據報)、Anthropic向IPO投資人主打Claude晶片設計能力(#20)，則分別打開光通訊、美國產能聚落與AI設計工具三條新戰線。",
   "implications_taiwan": [
-   "對陸出口若走向「擴大清單+刑責」,台廠必須加速法遵與市場分流,中小型貿易與材料商首當其衝(#1、#3)。",
-   "股價修正與財報韌性並存,報導應區分有交付瓶頸的真訂單與純題材股,避免被盤勢帶著走(#2、#4、#10、#20)。",
-   "先進封裝與光通訊升溫:面板廠轉玻璃基板、ASIC固樁、光學併購若成局,將重劃台灣供應鏈座位(#6、#8、#13)。",
-   "韓美政策與匯市變數升高:南韓國家資源競賽、美期中選舉與台幣貶值,影響台廠海外投資與財報匯兌(#9、#15、#19)。"
+   "CSP展望偏多但中國曝險與出口管制同步收緊，伺服器ODM與貿易商必須重做「可出貨市場」地圖(#1、#2、#12、#18)。",
+   "先進封裝／CPO、熱管理材料與PTFE板材進入資格賽，晚通過驗證者可能錯過下一波AI硬體規格(#5、#7、#9)。",
+   "股匯雙殺與期中選舉結果將放大財報匯兌與評價波動，報導需區分訂單基本面與資金面(#16、#17、#11)。",
+   "CRA與美台AI夥伴論述升溫，資安Flash、設計服務與赴美供應鏈合規成為中長期議題(#14、#15、#13、#6)。"
   ],
   "story_angles": [
-   "「管制2.0」專題:走私入罪化與立院公聽會如何改寫對陸半導體貿易規則。",
-   "交付瓶頸地圖:電源、ASIC、成熟製程、記憶體各自卡關點與紓解時程。",
-   "面板進攻玻璃基板/CoPoS:友達、群創傳聞查證與設備材料點將錄。",
-   "光通訊官宣併購專題:邁威爾—Lumentum 條款、監管時程與對台廠訂單意涵。",
-   "Team Global與IEEE里程碑:從政策口號與智慧製造標竿看台灣下階段敘事。"
+   "「可服務中國客戶」合約條款專題：輝達據報設限如何改寫雲端與ODM接單。",
+   "CPO vs COUPE＋熱管理材料：封測、載板、TIM與液冷的台廠點將錄。",
+   "環球晶—美光資本綁定與矽晶圓擴產地圖。",
+   "CRA倒數：台灣記憶體／MCU的Security by Design實作與認證成本。",
+   "期中選舉後48小時：關稅、補貼預期如何反映在費半與外資買賣超。"
   ],
   "questions_to_track": [
-   "立法院對AI晶片走私入罪與擴大出口管制的草案文字與排程?",
-   "邁威爾—Lumentum 的反壟斷／各國監管審查進度，以及交割前對供應商長約的實際影響?",
-   "友達/群創玻璃基板試產是否獲公司證實,目標客戶為台積電或輝達?",
-   "鴻海與OpenAI硬體合作範圍與時程?",
-   "美國期中選舉結果對晶片補貼、對中管制與關稅的實際影響?"
+   "輝達對資料中心中國曝險限制是否獲官方或客戶合約證實？門檻是否為約49%？",
+   "經濟部擴大對陸管制的品項清單與時程？",
+   "環球晶私募可轉債用途、轉股條件與美光長約連結？",
+   "Google TPU v9實際量產時程與對聯發科／博通訂單影響？",
+   "美國期中選舉結果對晶片補貼、對中管制與關稅的立即訊號？"
   ]
  },
  "analysis_executive": {
   "persona_title": "CEO/COO 視角:科技公司高階主管",
-  "summary": "從經營層看,今天的風險矩陣是「政策+匯市+客戶資本紀律」三線並行。台灣朝向強化對陸晶片與材料管制、甚至討論走私刑責(#1、#3),意味中國相關交貨路徑與文件軌跡必須重做情境規劃;同時台幣貶破32.7、央行出手(#15)與美期中選舉(#19)會透過匯兌損益、報價與關稅預期影響毛利。英特爾財測與半導體評價修正(#4、#20)則提醒:客戶端對非AI與PC需求更保守,議價與拉貨節奏可能更碎、更短。\n\n機會面仍在實體AI鏈。財報顯示交付卡住但需求未消失(#2),光寶等周邊元件獲利跳升(#10),記憶體長線仍緊(#14),ASIC競賽延續到2028(#13),CoPoS/玻璃基板(#8)與High-NA(#11)決定下一輪資本支出方向。邁威爾已官宣合併Lumentum(#6,企業價值約1,150億美元),光通訊長約與供應商資格戰會提前;鴻海與OpenAI合作傳聞(#17)、奧特曼訪韓(#18)、輝達深化韓系記憶體合作(#16)與南韓國家預算加碼(#9),都在改寫客戶與產能的地理配置。決策上應同步推進法遵、料件長約、分段擴產與客戶多元化;對未證實的大型併購與合作只建情境、不押單一投標假設。",
+  "summary": "從經營層看，今天要同時管理「客戶還在投資」與「錢與市場邊界在變」兩件事。大摩維持CSP明年CapEx樂觀(#1)代表AI基礎設施預算未被砍光，但輝達據報要求降低中國業務曝險(#2)、立法院與經濟部研議擴大零組件設備管制(#12)、HBM走私手法曝光(#18)，意味訂單的合規邊界比去年更窄，文件軌跡、最終用途與轉售條款必須重簽情境。資金面上，台股暴跌、新台幣重貶與外資撤出(#16、#17)會透過匯兌、客戶議價與融資成本影響毛利；蘋果記憶體成本示警(#19)與台達電評價腰斬(#11)則顯示下游可能更用力砍價或遞延非關鍵拉貨。\n\n機會仍在技術卡位。美光獨包認購環球晶私募(#3)示範關鍵客戶願意用資本鎖產能；Entegris切入高階熱管理材料(#5)、CPO／COUPE路線競爭(#9)、PTFE板材升級(#7)、安森美產能轉向AI電源帶出的車用轉單(#10)，都是可搶的資格賽。邁威爾—Lumentum整合挑戰博通(#4)、台積電據報評估德州近三星廠址(#6)、SK海力士美國投資卡關(#13)會重劃赴美供應鏈座位；CRA驅動的Flash硬體安全(#14)與Anthropic強調AI助設計晶片(#20)則提醒法遵與設計流程自動化已是競爭變數。決策原則：以客戶長約綁定再擴產、雙軌合規文件、嚴控匯兌曝險，對未證實的設限與選址只建情境、不押單一假設。",
   "implications_taiwan": [
-   "對陸管制升級提高合規與斷鏈風險,需預備替代市場與文件軌跡(#1、#3)。",
-   "AI周邊(電源、散熱、記憶體、成熟製程)需求仍支撐營收,但交付與匯兌會侵蝕能見度與毛利(#2、#10、#14、#15)。",
-   "封裝、ASIC、光通訊的客戶綁定決勝到2028,晚固樁者可能失去產能牌位(#6、#8、#13)。",
-   "韓系供應鏈與國家資源加大,台灣廠商在HBM與先進製程外的分工需重新定位(#9、#16、#18)。"
+   "中國相關營收與轉口路徑的合規成本上升，需預備替代市場與最終用途證明(#2、#12、#18)。",
+   "AI電源、散熱、板材、CPO與矽晶圓的客戶綁定決勝明年，晚拿到驗證即失去產能牌位(#3、#5、#7、#9)。",
+   "股匯波動侵蝕能見度，報價、避險與庫存週期要同步縮短(#16、#17、#11、#19)。",
+   "赴美投資與歐盟CRA成為進入美歐市場的隱性門檻(#6、#13、#14、#15)。"
   ],
   "decision_considerations": [
-   "供應鏈:檢視對陸出貨品項是否可能落入擴大管制或刑責範圍,建立雙軌文件與替代客戶。",
-   "客戶:追蹤CSP/ASIC與OpenAI等客戶資本支出與議價,準備分段訂單與更嚴付款條件。",
-   "資本支出:CoPoS/玻璃基板、High-NA相關設備與光通訊產能採「客戶長約綁定再擴」原則。",
-   "合作:評估是否切入光學合併後的新供應商名單,以及韓系記憶體合作深化後的缺口。",
-   "風險:建立美期中選舉後關稅/補貼、台幣波動與未證實大型併購三種壓力測試。"
+   "供應鏈：盤點產品是否落入擴大對陸管制或輝達客戶中國曝險條款，建立雙軌出貨與文件。",
+   "客戶：追蹤CSP CapEx落地與TPU／ASIC時程，準備分段訂單與更嚴付款條件。",
+   "資本支出：CPO／熱管理／PTFE／矽晶圓相關投資採「長約或戰略認購綁定再擴」原則。",
+   "合作：評估是否進入邁威爾—Lumentum或美光—環球晶體系的新供應商名單，以及車用功率轉單承接能力。",
+   "風險：建立期中選舉後關稅／補貼、台幣貶值、未證實選址與AI評價續殺四種壓力測試。"
   ],
   "questions_to_track": [
-   "本公司產品與料件是否可能被納入立院或經濟部下一波對陸管制清單?",
-   "主要AI客戶下季指引是否因評價修正而遞延拉貨?",
-   "記憶體與光學元件長約價格、交期如何變化?",
-   "邁威爾—Lumentum交易若成交,現有光通訊訂單會被整合或重開標?",
-   "期中選舉後美國對台半導體投資與出口許可實務有無轉向?"
+   "本公司對中國終端或轉售營收是否可能觸及雲端客戶新設限？",
+   "主要CSP／ASIC客戶下季拉貨是否因評價或TPU延後而遞延？",
+   "記憶體、高階板材與光學元件長約價格、交期如何變化？",
+   "CRA相關產品是否需在未來12–24個月完成硬體安全認證？",
+   "赴美或歐盟客戶是否新增最終用途、FDPR或本地內容要求？"
   ]
  },
  "items": [
   {
    "rank": 1,
-   "category": "C",
-   "title_original": "Taiwan to criminalize Nvidia AI chip smuggling to China",
-   "title_zh": "台灣擬將輝達AI晶片走私中國入罪化",
-   "title_en": "Taiwan to criminalize Nvidia AI chip smuggling to China",
-   "source": "Asia Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUWxfTkwxZS03OThDWFpBX3ktSUU2RC01UkhiMm5WdEI5dmVkWll1T3Y2dFZXcWp5LW1YazVuS3FrSEcyZUhfYzRGSTQ3aFNfMlY2b2VNcUJaaEpjcWJBU3ZCRzIzV2sydmhkQ2l2WFBzN0NqZ1VyYWhfdS14M1FLLThJbkcwakVvd3ZqRUpGcw?oc=5",
-   "published_at": "2026-11-02T16:55:28+00:00",
-   "why_it_matters": "民進黨立委推動把輝達等高階AI晶片走私至中國列為刑責,並收緊出口漏洞;若立法過關,將拉高台廠與貿易商對陸轉運的合規成本,也強化與美方出口管制的對齊。",
-   "angle": "對照經濟部既有管制清單與立法院草案,釐清刑責門檻、適用品項與對中小貿易商衝擊。",
-   "companies": [
-    "Nvidia",
-    "TSMC"
-   ]
-  },
-  {
-   "rank": 2,
-   "category": "B",
-   "title_original": "AI需求沒有消失，只是交付卡住了？台達電、聯發科、聯電...從5台廠財報看台股重挫背後的真相",
-   "title_zh": "AI需求沒消失、交付卡住?從台達電、聯發科、聯電財報看台股重挫真相",
+   "category": "A",
+   "title_original": "大摩：美國大型 CSP 明年資本支出展望仍樂觀 看好15檔台系供應鏈",
+   "title_zh": "大摩：美國大型CSP明年資本支出仍樂觀，看好15檔台系供應鏈",
    "title_en": "",
-   "source": "今周刊",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3FKSmxMakROV2VaUVdNWWdoSEpJN1A0MndUdXljTnlUUThpcGdsUzA5QTJkNWlJN1FnZXFHWFJRQnZpbzNTZFhzSmkyRDVETEx3bkJLZGJ0Wm53cXBXTGxBbVp0Tzh5QTFhdjFtdXpIV3V1N243bUcwQmM3MEp2WA?oc=5",
-   "published_at": "2026-11-02T01:31:41+00:00",
-   "why_it_matters": "今周刊以五家台廠財報指出,AI實體需求仍在,但出貨與認列節奏受交付瓶頸牽制;有助解釋「股價殺、訂單未死」的落差,對編輯與法人判斷基本面關鍵。",
-   "angle": "做成「交付瓶頸地圖」:電源、ASIC、成熟製程各自卡在哪一段,哪些台廠最先紓解。",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yX1hnMm1HbHlOcE9MR3I2Q0Nid3Z6dXI1WE9IblFqM09WT3cxWV93RHhVRkVkODVfa3RxOE4zSHNXVDFPX1J6UV8zTjRYZzN2NWZQWWpB0gFWQVVfeXFMTnJfWGcybUdseU5wT0xHcjZDQ2J3dnp1cjVYT0huUWozT1ZPdzFZX3dEeFVGRWQ4NV9rdHE4TjNIc1dUMU9fUnpRXzNONFhnM3Y1ZlBZakE?oc=5",
+   "published_at": "2026-11-03T11:50:30+00:00",
+   "why_it_matters": "摩根士丹利維持美國大型雲端服務商明年資本支出樂觀展望，並點名15檔台系供應鏈；在AI股回檔之際，有助區分「評價修正」與「需求消失」。",
+   "angle": "做成CSP資本支出對照表：哪些台廠綁定哪些雲端客戶、交付節奏與法人目標價差異。",
    "companies": [
-    "MediaTek",
-    "UMC",
+    "Wiwynn",
+    "Wistron",
+    "Foxconn",
+    "Quanta",
     "Delta Electronics"
    ]
   },
   {
+   "rank": 2,
+   "category": "A",
+   "title_original": "Nvidia Tells Data Center Clients to Trim China Business, FT Says",
+   "title_zh": "金融時報：輝達要求資料中心客戶縮減中國業務曝險",
+   "title_en": "Nvidia Tells Data Center Clients to Trim China Business, FT Says",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
+   "published_at": "2026-11-03T05:39:00+00:00",
+   "why_it_matters": "彭博引述金融時報，輝達要求全球雲端／資料中心客戶降低中國相關曝險（外電另傳中國企業占比上限約49%）；此為出口管制之外的供應鏈自我設限，直接牽動AI算力轉售與合規。屬據報／外電，細節待官方證實。",
+   "angle": "對照美國出口管制與雲端客戶合約條款，盤點台灣伺服器ODM對「可服務中國客戶」業務的衝擊情境。",
+   "companies": [
+    "Nvidia"
+   ]
+  },
+  {
    "rank": 3,
-   "category": "C",
-   "title_original": "綠委擬限制晶片、半導體材料及零組件出口至陸 台積電低調出席公聽會",
-   "title_zh": "綠委擬限制晶片與半導體材料出口至陸,台積電低調出席公聽會",
+   "category": "A",
+   "title_original": "環球晶 163 億私募 美光全認 董座徐秀蘭：本季動能比預期好",
+   "title_zh": "環球晶163億私募可轉債，美光全數認購；徐秀蘭：本季動能優於預期",
    "title_en": "",
    "source": "經濟日報",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kTEZleEdqUjYzeG9uSHhxVWhEVTVpekEwNmNTN2F3NWVsSURkelg3elYzQVJnMGpvOE5iaUdqSFdaTmNiNm14SU5WTktwc3N6Q01waVVVblU2d9IBX0FVX3lxTE9EdWhBeVlvcE02MzViM3d1RkRMRWZ3ZHk4QmRpM1ZJYlBfQmN0V1lmWUVBOXhzWU9vZTBWU29iMGtWWDY3NjdWSThMMlE3NzdxcDRGY2xPSlNLMnF2UHpR?oc=5",
-   "published_at": "2026-11-02T12:24:25+00:00",
-   "why_it_matters": "立法院公聽會討論擴大限制晶片、材料及零組件輸陸,台積電低調與會;與走私入罪化同屬對陸管制升級,影響台灣設備材料廠對陸業務與供應鏈分流。",
-   "angle": "追問管制品項範圍、例外授權機制,以及台積電與公協會的實際表態。",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGo4ZGpyeTVqTHdPZVNhWHZJZnFvZEtqMWprTTI3bkdEejhCekl3dm5lV3poLWpTWGJJUUJVbzZ1dFYtVE5rTEZBVXJXNF9KN0dOSUoxRWxsUG5KaE9OdHc3Y2wtREJQNldFMFBaVWNOOUFRU3JOa3E3NFhNX09IMTZqb9IBYEFVX3lxTFB6WnBMcHRvUzNhTnd1dEhyemFHZU5YQkNVYXN0SjhSeUpXeTdWY0lBWUFVcUptMWVENlhkZENzVDdBWnVrZDBkUWxqdkdkVWVQbUpXQldSY3ZiRTA0ZzFuVg?oc=5",
+   "published_at": "2026-11-03T18:17:34+00:00",
+   "why_it_matters": "環球晶宣布約163億元（約5億美元）私募可轉債由美光全數認購，強化矽晶圓與記憶體客戶的資本綁定，並釋出本季動能優於預期訊號，對台灣材料供應鏈具指標意義。",
+   "angle": "解讀美光為何獨包認購、對環球晶擴產與美系產能布局的連結，以及對其他矽晶圓廠的競爭意涵。",
    "companies": [
-    "TSMC"
+    "GlobalWafers",
+    "Micron"
    ]
   },
   {
    "rank": 4,
-   "category": "D",
-   "title_original": "英特爾財測慘澹重挫25% 輝達、台積電難意外、半導體全軍覆沒 PC需求恐冰封至2027年",
-   "title_zh": "英特爾財測慘澹重挫25%,半導體全軍覆沒、PC需求恐冰封至2027年",
+   "category": "A",
+   "title_original": "Marvell收購Lumentum TrendForce：有望挑戰Broadcom領導地位",
+   "title_zh": "TrendForce：邁威爾併Lumentum有望挑戰博通光通訊領導地位",
    "title_en": "",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPYW5sTXZJWEF1c2lqRC1YWXpOODg1WnpTWWNtWWRJTDZsM2daTlIzTm13UlU4MzZMZjZDdHk2M1Q5ZUZhM0hRU29Ga2tna3JZMjBWRlcxYnRwQ0RTVWlqLXFPNkxlV3gxV3dYdzk1ZFJjLVp0SHQ1OGpjSUdTMGl6WHVfNUI0ZTFuSjh4WjVrVm80RVA4dVBOS1JDTVFIVDVsOFZEYUlTTmQzRGtIUGpzMkFXMjhfaGxwMnJidHZWTHlnMkhEN200djVTSEhfRERVdjJfdFRsUnhFTnBwbk5RTWVyOXA4ejU0SHoyRzdIRXdhQkstZjFBYXFHN2tFSjNZX3RibGRxdnQ3MC1zQ0hGRktXeWpvWDBqSXRtZGtxWHo1bDc1X3JpUnRyaEhtcjN2QWZLZlI1S3M1LUtzNjF3RDg0dDBEQ0FCdEU0WmRoekxtVEE5N1hsZnh4ZExzN29ORG5KYmxqT0E4TXlOdm9OeDN3eE5hMkNfajRPOE1OeWo4UGVRVDdsNW1qNHNVOUszblpfMDFlZExJelZURlUyeTl6VXpOd3o1b0lJNnR3ak1NNVRkck9yaGRldWVsVWZobF81eU45eWl4cTlGTW83eldINV9QMTg?oc=5",
-   "published_at": "2026-11-02T06:13:59+00:00",
-   "why_it_matters": "英特爾財測失利拖累輝達、台積電等半導體股,延續費半修正潮;市場對PC與非AI需求能見度轉弱,加深AI投資實證期的評價壓力。文中對PC需求的時間預估宜與公司指引交叉比對。",
-   "angle": "區分「AI伺服器鏈」與「PC/傳統CPU鏈」受創差異,盤點台系相關供應商曝險。",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXcU9WNEpWa1FjWWQ3OXpLa2c2OVFUUHkzUU1Pb3E3Uzl5X2k4OGVfUE1iOWstcUwzM2tEbXA0ZGk5WmNLaEVSTlRpQ3o5dzBO0gFWQVVfeXFMTW5Td05xdURieEpGWEVWaVhCa3huck5UdnZIN3RxN3BZOWZ6RUxTWEFydW5UVllFLTE4cG5MN1BJd2hkdjhMVE9UQ2NOVHFDdTM2Ym1mamc?oc=5",
+   "published_at": "2026-11-03T09:40:13+00:00",
+   "why_it_matters": "繼官宣全股票合併後，TrendForce評估合併體有望挑戰博通在AI光通訊的領導地位；併購後供應商資格與長約重談將牽動台灣光學模組、矽光子與CPO供應鏈座位。",
+   "angle": "以「光通訊雙強對決」專題對照博通、邁威爾—Lumentum產品組合與台廠切入點，追監管交割時程。",
    "companies": [
-    "Intel",
-    "Nvidia",
-    "TSMC",
-    "Samsung",
-    "ASML"
+    "Broadcom",
+    "Nvidia"
    ]
   },
   {
    "rank": 5,
    "category": "A",
-   "title_original": "AI真的開始賺錢了 Meta、特斯拉財報報喜",
-   "title_zh": "AI真的開始賺錢了?Meta、特斯拉財報報喜",
-   "title_en": "",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMFg2ZW50ZmpiMW9aSk0wdnlRNXd0bGQwVl9ua2RqekhWVElUaFBfSnBDU3N0OFdhRlpjSkNtOU5rLXpPRU9hRXJhQlN1aU9PU2l5UDY5ZXdvRzBfSTh2VF91ay1OYjIwUXdJckVLdi1FQ2p2MDlQQXVvTUJiSS1TX0UxTEE2Mnl4ZzdGTFlaSTUxc2ZSRUtNMWoyQ1ptakM1ZERHUW8zUG1NMUhtVC11elJhWlVERTV3Qi1ORmVSLWRGMFd1QXYxVy1JdEdXc0pSQkFqMW43c21FMEV0TFFqWG8wY2pHeFdvSlM5ZG9CSHdHWnQtbzlxSkVicVEtSVpKLWdUdW1R?oc=5",
-   "published_at": "2026-11-02T18:14:11+00:00",
-   "why_it_matters": "在AI資本支出遭市場質疑之際,Meta與特斯拉財報傳出AI相關獲利改善訊號,可能緩解「燒錢無回報」疑慮,並支撐後續雲端與自駕車相關硬體需求預期。細節依各家財報表述為準。",
-   "angle": "拆解Meta廣告AI與特斯拉推論/機器人業務的營收貢獻,對照台灣伺服器、電源與感測供應鏈。",
+   "title_original": "Entegris Enters Silicon Carbide and Diamond-Enabled Thermal Management Materials Market for AI Advanced Packaging",
+   "title_zh": "Entegris進軍碳化矽與鑽石基熱管理材料，瞄準AI先進封裝",
+   "title_en": "Entegris Enters Silicon Carbide and Diamond-Enabled Thermal Management Materials Market for AI Advanced Packaging",
+   "source": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWGFCMHg3NThja3FuRXhtVXI0T2d0MnpVVVhKaW13QXFGQ1ZGcldlQkg4VG5DaWxpVExRYWYyYWljVG5hdUNSbjBFVzktUXVzQl9DTGNtTTNWWHJrVTl0Nk1neXhuTDd5cmE5UWZBMWR0UV9tYmMycUZ1dmFURDIxLTQzUk9HN2lfcG9fWUo4c1pEWEV5d0JoNHpoblN1TGFYVUxrNkV2bGVTcUNjY1AtNFhTR1Z3T1NUR1RXaU9xWmhINGIyYkViWE1sWUhNVV9CZldtVUZNU2UwNk8xNXlFMFJPT2tLbVNPTlFmSGtpSU1uajJESlZTYkZFdXBwbTg?oc=5",
+   "published_at": "2026-11-03T12:00:00+00:00",
+   "why_it_matters": "半導體材料大廠Entegris宣布進入碳化矽與鑽石基熱管理材料市場，對準AI先進封裝散熱瓶頸；液冷與高功率封裝材料升級將連動台灣散熱、載板與封測供應鏈。",
+   "angle": "盤點SiC／鑽石熱介面材料供應商版圖，對照台廠在液冷、TIM與先進封裝材料的切入機會。",
    "companies": [
-    "Meta",
-    "Tesla"
+    "Entegris"
    ]
   },
   {
    "rank": 6,
    "category": "A",
-   "title_original": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
-   "title_zh": "邁威爾官方宣布以全股票交易合併 Lumentum，企業價值約 1,150 億美元",
-   "title_en": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXZSWEtYd1FlQVdoMVZqY0YwcjVvMi1hTC15TXdyVGxJUVdWM3o5eHRXQkFDdTF6bVM4cUdZdGppbl9iVExpYlpnRG9reWN2RmZWSkphU2lSN3lfbjRvWDJRY0ZESXU1SkxTSkFlTzM3VVlaYldVRkk0enB2ZHZCSG9YSjM0bHRiUDJzTmdnZXJRS0E?oc=5",
-   "published_at": "2026-11-02T18:48:04+00:00",
-   "why_it_matters": "邁威爾與 Lumentum 已於 11/2 發布官方聲明：全股票交易、換股比 4.5 股邁威爾換 1 股 Lumentum，對 Lumentum 隱含企業價值約 1,150 億美元，預計 2028 上半年交割（須股東與監管核准）。此為 AI 光通訊與 CPO 供應鏈的結構性併購，直接牽動台灣光學模組、矽光子與雷射供應商座位。",
-   "angle": "核對官宣條款後做「光通訊整合戰」專題：對博通、台灣雷射／光學模組廠、CPO 時程與長約重談的影響；追監管與交割風險。",
+   "title_original": "TSMC Eyes Texas Site Near Samsung’s Taylor Chip Plant",
+   "title_zh": "韓媒：台積電評估德州廠址，鄰近三星Taylor晶圓廠",
+   "title_en": "TSMC Eyes Texas Site Near Samsung’s Taylor Chip Plant",
+   "source": "Businesskorea",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MdVI4VGFfZFpsTjV0WUlNcnhRRjBGTjA2VnA4eEVZdEpmMFZiUjh4bFU5OUctdWF5STBvN19xdEdWTzBPV2tTbkxkbzRJeWlQUExWc0ZaUkdTa2taUHM4WHJ0cDEzNldidnQ0amdUODkzcEFP?oc=5",
+   "published_at": "2026-11-03T04:17:46+00:00",
+   "why_it_matters": "Businesskorea報導台積電評估在德州、鄰近三星Taylor廠的新廠址；若屬實，將加深美系先進製程聚落競爭與供應鏈就近化，影響台灣設備材料出海節奏。屬單一來源據報，待公司證實。",
+   "angle": "查證選址進度與客戶驅動因素，比較亞利桑那既有布局與德州聚落的供應鏈意涵。",
    "companies": [
-    "Broadcom",
-    "Lumentum",
-    "Marvell"
-   ]
-  },
-  {
-   "rank": 7,
-   "category": "B",
-   "title_original": "台灣半導體公司首獲殊榮，旺宏電子 sNOVA 技術獲 IEEE Milestone 認證",
-   "title_zh": "台灣半導體公司首獲殊榮:旺宏sNOVA技術獲IEEE Milestone認證",
-   "title_en": "",
-   "source": "TechNews 科技新報",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjFpV1JhZGZmMXBIUHJRb21CN2lGVnB6aVBMWFpEYTZLWENoanN0UGx4dUxYVnc0Y0xmbVpXdlRMTFkyaGVoNlN2YkRHcnR6dlJ0TU84Wld1WGhCTi1rTF9FRWNlTWVoQXQwOVM3TUxCQm5yT01ZSE54a2oxLVB0QkNOQXNLRUdnNGpRNGxmSHhoNkZmX29hbWZmR0dhRkxxT2FmWXBSVQ?oc=5",
-   "published_at": "2026-11-02T09:01:53+00:00",
-   "why_it_matters": "旺宏sNOVA智慧製造技術獲IEEE里程碑認證,為台灣半導體業者首例,凸顯本土在工廠自動化與良率優化的長期累積,對智慧製造與設備軟體生態具指標意義。",
-   "angle": "專訪旺宏與供應鏈:sNOVA如何改寫產線,其他台廠跟進智慧製造的路徑。",
-   "companies": [
-    "Macronix"
-   ]
-  },
-  {
-   "rank": 8,
-   "category": "A",
-   "title_original": "台積電衝刺 CoPoS 面板級封裝！友達傳佈局玻璃基板試產線、群創也跟上",
-   "title_zh": "台積電衝刺CoPoS面板級封裝,友達傳佈局玻璃基板試產、群創跟進",
-   "title_en": "",
-   "source": "鏈新聞 ABMedia",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jcG1qd0FVZ01OaUNwa0dVWk5oLVczQ2tMbk1rREVLVEItejN1SkxzNHJuRWVDdFBqbTBrQnRMS2NMT3hhdzJ3dEhOMFZsejFwN3FlQW1VaGdrOEZOZ3ZDWVlDdGU4ZEJo?oc=5",
-   "published_at": "2026-11-02T07:47:02+00:00",
-   "why_it_matters": "台積電推進CoPoS面板級封裝之際,友達據傳佈局玻璃基板試產線、群創亦跟進,顯示先進封裝材料戰線擴及面板廠;對台灣面板轉型與CoWoS產能外溢是重要觀察點。友達試產屬「據傳」,需向公司查證。",
-   "angle": "玻璃基板供應鏈點將錄:面板、材料、設備誰拿得到台積電與輝達認證。",
-   "companies": [
-    "TSMC"
-   ]
-  },
-  {
-   "rank": 9,
-   "category": "C",
-   "title_original": "AI 預算近翻倍！李在明推南韓史上最大預算案 要讓半導體榮景全民共享",
-   "title_zh": "李在明推南韓史上最大預算案,AI與半導體支出近翻倍",
-   "title_en": "",
-   "source": "經濟日報",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBud0lpb0w2UW16QjRvWU1oLWhMZjJjd2Q1U0FHQi1BZ29COUp4bGdHMWxKcmtLUkNrWk5aOUs5X2FQY2REVUNCMHVNUW9obEt2S2RLcnYxVUZMQdIBX0FVX3lxTE11dmFiMDFUZnZ0SFlyT2IxRUI3RGNENldHNjJvdUQtdC1DQm9rdUdkdDd1cm04V2Z0WkxCNmlNcE9uTjM5ZUd4NWFuX1lwQ0ZhUWFNdV9GTFQzVHhaaUpR?oc=5",
-   "published_at": "2026-11-02T06:45:41+00:00",
-   "why_it_matters": "南韓總統李在明推動史上最大預算,AI與半導體相關支出近乎翻倍,意圖讓半導體榮景「全民共享」;韓國以國家資源追趕先進製程與封裝,將升高與台灣的補貼與人才競賽。",
-   "angle": "比較台韓半導體政策工具與預算規模,評估對投資與人才磁吸的影響。",
-   "companies": [
-    "Samsung"
-   ]
-  },
-  {
-   "rank": 10,
-   "category": "B",
-   "title_original": "Lite-On profit jumps 60% on AI boom",
-   "title_zh": "光寶受AI帶動獲利跳增六成",
-   "title_en": "Lite-On profit jumps 60% on AI boom",
-   "source": "Taipei Times",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Cb3pjQS1GN0E3THZFc2NxTThWSEZ2SEt3Mkc3MXAtMDJnbGlPYUgweWw2UzZKcjc1OFRGMk5Rbi1TLURockI2aC1fLXJPLVRUVUtqSTVsMFhHOU5fRTl3cnNZN1JRSEZuRWpkejRZN1g0RXFwWnc?oc=5",
-   "published_at": "2026-11-02T16:00:00+00:00",
-   "why_it_matters": "光寶科受AI相關產品拉抬,獲利年增約六成,顯示電源、散熱與周邊元件等「非輝達核心」台廠同樣吃到AI紅利,可作為盤勢修正期的基本面對照。",
-   "angle": "AI電源與散熱族群財報驗收:光寶、台達電、奇鋐等的訂單能見度差異。",
-   "companies": []
-  },
-  {
-   "rank": 11,
-   "category": "A",
-   "title_original": "High-NA EUV 發展未歇，英特爾率先採用、台積電與三星推進量產時程",
-   "title_zh": "High-NA EUV發展未歇:英特爾率先採用,台積電與三星推進量產時程",
-   "title_en": "",
-   "source": "TechNews 科技新報",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrcVlMblcxaHk5Z213M0tmOHkzbHlpOEM3d3NxWnNkQnBXRWRvb0R4RVNRRzJ1d0swaW5aY1lZZl9NbG5XS3ZjaUZOZlA2bXVCRVBvS2JRUmh1bHRwbG1PZFJaS1NTQnNiMnFzazVYTVc?oc=5",
-   "published_at": "2026-11-02T02:05:08+00:00",
-   "why_it_matters": "TechNews梳理High-NA EUV進度,英特爾率先導入、台積電與三星各自推進量產時程;決定2奈米以後微縮路徑與ASML設備交期,影響台灣先進製程與設備材料資本支出節奏。",
-   "angle": "High-NA時程對照表:三強導入節點、光罩/材料瓶頸與對台供應鏈意涵。",
-   "companies": [
-    "Intel",
-    "ASML",
     "TSMC",
     "Samsung"
    ]
   },
   {
-   "rank": 12,
-   "category": "C",
-   "title_original": "半導體產值衝破 3 ,000 億美元！吳誠文揭示台灣四大領域推動 Team Global 戰略",
-   "title_zh": "半導體產值衝破3,000億美元,吳誠文揭示Team Global四大領域戰略",
+   "rank": 7,
+   "category": "B",
+   "title_original": "輝達掀PTFE無玻纖布革命！材料商搶布局、PCB廠審慎評估 良率、成本成量產關鍵",
+   "title_zh": "輝達掀PTFE無玻纖布革命，材料商搶布局、PCB廠審慎評估良率與成本",
+   "title_en": "",
+   "source": "財訊",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BRmFWbjl2WXVCaW1lR1NCRWlDbUVNR0V6V0l1VExTcl9oTDVRWlJoUUdsLWctUVg1SFRwam5hUEtoSjVJRTNzaXR6c1VkVnp5cDBkeVBDaE1xaTNlQzNjTGY5bW9sN1hHVGlldTlDZG9qNWN0cHlGZ0kwQQ?oc=5",
+   "published_at": "2026-11-03T09:32:44+00:00",
+   "why_it_matters": "AI高速板材朝PTFE無玻纖布演進，材料商積極卡位但PCB廠對良率與成本仍審慎；直接牽動台系CCL、PCB與伺服器板供應鏈下一波製程投資。",
+   "angle": "專訪材料與PCB廠：量產時程、良率門檻與哪些階數板率先導入。",
+   "companies": [
+    "Nvidia"
+   ]
+  },
+  {
+   "rank": 8,
+   "category": "B",
+   "title_original": "Google TPU v9 延後恐壓縮放量規模！聯發科、博通、英特爾誰首當其衝？",
+   "title_zh": "Google TPU v9傳延後，恐壓縮放量；聯發科、博通、英特爾誰首當其衝？",
+   "title_en": "",
+   "source": "鏈新聞 ABMedia",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vQWhFUUpDMFg4ODg4VnBlRi1KbzNJN3FVaUZtX19Dbm9oWFhmaVJHNDFvbGQ1ZlhSd0RtMUpJWk9jN3hEdWMtNkxPcTJtWmZXcG5zNHBqSGFoSHhjeWY4cmY4QWxmZw?oc=5",
+   "published_at": "2026-11-03T03:53:39+00:00",
+   "why_it_matters": "外電報導Google TPU v9時程延後、放量規模可能下修，ASIC供應鏈（聯發科、博通、英特爾等）訂單能見度受影響；對台灣先進封裝與測試產能排程具連動。屬據報，需與公司指引交叉驗證。",
+   "angle": "做成ASIC時程風險地圖：TPU延後對CoWoS／測試產能與台系相關供應商營收認列的傳導路徑。",
+   "companies": [
+    "Google",
+    "MediaTek",
+    "Broadcom",
+    "Intel"
+   ]
+  },
+  {
+   "rank": 9,
+   "category": "B",
+   "title_original": "日月光CPO和台積電COUPE差在哪？ 封測廠怎麼搶AI商機",
+   "title_zh": "日月光CPO與台積電COUPE差在哪？封測廠如何搶AI光封裝商機",
+   "title_en": "",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPMWd3Z0FGWm9MQ01wcXZsUXNKVjQ4LVZfeXR4OUk1WmtvRlNhWjkwNTIxMEpQcml6dnJEVGRvNXllS25UQnJhR0YwaXdjeUYyYlp2V1psT3pBUHI1djBzQ3NiZVpCMzd4RFgtRnlPMEJCWTd3YldtT01VaThQZHJ0S25vam4wRElxc0ZtdGMwQ2hQQjNBMXNYZk9xb25oUW9iY0dUSFc4cnMyTG9fN01sREtfRFhrM2xwTzJFUmhhdHRoc0tYQnJ5WnF3V19JdmIyQzJtRUVOSkZoU2o0d0o3OTVkSjNhenpBMm55b1RQV25vVm16R0lzTm9lOUVieWFJLUpNMDU3Y1ZXNUtWZ2pnaEpOMnk1X0JabWtkWWNneVRqQ2RBMGJaWUFKdHNaZjR5eHJNbHk5Q29SUQ?oc=5",
+   "published_at": "2026-11-03T09:41:00+00:00",
+   "why_it_matters": "隨著CPO升溫，日月光CPO路徑與台積電COUPE技術路線差異成為產業焦點；封測廠系統整合能力將決定AI光通訊時代的毛利與客戶綁定。",
+   "angle": "技術對照＋供應鏈點將：雷射、光引擎、封測與誰拿到CSP驗證。",
+   "companies": [
+    "ASE",
+    "TSMC"
+   ]
+  },
+  {
+   "rank": 10,
+   "category": "B",
+   "title_original": "AI 電源排擠車用？安森美調整產能，台廠有望受惠",
+   "title_zh": "AI電源排擠車用？安森美調整產能，台廠有望受惠",
    "title_en": "",
    "source": "TechNews 科技新報",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZrNlJub21XWnFTaExzbHZDUkFVN2hRN0thS3JMWkJIdHRyMjFuNl85ekk5UnVJX2xyLVBGeXN5eXhuVGN1bWJuaEpRX0dZVHhxZ0tlWmtTMVFZaEtYVS1CWjhjQk5tSXB0Mk9rWUprQjZNUFBGV1lac3ZGTHlSU3lfdk94MkZQX1ZlLXVGWUc3Yk5zT2ZmdUhpNl9oVktD?oc=5",
-   "published_at": "2026-11-02T09:31:13+00:00",
-   "why_it_matters": "國科會主委吳誠文提出以Team Global推動半導體以外的算力、機器人、材料與生醫等四大領域,避免資源過度集中晶片;關係台灣下階段產業政策與國發資源配置。",
-   "angle": "解讀Team Global:哪些領域有預算與法規配套,對新創與傳統製造業轉型的實質誘因。",
-   "companies": []
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmNkRW1udGhnME9hMjdHcDVxeXRYOFJ5dFp5RmhqdWFndF93bFhYbklhZG5PYTNuZncwdG82NGhQMVYtX0lXazNQd2k3emxlYVdBSW55dGNQdlNFLVZpdGhubHJaWkhxQ3IzeWhQdWJBQ1R1NW55dFhYRTB4UGZITGtuUk5JS2hDMng0U2Q2NTB0cjRsck55US1zTmtfN1RKUXNHa0ozSQ?oc=5",
+   "published_at": "2026-11-03T07:45:45+00:00",
+   "why_it_matters": "安森美傳因AI電源需求調整產能、車用功率元件供應出現缺口，台灣功率與電源相關廠商可能承接轉單；反映AI資料中心對功率半導體的排擠效應已傳到車用鏈。",
+   "angle": "盤點台系功率／電源廠接單能力與車用客戶議價，評估轉單能見度與交期。",
+   "companies": [
+    "Delta Electronics"
+   ]
+  },
+  {
+   "rank": 11,
+   "category": "B",
+   "title_original": "Taiwan's Delta Electronics Stock Halves From Peak; Market Cap Overtaken by Hon Hai, Slips to No. 4",
+   "title_zh": "台達電股價自高點腰斬，市值被鴻海超車滑落至第4",
+   "title_en": "Taiwan's Delta Electronics Stock Halves From Peak; Market Cap Overtaken by Hon Hai, Slips to No. 4",
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43TWdHZjVBbDh5Z1lyUExiMTJfM25CbEdMb2tRYmtaRi1zRkpEVm5kUkxuSHJXUmxEd2tFUGp6UU5sbktCWXhkemFzQ0pRaE1EZ25WYnJndmMtckJpMEJuZldEUFpPQldxVnN5dHU3NU9VUjJhLXc?oc=5",
+   "published_at": "2026-11-03T07:25:00+00:00",
+   "why_it_matters": "AI電源與散熱指標股台達電自高點腰斬、市值排名下滑，凸顯市場對AI周邊評價急速重估；對照其基本面訂單，是觀察「殺估值是否過頭」的台灣指標。",
+   "angle": "拆解電源／散熱訂單、毛利與股價落差，對照鴻海、緯創等伺服器組裝鏈的相對強弱。",
+   "companies": [
+    "Delta Electronics",
+    "Foxconn"
+   ]
+  },
+  {
+   "rank": 12,
+   "category": "C",
+   "title_original": "防堵高階晶片流向中國！立委提案納管關鍵零組件、設備經濟部研議擴大管制| 產經",
+   "title_zh": "立委提案納管關鍵零組件與設備，經濟部研議擴大對陸出口管制",
+   "title_en": "",
+   "source": "非凡新聞台",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FQmxqbHltWW9Sb2hUT1BDU2FJYWZ3MHJ3Y3FUOHUtdGlYdFU1N19pa0JoTDVHMi1pVXV4VlJjcXdwV2JFVVVQempoMy1sQ3c4Q2JCNktMU3BWUVZxcmRrUlBUZUVjZ3ZlbDlmeDZUclY?oc=5",
+   "published_at": "2026-11-03T11:33:28+00:00",
+   "why_it_matters": "繼AI晶片走私入罪討論後，立委再提案將關鍵零組件、設備納管，經濟部研議擴大管制；管制範圍若下修至設備與材料，對台廠對陸業務與轉口合規衝擊更大。",
+   "angle": "追管制品項清單草案、例外授權與公聽會產業意見，對照美國FDPR對齊程度。",
+   "companies": [
+    "TSMC"
+   ]
   },
   {
    "rank": 13,
-   "category": "A",
-   "title_original": "聯發科、Marvell、博通ASIC延長賽拚2028 供應鏈「固樁成效」定勝負",
-   "title_zh": "聯發科、邁威爾、博通ASIC延長賽拚2028,供應鏈固樁定勝負",
+   "category": "C",
+   "title_original": "《路透》：美對陸半導體限制 SK海力士紐約州晶片廠卡關",
+   "title_zh": "路透：美對陸半導體限制拖累，SK海力士紐約州晶片廠卡關",
    "title_en": "",
-   "source": "DIGITIMES",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTFp4UWFTeGZxc0tHbmJBNEc2eC03dU5GQ182TDkxN0Z2TjdMN19tY3BabzJxbHYtV1VsVHNaQzU1M0J4YzltUkZGQmN0WkJ0YlRvU09icWQ3NEJUcW5mNjRyNlVBVUdoS1A4UnBZTTM2WFdHSjBMVEpvX1E3TkotZlJjNFlEVEZ6OFFIVG1n?oc=5",
-   "published_at": "2026-11-02T19:00:00+00:00",
-   "why_it_matters": "DIGITIMES分析三大ASIC陣營競爭延續至2028,勝負取決於供應鏈綁定;直接牽動台灣CoWoS、IP、測試與ODM產能配置,也是聯發科能否在AI客製化晶片站穩的關鍵觀察。",
-   "angle": "ASIC供應鏈固樁調查:哪家CSP與哪條台鏈綁定最深,產能鎖到幾年。",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CM2NVMTh6MWlYM0dySXhHX2FNblVqM3preW1KWFdTLVBWYXNEWTV5Ri1Ga3ZULTdNWEcyRmJhYndLLVE1QVpRMWExN2ViY00?oc=5",
+   "published_at": "2026-11-03T21:53:47+00:00",
+   "why_it_matters": "路透指美國對陸半導體限制使SK海力士紐約大投資卡關（另有外電指中國廠設備許可受阻）；美系補貼與對中管制並存，改變韓系先進產能地理配置，間接影響HBM與台系設備材料出海。",
+   "angle": "梳理CHIPS補貼條件與對中營運限制如何綁架韓廠美國投資，對台廠赴美供應鏈的啟示。",
    "companies": [
-    "MediaTek",
-    "Broadcom"
+    "SK hynix",
+    "Samsung"
    ]
   },
   {
    "rank": 14,
-   "category": "B",
-   "title_original": "旺宏吳敏求：記憶體產業一路旺到2030年 價格不會比現在差",
-   "title_zh": "旺宏吳敏求:記憶體產業一路旺到2030年,價格不會比現在差",
-   "title_en": "",
-   "source": "鉅亨網",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GZXUxQk5FVkFmanVSOU02TXhGLXFuU2RtSmlPMTdPOXNwYUFPQ0lKOHBRcElfc1Z3b1RVMnNkQmVUSnBMdFJ2ZDIzQWswQUU?oc=5",
-   "published_at": "2026-11-02T05:05:18+00:00",
-   "why_it_matters": "旺宏董事長吳敏求示警/看好記憶體短缺可能延續至2030、價格不易更差,呼應全球HBM與利基型記憶體緊俏;對台灣記憶體與模組廠報價、長約策略具指標意義。屬單一企業觀點。",
-   "angle": "記憶體超級循環還有多久?訪談台廠長約占比與客戶議價變化。",
+   "category": "C",
+   "title_original": "Macronix Builds Hardware Security into NOR Flash Ahead of EU Cyber Resilience Act",
+   "title_zh": "旺宏因應歐盟CRA，將硬體安全功能導入NOR Flash",
+   "title_en": "Macronix Builds Hardware Security into NOR Flash Ahead of EU Cyber Resilience Act",
+   "source": "EE Times",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2Vyb0dkcUFvMjMyT2I2M2otM1lpakNobHJVejllcFZwamtvSWZVenFXbEhoX09KY0xIeU1TVGpuMHUxaFBwSVdHcjFSeEVlbXJncktjaFRrWElZTEM4dkFZWWhidDNpNWtyc1VkUmE3SnVJVmtaTVVDdURpeC1aLTRyd2hjX2VWUm85bHBMcllOT2pXNldCbHZsTGdYRmxpVXcyYnpSZk15UQ?oc=5",
+   "published_at": "2026-11-03T05:30:32+00:00",
+   "why_it_matters": "歐盟《網路韌性法案》（CRA）倒數，旺宏將Security by Design做進NOR Flash（ArmorFlash）；台灣記憶體與MCU／IoT供應鏈需提前滿足硬體安全認證，否則恐失歐盟市場門票。",
+   "angle": "CRA合規實作專題：哪些Flash／MCU功能成為標配、認證時程與對中小模組廠成本。",
    "companies": [
     "Macronix"
    ]
   },
   {
    "rank": 15,
-   "category": "D",
-   "title_original": "台幣重摔貶破32.7 央行急出招救匯 傳突解禁出口商賣美元限額",
-   "title_zh": "台幣重摔貶破32.7,央行急出招救匯、傳解禁出口商賣美元限額",
+   "category": "C",
+   "title_original": "林佳龍投書《外交事務》：美國AI霸主地位不能只靠自己　台灣是不可或缺的夥伴 | 政治 | CTWANT",
+   "title_zh": "林佳龍投書《外交事務》：美國AI霸主地位不能只靠自己，台灣是不可或缺夥伴",
    "title_en": "",
-   "source": "經濟日報",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ydWtaWTkyX0xQb2VPX3M1LUl4RUhSTVF1YjRZVlNkQmljT3o4NGZ5VVBKUHZkTElpUTBfb0xMOXA0YTc1NS0xV3gwcUIxNE0xdXJBUjY5NDFlQdIBX0FVX3lxTE1DMDhLNDBXMnZkS0w5eUtXVUNTdllCeUdpM2FTNlVaN2tlVmhTczZRSVVJT0VPdERSVEpiT3Mwa3dhRi12ZFBLNTFNcUdKUXlnNERwMnIxWGZKR1pTUTQ0?oc=5",
-   "published_at": "2026-11-02T04:12:42+00:00",
-   "why_it_matters": "台幣一度貶破32.7,央行傳出暫時取消出口商賣匯上限等穩匯措施;匯率波動直接影響電子業匯兌損益、報價競爭力與外資對台股流向,是科技業財報季必盯變數。部分措辭為「傳」。",
-   "angle": "匯市干預對電子出口商毛利與ADR溢價的傳導路徑分析。",
-   "companies": []
+   "source": "CTWANT",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUjBlT1Nsa3NDbjFaYlgtTEc3TDBtS1Z3amxvRmpvVTVkZWlJcnVSSFZ4d2JFeTdwWkVoMV8zcjFEZTFmWjE4QmdVLTVPTnpXOU5ScdIBVEFVX3lxTE5IUjBlT1Nsa3NDbjFaYlgtTEc3TDBtS1Z3amxvRmpvVTVkZWlJcnVSSFZ4d2JFeTdwWkVoMV8zcjFEZTFmWjE4QmdVLTVPTnpXOU5ScQ?oc=5",
+   "published_at": "2026-11-03T09:19:28+00:00",
+   "why_it_matters": "外交部長林佳龍於Foreign Affairs投書，強調美國AI領導地位需台灣半導體與供應鏈；屬官方對外敘事升級，可能影響後續美台科技合作與出口管制對話框架。",
+   "angle": "對照美方智庫與行政部門論述，評估投書對晶片合作、出口管制與防衛供應鏈論述的實質推進。",
+   "companies": [
+    "TSMC"
+   ]
   },
   {
    "rank": 16,
-   "category": "A",
-   "title_original": "NVIDIA鞏固南韓合作版圖 三星、SK海力士AI Day揭半導體開發案例",
-   "title_zh": "輝達鞏固南韓合作版圖,三星與SK海力士AI Day秀半導體開發案例",
+   "category": "D",
+   "title_original": "台股史上第7慘跌1612點！法人推演美期中選舉3情境 分析師曝觀盤3重點",
+   "title_zh": "台股史上第7慘跌1612點，法人推演美期中選舉三情境與觀盤重點",
    "title_en": "",
-   "source": "DIGITIMES",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GNU5telRSOXczMDdLN1otb2ducEhya21IbTdpMTIxaDN5R2oza3lFYmRpUVJjYzFRZXVYZ1FZazNfS0Nnd0VkWlI3bnh0c1NjVm9zblJoNnBOdEZGQ3FNOUkwaUN0cEtsS2dR?oc=5",
-   "published_at": "2026-11-02T16:28:27+00:00",
-   "why_it_matters": "DIGITIMES報導輝達透過AI Day深化與三星、SK海力士合作,鞏固記憶體與先進製程生態;韓國供應鏈綁定加深,台灣HBM以外的材料與封測業者需關注分工變化。",
-   "angle": "輝達「台韓雙軌」供應鏈圖:哪些環節仍在台灣、哪些加速移向韓國。",
+   "source": "PChome Online 新聞",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYUQ4T2xpMlJHQUZELXlMcXZvWkFDbkZoRVQ4b2FWMkpOTENLUGcwYi0tVGEwQWtoelpheTByM3FGWndfcHlrY205TThicXZJOE9sVzloU2ZpSVAzbmJBQ1B4R1k1eUVwc2s5cVEwTWV0ZjVLQ2F0WUw4WjR4dTNqT2pyc0ZWVGZoeWQ0?oc=5",
+   "published_at": "2026-11-03T08:38:11+00:00",
+   "why_it_matters": "台股單日重挫逾1600點創史上第7大跌點，同時美國期中選舉投票；法人以選舉結果三情境評估後續關稅、補貼與風險偏好，直接牽動半導體評價與外資流向。",
+   "angle": "選舉結果落地後48小時觀察：費半、台積電ADR與外資買賣超是否出現結構轉向。",
    "companies": [
-    "Nvidia",
-    "Samsung",
-    "SK hynix"
+    "TSMC"
    ]
   },
   {
    "rank": 17,
-   "category": "W",
-   "title_original": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
-   "title_zh": "鴻海據報洽談與OpenAI新硬體合作,並稱AI並非泡沫",
-   "title_en": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
-   "source": "The Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNUNkM0FYN1FPYXR5YmRZMzllX0ExSHBMbEpjaUsyb0dOUE1NOG9PbGtWdzZieF9ka2VFT1RWRWtUVVBlVDhkRGtxbVhvWmx1R1pudnlmY2pzNnNFSXJsOXVxZ1NmLUJZY3llWWRKUk5UeW1ibE5CTFRySUJ3UXFyMG0tM2dqY3FTY2lCS3hRdFlock9Pck9FODBxZjV0MEhERDcteFBPc05aV3hiRTAwTzNKdWtDZXFrVmI3T0Myam5CNmJreW5rTWxqbE1ad0xwa29HZk1aWGZZTkpVRVQ40gHmAUFVX3lxTE0wanhKdUhCLVBpYmtJZXZQcFlVMW04NXRNTlVsTWl0Wm1hWGVtQ1ZrLV9yTlRXS3Q5ZmU2X1hUM0NHenM2MGo2R0s5QkhCNEJEZUc1ZnN4bllvWEhiT2tuRldPQjI1TjZYNTFNbEtvYWhlQkloY2c1Y0luNzZiNFhsVHB3V2NtMDBTRDV3VGRRZTNOa1VuOUZpZDBrRENHcUdmZUgzOUdQVXNRMDFnSHVFc2lWMEs5VUdFV29kUG1EbTBPZFFoWlZyd0VMcG9pUmt0cUN0QjlvTi12VFBLcTl3ZUNZNjhB?oc=5",
-   "published_at": "2026-11-02T03:51:00+00:00",
-   "why_it_matters": "多家外電引述鴻海高層,指公司正與OpenAI洽談新AI硬體合作、並駁斥泡沫論;若落地將強化台灣在AI伺服器與客製化機櫃的訂單能見度。目前為高層說法/外電報導,細節未公告。",
-   "angle": "查證鴻海與OpenAI合作範圍(伺服器、機櫃或自研晶片代工),並列受惠子公司。",
-   "companies": [
-    "Foxconn",
-    "OpenAI"
-   ]
+   "category": "D",
+   "title_original": "外資出逃股匯雙殺 新台幣重貶1.68角爆史上第4大量",
+   "title_zh": "外資出逃股匯雙殺，新台幣重貶1.68角、成交量爆史上第4大",
+   "title_en": "",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NVnVGZ3dpMzlSTVg3VHBRT2FsdF85MnhHdFh1bWFyNURqRGRTT2JzNGlTMXBtZG5wQl9EU1d6X3ZNUW5NeDN6TUVBQnVxLXd5Qy1oYXpseU9nd9IBX0FVX3lxTFBTdmxSa3NqcEdQLTgtWVVBb3VMdk9ScmhUZTdaV1Zoa0VsX0FaeEV4cVhnbFdYajU2MTg3OFpRbG1xbXp3V2ViRmdsaHNoZC1FWG9nNXFJSjRwTURlbzN3?oc=5",
+   "published_at": "2026-11-03T09:46:35+00:00",
+   "why_it_matters": "外資同步撤出股市與匯市，新台幣單日重貶並放出史上第4大量；匯兌波動將侵蝕出口科技廠財報毛利與報價策略，放大AI評價修正的財務面衝擊。",
+   "angle": "盤點電子權值股匯兌敏感度，以及央行／出口商避險操作對短線波動的影響。",
+   "companies": []
   },
   {
    "rank": 18,
    "category": "W",
-   "title_original": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
-   "title_zh": "奧特曼突訪南韓,OpenAI加深晶片夥伴布局",
-   "title_en": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXlvV0hJZUZkSjc0QnBBTk0wT2tnN3lLNC1WLVp3ck45eTMxV3dJcFdqMlFqVEJLMXBaWGVfa05FS0dyaUtRTHY0V3E3SlRiNlNUSDdaU0Rqalh2Yzh6M0ZHZ21BcFQ1czZ1YXc4Y1F3cHZXMDlsZ2IxRXBOdkEyYmRWUdIBiAFBVV95cUxNMWl2MmNCRWhLRzBKd19jc0RzTGhZUURCOTVDYjZKUGZmRmw5TTRuRGo4NXo4bDg5M1A5U3lQUnVDWHF1WnlWZ0o3WTFjRFM1enNQYy1GMThiY3NyWXFSOFdWV0ZzbzV5VUxvRlhtMndEZTZqaFRZZnVOUlVCRW5ycmtLQUU0Y3Az?oc=5",
-   "published_at": "2026-11-02T02:58:00+00:00",
-   "why_it_matters": "CNBC報導奧特曼突訪南韓、強化晶片夥伴關係,接續其亞洲算力尋求;可能影響OpenAI產能在台積電、三星與記憶體廠之間的分配預期,宜持續追蹤是否簽署具體協議。",
-   "angle": "OpenAI亞洲產能拼圖:台灣vs韓國各自拿走哪一段(邏輯、HBM、封裝、組裝)。",
+   "title_original": "Smugglers Reportedly Pair Top-Tier HBM With Throwaway Server Chips To Dodge U.S. Export Controls, Then Melt Them Apart In China",
+   "title_zh": "外電：走私客以高階HBM搭配廉價伺服器晶片規避美出口管制，運抵中國後再拆解",
+   "title_en": "Smugglers Reportedly Pair Top-Tier HBM With Throwaway Server Chips To Dodge U.S. Export Controls, Then Melt Them Apart In China",
+   "source": "Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHljOV93M3ZHZ2Nka0RXTkd2ODUxWEI4RTdPYldZdFNGVVA1cU1mMXFhMzFpaUctTGpJZy1KQXNzVDdodzZXN1JWS1VCN0xGbDZWbXZDUVY4WWxQLW4tTktmQ1c5VDJPT3FMN2kwYnhIRzg4blJ2anhmc2xLdHB3QVFaalVlNGE2LU9YeEdTWmFQNVVObjVRTld1bDJKZTQzWi1mR0p1YUttdnhx0gGsAUFVX3lxTE1EeWM5X3czdkdnY2RrRFdOR3Y4NTFYQjhFN09iV1l0U0ZVUDVxTWYxcWEzMWlpRy1MaklnLUpBc3NUN2h3Nlc3UlZLVUI3TEZsNlZtdkNRVjhZbFAtbi1OS2ZDVzlUMk9PcUw3aTBieEhHODhuUnZqeGZzbEt0cHdBUVpqVWU0YTYtT1h4R1NaYVA1VU5uNVFOV3VsMkplNDNaLWZHSnVhS212eHE?oc=5",
+   "published_at": "2026-11-03T07:07:00+00:00",
+   "why_it_matters": "Wccftech等外電報導，走私網絡將受管制HBM與未受管制廉價處理器封裝後出口，抵中國再拆解；暴露出口管制執行漏洞，也解釋為何台灣與韓系需同步強化轉運稽核。屬據報。",
+   "angle": "追美韓台三方可能的補洞措施，以及對HBM產能、報關與封測文件軌跡的新要求。",
    "companies": [
-    "OpenAI",
+    "Samsung",
     "SK hynix"
    ]
   },
   {
    "rank": 19,
    "category": "W",
-   "title_original": "美期中選舉逢AI估值修正　政策變數牽動金融市場",
-   "title_zh": "美期中選舉遇上AI估值修正,政策變數牽動金融市場",
+   "title_original": "蘋果示警記憶體成本飆升 AI資料中心需求恐推高電子產品價格",
+   "title_zh": "蘋果示警記憶體成本飆升，AI資料中心需求恐推高消費電子價格",
    "title_en": "",
-   "source": "ETtoday新聞雲",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JdWpoeHRhdlNieC1XSmRkc3JjQUNlTmFLZmRhUzRLRDhQWmRjQkQ4Y1p2Y1N6dDc0NjFhMnY5NTlQN2lBMjJLeE5adTkxXzDSAU5BVV95cUxOSnNxUHB2WGwwbHJQS3RxNTRjN2ptLWpVMWViUjliZjZsd3N6b1dheXBkaHNFS3czdGpsVWtkNTVGN0tYZDN4ZmNfcUw2Rnc?oc=5",
-   "published_at": "2026-11-02T09:00:00+00:00",
-   "why_it_matters": "美國期中選舉倒數,適逢AI族群估值修正;選後國會版圖將牵動AI監管、關稅與晶片補貼延續性,是未來數季影響台廠對美投資與出口的最大政經變數之一。",
-   "angle": "選前情境分析:分治國會 vs 一黨擴大對晶片法案、對中管制與關稅的三種劇本。",
-   "companies": []
+   "source": "ARCH雅趣",
+   "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPeTg2MVZobW9rWU0xREFNN2FsTjRDbVdGWmRQOFc1VlE5S0V2NjFLNS1HUUlDbzduLXAzU3VCRVZzMlFFRlVscy00UzBzMm8xNWlFU1pjZ0tJcC15VEl3elJaNDFKT3V0NzRYOVpwcEpYY0J5RkJhV2FRUjhNVHJzZjBzbnd6dXJ4ZDdXQ08waUtOcjFNNkUtX2tMbzkwM3FibEduQURuVDhiMEpMQ0NaNjBua1B4V2hEa0JSX19KeTM1X1R1OHZWUXIxamJILUgyNTZmUklqdGhSZ20wNzBjdUE0NDZVSEh6UjRzSm13V3E4WFFaRTJXUkplZ2QtU1JUVXc2TFVFZUtXRXRSOFh1VFFsTm40T3NmVWNKaHVWNm1hOThYakdaazdpdWduMjFtSDlDcUUyUXJWM0R3R2RrdlhrU0p6cWtKU1FiRWVXX3RodE1pTlNWbTNiMmhHdFU0dmVVVWtIaGN0Q0tnbm0tVjBwbjdKcVhiTjJMLVJ1bmUyTGRjTlVLcw?oc=5",
+   "published_at": "2026-11-03T19:22:35+00:00",
+   "why_it_matters": "蘋果對記憶體成本發出罕見示警，指AI資料中心搶料可能推升消費電子價格；連結美光／SK海力士報價與iPhone／PC BOM，顯示AI需求已外溢至消費端通膨壓力。",
+   "angle": "追蹤DRAM／NAND合約價與蘋果供應鏈毛利傳導，評估台系零組件能否轉嫁成本。",
+   "companies": [
+    "Apple",
+    "Micron",
+    "SK hynix"
+   ]
   },
   {
    "rank": 20,
-   "category": "B",
-   "title_original": "台股失守45,000點、外資連三賣狂砍2,548億！台積電續跌，聯發科、鴻海、台達電卻逆勢翻紅",
-   "title_zh": "台股失守45,000點、外資連三賣;聯發科、鴻海、台達電卻逆勢翻紅",
-   "title_en": "",
-   "source": "理財周刊",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Q2w5d0JqZHIxZ1lsMXdoOTFtWkJRSHVfckIwbjdQT3VWYzNVQ3JOb3ZJdnhKODNOdjZLSFJheDRndVd6NzJTTXpZOVhRR1E1SjZXYVRxNVhPRk1sQThLWjhaTVpQcXY5bE5DdU5YOA?oc=5",
-   "published_at": "2026-11-02T07:43:03+00:00",
-   "why_it_matters": "台股失守四萬五、外資連三日大賣,權值股承壓,但聯發科、鴻海、台達電逆勢收紅,凸顯資金在AI供應鏈內的汰弱留強;與財報面「需求仍在」形成相互驗證。",
-   "angle": "盤後資金流向拆解:外資賣超集中哪些題材股、三大法人回補哪些有單可證的AI硬體。",
+   "category": "W",
+   "title_original": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors",
+   "title_zh": "The Information：Anthropic向IPO投資人強調Claude具備晶片設計能力",
+   "title_en": "Anthropic Touts Claude's Chip Design Skills to IPO Investors",
+   "source": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnpwS0FzRk9KWUhPNC1rT3JnNWdLN1NhTWM0VU5zWHkyZEo5NVR1dXJhTWdVY2R0ZGEwcVhDTGZ3TkR5SGRIemoyenlCUU1TV2xMTzNBa0xtZDJSb1hGeUVqVlhBVmJNRVFkVS1qb21LdmtqOUxmWEtVOEgwd3JnRnNJMHJIQXdfYndBMUpjZWNPaGRwSW55ZWJsdEk?oc=5",
+   "published_at": "2026-11-03T14:00:00+00:00",
+   "why_it_matters": "Anthropic在上市前對投資人主打Claude可協助／縮短自研晶片設計週期；若AI模型深入EDA與客製晶片流程，將改寫半導體設計人力與ASIC外包生態，對台系設計服務與EDA工具鏈具長線意涵。",
+   "angle": "訪問IC設計與設計服務業者：生成式AI實際縮短哪一段流程、驗證與流片風險如何控管。",
    "companies": [
-    "TSMC",
-    "MediaTek",
-    "Foxconn",
-    "Delta Electronics"
+    "Anthropic"
    ]
   }
- ],
- "verification_note": "2026-11-03 11:25 Asia/Taipei: #6 Marvell-Lumentum confirmed via Marvell IR press release (enterprise value ~$115B, exchange ratio 4.500, close targeted 1H2028)."
+ ]
 }
