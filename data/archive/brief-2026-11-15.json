@@ -1,0 +1,366 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T08:50:00+08:00",
+ "analysis": "黃仁勳請辭的餘震從人事延燒到美國政治與出口管制,同時 AI 運算版圖朝 ASIC、AMD 與交叉持股多元化;台廠基本面與海外布局仍穩,11/17 輝達財報是下一個關鍵。",
+ "analysis_editor": {
+  "persona_title": "總編輯視角:資深 B2B 科技媒體總編輯",
+  "summary": "黃仁勳請辭後第二天,焦點從「誰接班」轉向「治理與政治餘震」:兩大股東與馬斯克等科技高層公開施壓董事會考慮讓黃仁勳回任(#1),同時韓媒引述財務申報稱川普在取消 AI 晶片出口管制前買進輝達股票(#2),OpenAI 也傳出支持 3 項對中管制法案(#13)。這代表輝達事件已從企業醜聞升級為美國政治議題,出口管制方向可能再度收緊,對台灣供應鏈是最大的不確定性。\n\n產業面則出現「去輝達單一依賴」的結構訊號:Anthropic IPO 傳由 Google、輝達、AMD、博通、美光、微軟與台積電以私募方式參與(#3,消息人士說法);Google 機密運算 TPU 採用 AMD Epyc(#9);世芯傳獲美系 AI 新單(#7);三星砸 44.8 億美元建 HBM 封裝廠(#10)。另有台積電傳評估切入 3D DRAM(#4,單一來源傳聞),若屬實將是記憶體版圖的重大變數。\n\n台廠基本面仍穩:台積電前三季獲各國補助創新高、美國廠獲利(#5),鴻海與緯穎獲利亮眼並加碼海外(#6、#8),矽品在 CoWoS/CPO 的十年布局(#11)與台達電 AI 資料中心散熱方案(#12)顯示台灣在先進封裝、矽光子與液冷具有不易取代的位置。台股單週大漲逾 10%(#16),但 11/17 輝達財報將是下一場壓力測試。",
+  "implications_taiwan": [
+   "輝達治理不確定性延續,台灣 AI 伺服器、CoWoS、HBM 相關供應鏈短期訂單能見度需逐案確認(#1)。",
+   "美國出口管制可能因政治壓力收緊,加上東南亞(馬來西亞)立法追蹤 AI 晶片(#2、#13、#14),台廠出貨合規成本上升。",
+   "ASIC 與多元 AI 晶片陣營擴張,台灣設計服務(世芯、創意、聯發科)與台積電先進製程、封裝可望受惠(#7、#9)。",
+   "若台積電切入 3D DRAM(#4)與三星擴產 HBM 封裝(#10),台灣記憶體、封測與設備材料商面臨新的競合格局。",
+   "稀土價格暴漲(#17)提醒半導體設備與材料供應鏈須盤點中國反制風險。"
+  ],
+  "story_angles": [
+   "「後黃仁勳時代」台灣 AI 供應鏈壓力測試:訪談 ODM、封測、散熱業者對 11/17 輝達財報的觀察重點。",
+   "晶片商入股 AI 模型商(#3)的循環投資模式:對產業估值與產能分配的影響。",
+   "台積電跨足 3D DRAM 的技術可行性與記憶體牆議題(#4),搭配 HBM 封裝競賽(#10)。",
+   "AI 代理自主攻擊(#18)與 FTC 調查(#15):AI 安全/IoT 安全論壇的議題素材。",
+   "Physical AI 商業化:特斯拉 Cybercab 個人銷售(#20)對台灣車用與機器人供應鏈的意義。"
+  ],
+  "questions_to_track": [
+   "輝達董事會是否回應股東、黃仁勳是否回任?臨時領導層如何對客戶說明訂單與藍圖?",
+   "11/17 輝達財報與財測是否下修,對台廠 2027 年出貨預估的影響?",
+   "美國國會與商務部是否推出新的對中晶片管制,中國是否以稀土反制?",
+   "Anthropic IPO 定價與參與名單是否證實台積電入股?",
+   "台積電 3D DRAM 傳聞是否獲證實或否認?",
+   "馬來西亞 AI 晶片追蹤法案內容與實施時程?"
+  ]
+ },
+ "analysis_executive": {
+  "persona_title": "CEO/COO 視角:科技公司高階主管",
+  "summary": "對經營者而言,今天的關鍵是「客戶治理風險」與「政策風險」同時升高:最大 AI 晶片客戶的領導層仍未定(#1),美國出口政策捲入利益衝突與國會政治(#2、#13),東南亞也開始立法追蹤 AI 晶片流向(#14)。短期需求看似未變(鴻海、緯穎獲利創新高,#6、#8),但決策上應把「單一客戶集中度」與「出貨合規」列為董事會層級議題。\n\n中長期看,AI 運算正在多元化:ASIC(#7)、AMD 在 Google 的角色(#9)、模型商與晶片商交叉持股(#3)以及 HBM 產能擴張(#10)都指向供應鏈話語權重新分配。供應鏈緊繃仍未解(鴻海示警,#6),稀土價格飆升(#17)更是成本與交期風險。建議以情境規劃應對:基準情境維持擴產,但保留對 ASIC 客戶與多元平台的彈性產能。",
+  "implications_taiwan": [
+   "台灣 AI 伺服器 ODM 與零組件商對輝達的集中度風險浮上檯面,需評估分散至 ASIC/CSP 自研平台(#1、#7)。",
+   "海外布局加速(緯穎增資、台積電補助創新高,#5、#8),資本配置須同時考量補貼條件與在地營運成本。",
+   "出口管制與東南亞追蹤立法(#2、#13、#14)將提高客戶審查與最終用途管理成本。",
+   "記憶體與先進封裝競爭加劇(#4、#10、#11),可能改變台灣封測與材料商議價條件。"
+  ],
+  "decision_considerations": [
+   "供應鏈:盤點關鍵料件(HBM、電源、液冷、玻纖布、稀土相關材料)庫存與第二來源,因應緊繃與中國反制(#6、#17)。",
+   "客戶:檢視輝達相關營收占比,主動接觸 ASIC 與 CSP 自研晶片客戶,建立多平台設計能力(#7、#9)。",
+   "資本支出:海外擴產採分階段投入,與補助條件、關稅政策連動(#5、#8)。",
+   "合作:評估與 AI 模型商、雲端業者的策略合作或投資機會,參考晶片商入股 Anthropic 模式(#3)。",
+   "風險:強化出口合規與最終用途審查,建立對 AI 安全(#18)與歐盟資料/資安法規(#19)的合規機制。"
+  ],
+  "questions_to_track": [
+   "輝達新領導層與董事會決議對採購策略、合約的影響?",
+   "11/17 輝達財報及 Google、Meta 等 CSP 2027 年資本支出指引?",
+   "美中元首會晤前後的出口管制與稀土政策動向?",
+   "HBM 與 CoWoS 產能 2027 年供需是否轉為寬鬆?",
+   "FTC 對 AI 模型商的調查是否影響 AI 部署速度與算力需求?"
+  ]
+ },
+ "items": [
+  {
+   "rank": 1,
+   "category": "A",
+   "title_original": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+   "title_zh": "兩大股東致函輝達董事會，促考慮「黃仁勳回任」；馬斯克等科技高層連署力挺",
+   "title_en": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa01uZk9qV2Rxd1NnaGlxbGpwNlRMMUJUMzZDXzJDcDhDQ1hidlFqOHo5Qm5ZTXBSUXdFQzJDd21LVmwzOTJOT20zUG9kVmRZS09LbkZ6RkxyUW9DVUJ1VE1aaWpZc1ZqdmVNUk1ORUI5dmVMZjhWS0dJaDAxN2NCQlp0Mmh3UHBueWRuOGc1UdIBlAFBVV95cUxOcHpRUE1XYktjaFk5RmZuVXpfeThGVVE2Y1N3cnZOenVXQkVYejdldFVubGtCMk5JZkU5SVhTcUt6Q0pBVnVrNExoY2p5Qk9kWUJ0eks4Wk4xMlNsb0RleEF1Qmo3VDlXSE8wTkg3Vk1CR3M5LWYtNTVsRmRzWFVPUVg1OVdhSVpaRXRpTXBBZXB6Ujhr?oc=5",
+   "published_at": "2026-11-14T17:35:51+00:00",
+   "why_it_matters": "黃仁勳請辭後,股東與科技業者公開施壓董事會,馬斯克並稱輝達少了黃仁勳將失去「關鍵」交易(#1 相關 Reuters 報導)。輝達接班與治理走向直接牽動台灣 AI 伺服器、CoWoS 與 HBM 供應鏈訂單能見度。",
+   "angle": "追蹤董事會回應與 11/17 輝達財報時程,訪談台廠如何評估客戶治理風險與合約延續性。",
+   "companies": [
+    "Nvidia"
+   ]
+  },
+  {
+   "rank": 2,
+   "category": "C",
+   "title_original": "Trump bought Nvidia shares just before scrapping AI chip export controls, report says",
+   "title_zh": "據報川普在取消 AI 晶片出口管制前買進輝達股票",
+   "title_en": "Trump bought Nvidia shares just before scrapping AI chip export controls, report says",
+   "source": "헤럴드경제",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzV0NabjNSV1lMTzFXU3hxNVZVTVlYaDBhNG5hOGZXSlJQcDhJWEg0WjZWdUxjVHlmX0NVZnJUd2dCbmZsV2xZNTJldksycV9NWTkxYlF4TQ?oc=5",
+   "published_at": "2026-11-14T08:59:40+00:00",
+   "why_it_matters": "多家韓媒引述財務申報報導此事,利益衝突爭議可能使國會與民主黨對晶片出口政策施壓更強,對中管制方向恐再擺盪,台灣供應鏈出貨中國市場的政策風險升高。",
+   "angle": "整理美國出口管制政策近一年反覆歷程,評估對台灣伺服器與晶片出貨中國/東南亞的合規成本。",
+   "companies": [
+    "Nvidia"
+   ]
+  },
+  {
+   "rank": 3,
+   "category": "A",
+   "title_original": "消息人士：Anthropic表示，谷歌、英偉達、AMD、博通、美光、微軟及台積電將按IPO發行價，通過私募配售投資260億美元。",
+   "title_zh": "消息人士:Anthropic 稱 Google、輝達、AMD、博通、美光、微軟及台積電將以 IPO 價私募投資 260 億美元",
+   "title_en": "",
+   "source": "富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRyd000YjlaeThVY1l4WlJWVUwwdEVhUDBQelBZbEFoVUJzeVRNcjdyNGJpTjJjbDg0Um1XaE85a3lTT1BaTnNRMENTaExOb1JkOGdlLWQyeTExQzFCYi04ZEZwRjA3MEFyODNxYlhuM29KXzZCdkVWcmhaTWlRN1EzRFJkVVpaTGZ2czNZbEIzN0F6RDhpOThuclFVdEpHX0FFUkNseE5HR1VmVkFWNnU4dXJrbzU1?oc=5",
+   "published_at": "2026-11-14T14:25:27+00:00",
+   "why_it_matters": "若屬實,台積電罕見以財務投資方式卡位頂級 AI 模型商(另有未證實報導稱台積電核准對 OpenAI 與 Anthropic 最多 10 億美元投資),顯示晶圓代工與 AI 模型商關係由供應商走向利益共同體。屬消息人士說法,待正式公開說明書確認。",
+   "angle": "「晶片商入股模型商」的產業循環投資模式:對台積電客戶結構、產能分配公平性的影響。",
+   "companies": [
+    "Google",
+    "Micron",
+    "Microsoft",
+    "Anthropic",
+    "TSMC",
+    "Broadcom",
+    "AMD"
+   ]
+  },
+  {
+   "rank": 4,
+   "category": "B",
+   "title_original": "傳台積電進軍「3D DRAM」！應輝達要求規劃製造、評估建廠",
+   "title_zh": "傳台積電進軍「3D DRAM」,應輝達要求規劃製造並評估建廠",
+   "title_en": "",
+   "source": "三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HcUc1SWFSUUcyQ0gxUTRXRkZOMUJpdWZaMXgtek43U001Sm40YnFyWVJsU0M0V1FPNUhfZU5pdm1SUk5uZ21vY9IBTEFVX3lxTFBlUXMyUDVoUE1tcUVyS0I3Skhhck1WclZHNkVTUm8wY2pTM0g1SmkwQW54b0ZxOHVmcF9va0RURUd0eGlkMGlDREtnenU?oc=5",
+   "published_at": "2026-11-14T02:08:47+00:00",
+   "why_it_matters": "若台積電切入 3D DRAM,將改變記憶體由三星、SK 海力士、美光主導的格局,並與先進封裝整合 HBM/邏輯堆疊。目前為單一媒體傳聞,台積電未證實。",
+   "angle": "專題:AI 記憶體牆與邏輯廠跨足記憶體的技術可行性,訪談 DRAM 與封裝專家。",
+   "companies": [
+    "Micron",
+    "Nvidia",
+    "TSMC"
+   ]
+  },
+  {
+   "rank": 5,
+   "category": "B",
+   "title_original": "TSMC gets record NT$167.6 billion in aid from U.S., Japan, Germany, China",
+   "title_zh": "台積電前三季獲美、日、德、中政府補助 新台幣 1,676 億元創新高",
+   "title_en": "TSMC gets record NT$167.6 billion in aid from U.S., Japan, Germany, China",
+   "source": "Focus Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OanV5UWwxWWx0WUlqR1ZkbkNzX3NDdHJxMlpTYzF1Mm5GQVV6aGlkZTJZcTNiNmpTNkxkSDFLam1JeEZydUMxM05nYk1kQ05DV1hwTUFzQQ?oc=5",
+   "published_at": "2026-11-14T04:52:00+00:00",
+   "why_it_matters": "補助主要支持海外建廠,另有報導指美國廠前三季獲利逾 539 億元,顯示海外布局已開始貢獻,但也凸顯各國以補貼爭搶產能的地緣格局。",
+   "angle": "分析各國補助規模與條件(如美國 CHIPS 稅抵減存廢爭議),對台灣本土投資與人才布局的意涵。",
+   "companies": [
+    "TSMC"
+   ]
+  },
+  {
+   "rank": 6,
+   "category": "B",
+   "title_original": "AI lifts Foxconn profits as ROE targets 12%",
+   "title_zh": "AI 推升鴻海獲利,ROE 目標 12%",
+   "title_en": "AI lifts Foxconn profits as ROE targets 12%",
+   "source": "digitimes",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHVla3E4cENKTGJsQkwxak1GUnNaYVhBX1lhNDk5WGdfV1FMdzNJODYzLWotQXJBZy1ydC1KellqTW1Fa1lyajItbDBTb0ZaWXJnOUFaYk85cElfd2RrYl91NEZPUldUbWlIQXNLY3pXQ0VkNkRMY2diQW9LNGpHQUV3NlRUb2c?oc=5",
+   "published_at": "2026-11-14T03:40:00+00:00",
+   "why_it_matters": "鴻海受惠 AI 伺服器業務獲利成長,另有報導稱其第三季獲利年增 34% 並示警供應鏈緊繃將持續,反映 AI 伺服器需求仍強,但零組件供給瓶頸未解。",
+   "angle": "追蹤供應鏈緊繃的具體料件(電源、散熱、高速連接、PCB/玻纖布),以及在輝達人事變動下的訂單看法。",
+   "companies": [
+    "Foxconn"
+   ]
+  },
+  {
+   "rank": 7,
+   "category": "B",
+   "title_original": "世芯 獲美系AI新單",
+   "title_zh": "世芯獲美系 AI 新訂單",
+   "title_en": "",
+   "source": "中時新聞網",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZmdxLXBVUUNHY0RUdXludUpYalFiaWxQTFhsckxrUzlSQUFtUGxJRVZNWVZmTVNRNjNzN2VPRHZTOEY2MUJMQ2tVSDlweW1xSGVKSzF1UGNFTWJpS1FkVUd4MnI4cTdCRzZv?oc=5",
+   "published_at": "2026-11-14T20:10:00+00:00",
+   "why_it_matters": "輝達風暴下市場資金轉向 ASIC,世芯傳獲美系客戶新案,與聯發科、創意構成台灣 ASIC 設計服務陣營,受惠雲端業者自研晶片趨勢。",
+   "angle": "專題:後 GPU 獨大時代,台灣 ASIC 設計服務三雄的客戶組合、製程與先進封裝需求。",
+   "companies": [
+    "Alchip"
+   ]
+  },
+  {
+   "rank": 8,
+   "category": "B",
+   "title_original": "前三季EPS大賺94元破紀錄！「資料中心巨擘」Q3收破4346億寫新高 再備銀彈逾148億增資海外",
+   "title_zh": "緯穎前三季 EPS 94 元創新高,第三季營收逾 4,346 億元,擬增資逾 148 億元布局海外",
+   "title_en": "",
+   "source": "FTNN",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvdGhtdkxZSnlucUgzUmVUS1prV3JXTURSeVFDVzhXNmRyXzFSZGJhQ1paZWE4dHRPOWo1Z2IwTl9pZjg5NEVtbnNvOA?oc=5",
+   "published_at": "2026-11-14T04:35:00+00:00",
+   "why_it_matters": "資料中心伺服器 ODM 業績創新高並加碼海外產能,顯示 CSP 客戶資本支出仍在擴張,海外(美、墨等)在地生產需求持續。",
+   "angle": "比較台灣伺服器 ODM 海外擴產進度與資本支出,評估關稅與在地化要求下的毛利變化。",
+   "companies": [
+    "Wistron",
+    "Wiwynn"
+   ]
+  },
+  {
+   "rank": 9,
+   "category": "A",
+   "title_original": "Google turned to AMD Epyc, not its own Axion chips, to secure its first confidential TPU",
+   "title_zh": "Google 首款機密運算 TPU 採用 AMD Epyc 而非自家 Axion 處理器",
+   "title_en": "Google turned to AMD Epyc, not its own Axion chips, to secure its first confidential TPU",
+   "source": "TechRadar",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVE5YmdJZWZKaXZ5NC1EaVV3cXlOdldyTUxUejY5dGlWRF9fT3RfR2d4bzRaZ3NTNHBUb1NzNnBVN2tOZlkyWGxuRWVFbnJFVUhMTGwzUG9pblA3bmxSbGp5MnFxQ3FpRHd4Zk5HMjh0U2lwWUlOa2FqOElIR2hqR09SMUtDUUNRRXVwckdLUnk5NC1FaWZYTDZvUmE1NUVLQnlQdjRYVDlzZFEzMGRIeHhoZXJfa2c?oc=5",
+   "published_at": "2026-11-15T00:25:59+00:00",
+   "why_it_matters": "Google 機密運算 TPU 8tx 以 AMD Epyc 為主控 CPU,配合 Google Cloud 與 AMD 的合作,AMD 在 AI 基礎設施存在感提升;TPU 與 Epyc 均高度仰賴台積電先進製程與封裝。",
+   "angle": "機密運算(Confidential Computing)成為 AI 資料中心安全新規格,台灣伺服器與 BMC(如信驊)供應鏈的機會。",
+   "companies": [
+    "AMD",
+    "Google"
+   ]
+  },
+  {
+   "rank": 10,
+   "category": "A",
+   "title_original": "Samsung to invest $4.48 billion in HBM packaging plant in South Korea",
+   "title_zh": "三星將投資 44.8 億美元在南韓興建 HBM 封裝廠",
+   "title_en": "Samsung to invest $4.48 billion in HBM packaging plant in South Korea",
+   "source": "electronics.economictimes.indiatimes.com",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOREQ0WmV1UldNY1F5ZkkyTWFXU01Gb2ZpNF94MHBCOEdLUERQT19BTlZJLTdNdmk1X2N2MzhJcHNsdWhRd0gzSlFQZDBacFlTY0loWVU2ckZGLXNLdXppMkN0VFBxeHFUcGRLOTlXVGZoc3REb2lDeGVzdzM0OXpHaVM1bW0wbEtPR3hwcDlnOHYyUFBMT2d6UGo5T041U0pEa0Nsc0hkbHp5VXZlWlZySFA0UGNBTTBTSW9naVI1ZDlBRUluS3FlQnBBci1WN18yMzJHVVE3UFJ6aE95VDdTY2pOTjN2b2hlbEh1SU0xVFc2NUN4dkHSAeQBQVVfeXFMT0ZSWVk5UjNCMTVPZU1nTEViVzFUcktKdndIZy02SFppdTRJVUh3cFItVll4YkVobjVBdzV6M3B4cHktRV9RYWRxMVZob1JTUExvamw4UmE2S2pMejU4WXU5UjlJX25rX0R0TVVVLTlqd1AyWjBWQmdWQVQxdU9rdTdjX2JvaDM0ZzBGV0FRYnA0X0VucG9uZU8tNGVWeU5yVHNmY3JGWmxHdHczUjRyb2FNOUlOYkp2R1lybmRLOVAxZlFuSFM1Q0hEY0FsdjF3d2lMLXhFNGs0cFBseUtJOHdSYkNy?oc=5",
+   "published_at": "2026-11-14T11:36:25+00:00",
+   "why_it_matters": "三星加碼 HBM 後段封裝產能,強化與 SK 海力士競爭;HBM 供給增加有助緩解 CoWoS 搭配記憶體瓶頸,也牽動台灣封測與設備材料商商機。",
+   "angle": "比較三大記憶體廠 HBM 封裝投資,探討台灣設備/材料供應商(如檢測、載板)的切入機會。",
+   "companies": [
+    "Samsung"
+   ]
+  },
+  {
+   "rank": 11,
+   "category": "A",
+   "title_original": "矽品CoWoS、CPO共同貴人「輝達」 研發大將還原10年布局內幕- 財經",
+   "title_zh": "矽品 CoWoS、CPO 共同貴人「輝達」,研發大將還原 10 年布局內幕",
+   "title_en": "",
+   "source": "中時新聞網",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ON3ZZeXlBQTE2MHBveFFJUTRRUzVkdnRvRzktMHVtcnoycjdIQnFfbVhDRUM4cmRYQWZqTnBMcmNtSmEyVnlaN2Z6dnBIcm5taTJFRi1IZ0k2RzBxbVk0NEdFVFdLOGR6dzR1UGl3?oc=5",
+   "published_at": "2026-11-14T23:00:30+00:00",
+   "why_it_matters": "日月光集團旗下矽品在 CoWoS 與共同封裝光學(CPO)的技術布局,與輝達長期合作密切;在輝達人事變動之際,台灣先進封裝與矽光子供應鏈的技術積累仍是關鍵競爭力。",
+   "angle": "矽光子/CPO 專題:台灣封測廠十年布局歷程與量產時程,可作為產業論壇議題。",
+   "companies": [
+    "ASE",
+    "Nvidia"
+   ]
+  },
+  {
+   "rank": 12,
+   "category": "A",
+   "title_original": "Delta Electronics Showcases AI Data Center Cooling Solutions at SC26",
+   "title_zh": "台達電於 SC26 展示 AI 資料中心散熱解決方案",
+   "title_en": "Delta Electronics Showcases AI Data Center Cooling Solutions at SC26",
+   "source": "HPCwire",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlc2STh6Zm43THNpRF92Y21fYnVORWdXSFZPZm9sMTMwSEpIZnZhWW5BOXYtMldkSWpKaDN4bXFjYzF0Q1hsTk12N3BwWDY3dUFET2YwUUVtVHFCYk1QN18tVXl1bXp5M0NsWFdHTF9iM05SZXpBdTV2SXhGTGp3RGlUaUdULWM0UEh2WXVyN0xxRXJPMVJlN041VDBrOUo1YnVDUlFXXzFjQQ?oc=5",
+   "published_at": "2026-11-14T01:23:11+00:00",
+   "why_it_matters": "AI 機櫃功耗攀升,液冷與電源整合成為資料中心關鍵瓶頸,台達電在超級電腦大會展示方案,反映台廠在 AI 基礎設施電源散熱領域的國際地位。",
+   "angle": "AI 資料中心液冷專題:台達、奇鋐、雙鴻等台廠技術路線與 11/17-18 法說重點。",
+   "companies": [
+    "Delta Electronics"
+   ]
+  },
+  {
+   "rank": 13,
+   "category": "C",
+   "title_original": "OpenAI 傳向國會表態支持 3 項對中管制法案，限制中國取得 AI 晶片與製造設備",
+   "title_zh": "OpenAI 傳向國會表態支持 3 項對中管制法案,限制中國取得 AI 晶片與製造設備",
+   "title_en": "",
+   "source": "INSIDE",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc0tzNG1xcVdVb2hpQndXVFVhY2tHQVR4c3l3SXp3aWl1WjFYZFg1UjZPRkYwbnNZYzZ6QkxKNlk5OEFEOFJnYVI3Yms0cXZ6cDJGTXV0Wl9Qcks3N0NDaE8zaHNBLVhySkZleHAyMzFDa2dTQnRKMFlUNklSRXdVSkJ3cDg1YWQ5UG1iRQ?oc=5",
+   "published_at": "2026-11-14T01:08:27+00:00",
+   "why_it_matters": "AI 模型龍頭公開支持更嚴格的對中晶片與設備管制,配合輝達醜聞引發的政治壓力,美國管制收緊機率上升,影響台灣設備、晶片與伺服器的對中出貨。屬報導傳出,未見 OpenAI 正式聲明全文。",
+   "angle": "分析 AI 業者立場分歧(模型商 vs. 晶片商)對美國管制立法的影響。",
+   "companies": [
+    "OpenAI"
+   ]
+  },
+  {
+   "rank": 14,
+   "category": "C",
+   "title_original": "Malaysia plans a law to track AI chip imports and data center power use to catch GPU smugglers",
+   "title_zh": "馬來西亞擬立法追蹤 AI 晶片進口與資料中心用電,以打擊 GPU 走私",
+   "title_en": "Malaysia plans a law to track AI chip imports and data center power use to catch GPU smugglers",
+   "source": "MLQ.ai",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjZ4bXJIdUlnOFAyYm5GdHQ4ZkFrUHhocy1JSEx1Mi16emE2c1NMYTFmdEd1QzZ3dTV2YS16MXFQanBQWG0yWGZIZExpOWRvQTk2ZGJTS1U4TzFFSDYzRkprYzF6WFBPWEFsei1MYnh4MTJZY2tTai1yNW1kZGlDbFFRQ0ZJNTVTbnQ5V3A2bnhRY1VNWjBabUI2VkNkQ3BTWlV2QUNNWUgwaUJWeGJocWpfdHotQQ?oc=5",
+   "published_at": "2026-11-14T18:24:37+00:00",
+   "why_it_matters": "東南亞是台灣 AI 伺服器重要出貨與轉運地,馬來西亞立法追蹤將提高合規要求,台廠需強化最終用途與客戶審查。",
+   "angle": "整理東南亞各國 AI 晶片管制動向,提供台灣出口廠商合規檢查清單。",
+   "companies": []
+  },
+  {
+   "rank": 15,
+   "category": "C",
+   "title_original": "FTC opens probe into safety of AI, including Anthropic and OpenAI",
+   "title_zh": "美國 FTC 啟動 AI 安全調查,對象包括 Anthropic 與 OpenAI",
+   "title_en": "FTC opens probe into safety of AI, including Anthropic and OpenAI",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekhUaUxwdkZqR01YY01YYkpuMUVfckMyc1RKT2ZKVkVIR21CaGpTOHIyT2pYb3BlZzBVWFh0UGxGbEtDZlg1SVBOY3NjOGF1bVB5UF8wY2NiU0RSRFlNblVlSldNZjNiN3lHdHJ6X09aTm1qLTlkbWQtTjJmbFJmRkNNS2lGTkhYTHpIbm9peFlwLWJuMjlPQVZVTld3Z0nSAaQBQVVfeXFMTzR3RUtELUM4bGpzZ3RGaUJUQ0VFbHpsR0hwQnAzSFVaYlRndXdwanFxdWFCNUxpQTg1OFFmOFBJd05QUC02V1hGYUxpWlFmcUhGeUFPSHFKNXk2UVV4cTBCb01IQmRlN003bVlwaTZuTVJxNEhKZi1WczVhQWE0MWRaRnBFbXNTSHppUzNCbm51M20wVEU0SFdnZUFvamVkYUhlYXY?oc=5",
+   "published_at": "2026-11-14T14:14:24+00:00",
+   "why_it_matters": "在民主黨贏得國會之際,美國監管機構對 AI 巨頭安全性展開調查,可能影響 AI 模型商的產品推出節奏與資本支出規劃,間接影響 AI 晶片需求預期。",
+   "angle": "美國 AI 監管轉向的時間表與對 AI 安全產業(資安檢測、紅隊服務)的商機。",
+   "companies": [
+    "OpenAI",
+    "Anthropic"
+   ]
+  },
+  {
+   "rank": 16,
+   "category": "D",
+   "title_original": "台股單週強彈逾10％、全球居第一 投顧喊「拉回再布局」",
+   "title_zh": "台股單週強彈逾 10%、漲幅全球第一,投顧建議拉回再布局",
+   "title_en": "",
+   "source": "Yahoo股市",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOcGRrSl9KY24xbVZmellhTXJxblBRQnF5QWkzc3JNTUJjQ1p0cE1iUFNOUmNVQXRudTRaVFRUNVFRVndOMndjM3VNbUlHNWdoNTRUdFFrNkRVNS16QkZCdjZqWFB5VmU4ZGVwVjlTNVVZNzE0djB0akxaTUZRSG45d0RtR2ZzQk1paGlDR29mZGlidjBwSmp4MXNENjUzSEJlZWRBS1pOdTJ6N0RqNmtWdzhDemhxRENVWlowcFNZMGdKWm0yUDNNQ28xZVdVOHgwWWY1Z1c4TENmSzExRnp2b1dONmlkVVlZNVBLRzV6MFNYUTdaZDdaSUFmcDFybUdHdWNJaW5oZ3Joc1F5Y29IeFJobGNPV0c3QUNQMUZtR25HcGJIblEzOWc5ZHExQnQ1OGZqbnJSd2RiWkw1TG9j?oc=5",
+   "published_at": "2026-11-14T23:03:33+00:00",
+   "why_it_matters": "輝達風暴後台股資金由輝達概念轉向台積電與 ASIC 族群,國安基金進場也穩定市場;本週 11/17 輝達財報將是下一個壓力測試。",
+   "angle": "解讀資金輪動:從 GPU 鏈轉向 ASIC、記憶體、散熱的族群變化,作為產業與資本市場交叉報導素材。",
+   "companies": [
+    "TSMC",
+    "Delta Electronics"
+   ]
+  },
+  {
+   "rank": 17,
+   "category": "D",
+   "title_original": "Yttrium Oxide Prices Surge 64-Fold in Japan as China Export Controls Expose Industrial Supply Crisis",
+   "title_zh": "中國出口管制衝擊,日本氧化釔價格暴漲 64 倍",
+   "title_en": "Yttrium Oxide Prices Surge 64-Fold in Japan as China Export Controls Expose Industrial Supply Crisis",
+   "source": "Rare Earth Exchanges",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXVaR1hlZUhTMnFDRXJ1NmdYN1dWdzExdmJ0MmpvUkFNMjlMS2ZvczZJbzBjVzczRHNxV0FBcGwwVWxVMXNjeTVKRXZLOW1IQXp2ZjljZG5aWGVQUHVIOFhCTUFtbHUxQzFTR2FWVkJlVm1rbVJLaWlSYzVRdW5Hay05UUs?oc=5",
+   "published_at": "2026-11-14T07:31:12+00:00",
+   "why_it_matters": "氧化釔用於半導體設備陶瓷部件與塗層等,價格暴漲凸顯稀土供應風險;若美國擴大晶片管制,中國稀土反制可能衝擊設備與材料供應鏈,台廠需盤點庫存與替代來源。",
+   "angle": "稀土供應鏈風險盤點:哪些半導體設備/材料受影響,台灣廠商替代方案。",
+   "companies": []
+  },
+  {
+   "rank": 18,
+   "category": "W",
+   "title_original": "Anthropic says its AI models hacked 3 organizations on their own during tests",
+   "title_zh": "Anthropic:旗下 AI 模型在測試中自主入侵 3 個組織",
+   "title_en": "Anthropic says its AI models hacked 3 organizations on their own during tests",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+   "published_at": "2026-11-14T13:38:54+00:00",
+   "why_it_matters": "具自主行動能力的 AI 代理在測試中展現攻擊能力,凸顯 AI 安全與資安防護的急迫性,也是 FTC 調查與監管議題的具體案例。",
+   "angle": "AI 資安專題:AI 代理自主攻擊風險、企業防護與 IoT/OT 設備安全的連動,適合 AI 安全論壇議題。",
+   "companies": [
+    "Anthropic"
+   ]
+  },
+  {
+   "rank": 19,
+   "category": "W",
+   "title_original": "Italy fines Meta $887 million over Android users' data access",
+   "title_zh": "義大利以 Android 用戶資料存取問題,對 Meta 開罰 8.87 億美元",
+   "title_en": "Italy fines Meta $887 million over Android users' data access",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWRTTnhPWVFubVdYeGx1b21wQ0dEdjAyYWtOYnpFem5memdVVGRwMVVkTmN1YS16NDFJTDhMakJTakppSXlqR05wMktZX1lxUmVhYWFhbWZPYjk1ODJ3NEljYTVRX0RzQVphU01vZ25uYTJLZlM4dkVHMi1yVmc3aTFTd1duZmVxZVZfSDN2VHdqN0NvSGY3c0N1WVXSAaIBQVVfeXFMTzY4YktfaHliVF9PaG5PY2V5RV90M3prbWhDYThNLTVCRk5lNHo2TGFLa245aG5IQUR5dGF2ZXJwbkhuSVpoS0NPTUtMdl9iN0E0bXZnQmVyUW56VU9nR2U4YWZvdENicmI4cDRfZHEzNTVTWm96OVU0RHF0Q2k1RXhlSUNPQzJGcFpoQ3BPdHgtNVBBa2xEZC1FUHlNNjR6TERn?oc=5",
+   "published_at": "2026-11-14T13:38:23+00:00",
+   "why_it_matters": "歐洲對科技巨頭的資料保護執法持續加大,與 EU CRA 等法規並行,顯示產品資安與隱私合規成本上升,台灣出口歐洲的裝置與應用商須提早準備。",
+   "angle": "歐盟資料與資安法規執法趨勢,對台灣 IoT/終端業者的合規影響。",
+   "companies": [
+    "Meta"
+   ]
+  },
+  {
+   "rank": 20,
+   "category": "W",
+   "title_original": "Tesla invites select customers to buy Cybercab for personal use",
+   "title_zh": "特斯拉邀請特定客戶購買 Cybercab 作為個人用途",
+   "title_en": "Tesla invites select customers to buy Cybercab for personal use",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWE9RSGUwWDAzVms5ZGZVZlpvTFhDUno1ay0tOTVIT1VNbjBWVkhsdzRTRWtaSWhjeF9mUFlsNTVQLTVPVEt1RGVlZzFDcDJZU0lQdTQwREtrOTkxanBwSnhMcTBNYzV4UHlacWZXZUpMTVNvMEYtMm5lWDR4UFVOZUJHcXV6TmJ0R2NrelM0Q1Y1OVVCbUNlT3dLdnUwZnZvSzhnWk1lVDlzLXhBVnBqMFZJdDVtaFVrOWl5bUtYbw?oc=5",
+   "published_at": "2026-11-14T08:02:12+00:00",
+   "why_it_matters": "無人駕駛車由車隊營運走向個人銷售,是實體 AI(Physical AI)商業化的重要節點,台灣車用電子、感測與 AI 運算供應鏈可望受惠。",
+   "angle": "Physical AI 商業化進程:Robotaxi 與人形機器人對台灣零組件供應鏈的需求時程。",
+   "companies": [
+    "Tesla"
+   ]
+  }
+ ]
+}
