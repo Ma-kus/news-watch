@@ -1,0 +1,360 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T08:55:00+08:00",
+ "analysis": "黃仁勳去留與美國政府介入成為本週主軸,出口管制可能再收緊,台灣也被捲入走私案;同時 Vera Rubin 傳延後、Anthropic IPO、台積電與 SK 海力士扶植供應商,構成 AI 供應鏈的新變數。",
+ "analysis_editor": {
+  "persona_title": "總編輯視角:資深 B2B 科技媒體總編輯",
+  "summary": "黃仁勳請辭進入第三天,主軸已從「誰接班」轉成「美國政府介入」與「黃仁勳可能回任」的雙線拉扯:FT 報導黃仁勳與盟友商議回任(#1),美國財長則要求輝達 10 天內交代晶片流向並找外部接班人(#2),國會也趁勢推動更嚴的 AI 晶片出口規範(#3),商務部長盧特尼克又捲入利益衝突疑雲(#15)。對台灣而言,最直接的是彭博報導輝達曾就員工走私案尋求台北協助(#4),台灣首度被放上這場風暴的檯面。\n\n產業面有三個值得報導的訊號:一是平台節奏,經濟日報傳 Vera Rubin 延後放量(#5,單一來源傳聞);二是資本與供應鏈布局,Anthropic 本週 IPO 有台積電參與(#6),台積電與 SK 海力士同步出手扶植自家供應商(#8、#9),三星拿下 Starlink 衛星晶片德州訂單(#10);三是技術路線,聯發科侯上勇直言 CPO 路線未定、良率是關鍵(#12),南亞科、華邦電導入 EUV(#11),Universal Robots 推出瞄準實體 AI 的 Gen 7(#13)。\n\n基本面仍有支撐:緯創加碼台南 129 億元(#7)、台灣出口連 36 紅(#16),但費半跌逾 3%(#17)、雲端巨頭舉債疑慮(#18)與 DRAM 反壟斷訴訟(#14)提醒市場,本週輝達財報與 Anthropic 上市將是 AI 景氣的雙重壓力測試。",
+  "implications_taiwan": [
+   "出口管制可能再收緊(#2、#3),台灣伺服器組裝與東南亞轉運鏈的合規壓力上升,台灣自身執法可信度也被檢視(#4)。",
+   "輝達平台時程若延後(#5),ODM、散熱、電源廠 2027 上半年營收節奏可能重排,ASIC 陣營相對受惠。",
+   "台積電、SK 海力士扶植供應商(#8、#9)顯示供應鏈在地化競賽升溫,台灣設備材料商迎來資金與訂單機會。",
+   "記憶體漲價週期遇上反壟斷訴訟(#14)與台廠 EUV 追趕(#11),台灣 DRAM 廠的定價與市占策略出現新變數。"
+  ],
+  "story_angles": [
+   "「後黃仁勳時代」台鏈壓力測試:回任/外部接班兩種劇本下的訂單與產品時程。",
+   "台灣在 AI 晶片走私防堵中的角色:法規、檢調與企業責任。",
+   "供應鏈在地化 2.0:台積電 CVC 與 SK 海力士 10 億美元扶植計畫比較。",
+   "矽光子/CPO 量產真正的瓶頸:良率、測試與跨廠協作(專訪聯發科、日月光、設備廠)。",
+   "實體 AI 機器人新平台對台灣零組件與系統整合商的機會。"
+  ],
+  "questions_to_track": [
+   "財長 10 天期限到期後,美國政府會對輝達採取什麼動作?",
+   "黃仁勳是否回任?董事會與股東的立場如何變化?",
+   "Vera Rubin 平台時程是否確實延後?台灣 ODM 如何回應?",
+   "國會 AI 晶片出口法案的條文與通過時程?是否納入東南亞轉運規範?",
+   "Anthropic IPO 定價與首日表現,能否穩住 AI 資本市場信心?"
+  ]
+ },
+ "analysis_executive": {
+  "persona_title": "CEO/COO 視角:科技公司高階主管",
+  "summary": "從經營者角度,本週最大的風險不是需求消失,而是「最大客戶的治理與政策不確定性」。輝達領導人去留未定(#1),美國政府直接要求外部接班與 10 天交代(#2),國會加速收緊出口規範(#3),而台灣本身也被捲入走私案調查(#4)。這意味著與輝達相關的訂單、出貨地區與客戶身分審核,都要假設合規門檻會更高。\n\n營運上應同時準備兩件事:第一,平台時程可能出現雜音(#5,尚屬傳聞),需要檢視庫存、備料與產能配置的彈性;第二,客戶多元化與供應鏈投資正在加速,Anthropic IPO 的七巨頭入股(#6)、台積電與 SK 海力士扶植供應商(#8、#9)、三星拿下 Starlink 訂單(#10),都顯示大廠在用資本綁定生態系。資金面則要留意費半下跌(#17)、雲端巨頭舉債疑慮(#18)與記憶體價格的法律風險(#14)。",
+  "implications_taiwan": [
+   "輝達相關訂單的能見度短期下降,但緯創加碼投資(#7)與出口長紅(#16)顯示 AI 伺服器中長期需求仍在。",
+   "出口管制收緊將提高客戶盡職調查與最終用途查核成本,東南亞出貨尤需警惕(#3、#4)。",
+   "記憶體價格上漲與訴訟並存(#14、#20),零組件成本與合約條款需重新評估。"
+  ],
+  "decision_considerations": [
+   "供應鏈:為輝達平台時程延後(#5)預備情境計畫,調整備料與產能分配,避免庫存積壓。",
+   "客戶:加速 ASIC 與雲端自研晶片客戶布局,降低單一客戶集中度。",
+   "資本支出:擴產決策分階段進行,將平台時程與客戶融資能力(#18)納入檢核點。",
+   "合作:評估參與台積電 CVC(#8)等生態系投資的機會,強化與龍頭廠的綁定。",
+   "風險:強化出口管制合規(最終用途、轉運國家),並檢視雲端服務中斷(#19)的營運備援。"
+  ],
+  "questions_to_track": [
+   "輝達 11/17財報對下季營收與平台時程的說法?",
+   "黃仁勳回任或外部接班何時定案?對客戶關係有何影響?",
+   "美國新出口規範是否擴及伺服器整機與東南亞轉運?",
+   "DRAM 價格走勢與反壟斷訴訟是否影響明年合約價?",
+   "Anthropic IPO 後,AI 模型公司是否加大算力採購?"
+  ]
+ },
+ "items": [
+  {
+   "rank": 1,
+   "category": "A",
+   "title_original": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+   "title_zh": "黃仁勳與盟友商議重返輝達執行長(FT 報導)",
+   "title_en": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5",
+   "published_at": "2026-11-15T21:22:37+00:00",
+   "why_it_matters": "黃仁勳請辭後局勢再生變:路透引述 FT 指其正與盟友商議回任。領導人能否回歸,直接牽動輝達產品路線、客戶信心與台灣供應鏈訂單能見度。",
+   "angle": "「黃仁勳回任」的三種劇本(回任/外部接班/內部接班)各自對台鏈的意義;此為 FT 報導、尚未獲輝達證實。",
+   "companies": [
+    "Nvidia"
+   ]
+  },
+  {
+   "rank": 2,
+   "category": "C",
+   "title_original": "輝達陷晶片銷中疑雲 美財長要求10天內交代、外找接班人",
+   "title_zh": "輝達陷晶片銷中疑雲 美財長要求 10 天內交代、外找接班人",
+   "title_en": "",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOYWJDbVFKbGRVMktlaFg2VGliemVpc1FfdXFibG9QR2NFaS1ldVBONUdOMERzWnpPYmVwTFQwb050NUpQWTRPUUloVUU4ckFxQ3R6X3RPekxTLXg5WHBnU0RocWpvN0hhZ1VSSkZyV0FvNjd1eWFoQUphdmptaG9Hd0RlamJCT2xrWUFScjZKblNkbTVtdmhlQTQ3SS04a3ljYmlNNGx1eDU3X2kyRWxjUXVuOWliV3Q3eUxPOGwzUHNRNjFTYjRPZjc5S3JCbDI1SE0xVFJtZW40STZnZGtzLTBTX3VOelJ3X1pUY2pRSHRENDBTSUhYZjlOcnY4ZjQtTGdsQmU0bXFoWHdObERIUnd2ZWYwWDlyMlVid2ttQ2JRaU1HNlRRa3ExejlSSU1oQWFxal9aZzUtMWpTNnJHN05nVjFIcnNja1YwVTNWaUlrWVl6UVJtZWh6cnVnV2dNN01JNG83dmM0OXRY?oc=5",
+   "published_at": "2026-11-15T23:25:44+00:00",
+   "why_it_matters": "美國財長公開要求輝達 10 天內說明晶片流向並找外部接班人,政府直接介入企業治理,顯示事件已上升為國安與出口管制議題。",
+   "angle": "美國政府介入科技企業人事的先例與界線;10 天期限後可能的監管動作。",
+   "companies": [
+    "Nvidia"
+   ]
+  },
+  {
+   "rank": 3,
+   "category": "C",
+   "title_original": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+   "title_zh": "輝達醜聞後,美國國會推動通過更嚴格 AI 晶片出口規範",
+   "title_en": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGxvZmxUQ0JxLVJuWmRILTBpbUwwbEMxbDV1bEhkYVdjdnl3WVYzWFBGZFhqckFER1JyYWptWEI3XzAzeEZ1dnZuSUdYVkFCdFZXTjVmMUxtVjJSc0dPZHR2R05TbE1mQzA0OU84TEdXd1I0UkFrS2Z0dDRIUXoxV2Y3b2o?oc=5",
+   "published_at": "2026-11-15T11:00:04+00:00",
+   "why_it_matters": "醜聞成為國會收緊 AI 晶片出口規範的催化劑;若法案過關,台灣代工、伺服器組裝與東南亞轉運鏈的合規成本與出貨流向都將受影響。",
+   "angle": "盤點相關法案條文與時程,對台積電、鴻海、廣達等的合規衝擊;台灣出口管制配套是否需升級。",
+   "companies": [
+    "Nvidia"
+   ]
+  },
+  {
+   "rank": 4,
+   "category": "B",
+   "title_original": "Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case",
+   "title_zh": "彭博:輝達曾就員工晶片走私案尋求台北協助",
+   "title_en": "Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGtpVzRBYjlOTE9OUVd4eWdPWnp4UENBT29YZi1VUFNETjVuRWdmS1ByTlBQWFozVlZBdEtqU1NVaTNJQ2VEVDJCZTdpbXFXXzRvekNqT1lWazBHYUtGVk9DdVJtWDc1UERkRFN5NVFwOS1LdG9VNDUtMl9IXzV2NzIweDdneGoxRmhkdlVTdE1maDFBZ2Z6Z0paR3NoNXhKWEJHSjN6VDlYZmotZEZrVkFvR20?oc=5",
+   "published_at": "2026-11-15T14:48:57+00:00",
+   "why_it_matters": "台灣首度被直接捲入輝達走私風波,涉及台灣檢調、官方與台積電角色(鉅亨網等報導台積電拒絕協助),台灣的出口管制執法可信度受國際檢視。",
+   "angle": "台灣在 AI 晶片轉運/走私防堵上的法制與執法能量;企業與政府互動的分寸。",
+   "companies": [
+    "Nvidia",
+    "TSMC"
+   ]
+  },
+  {
+   "rank": 5,
+   "category": "B",
+   "title_original": "後黃仁勳時代 GPU 平台推進出現雜音 輝達 VR 傳延後放量牽動台鏈 | 產業熱點 | 產業",
+   "title_zh": "後黃仁勳時代 GPU 平台推進出現雜音 輝達 Vera Rubin 傳延後放量牽動台鏈",
+   "title_en": "",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzc0RoNkU2Wmt6NC0yc3RoMFUxNktnSlhVYVBzalRnUHlsNk82eWlRRFBXaHdQcUxtX3dpaDJiN0Flc3RmcVp5YXdqaXFnTGxZbmRzSnM3dVJBOVVHaWcxVDNUZ1dyTWkzVkhBMmk0NW9PR0ZjcnRKWENn?oc=5",
+   "published_at": "2026-11-15T18:30:44+00:00",
+   "why_it_matters": "經濟日報報導 Vera Rubin 平台傳延後放量(尚屬傳聞),若成真將影響廣達等伺服器廠 2027 年上半年出貨節奏與零組件備料。",
+   "angle": "追蹤 VR 平台時程與 GB300 延長生命週期的影響;向 ODM、散熱、電源廠求證。",
+   "companies": [
+    "Nvidia",
+    "Quanta"
+   ]
+  },
+  {
+   "rank": 6,
+   "category": "A",
+   "title_original": "Anthropic週四IPO！募資規模最高904億美元 輝達、台積電等七巨頭砸260億美元力挺",
+   "title_zh": "Anthropic 週四 IPO,募資規模最高 904 億美元;輝達、台積電等七巨頭砸 260 億美元力挺",
+   "title_en": "",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vT1o1bUEtWk8tTjExM181bG5tel8wMGNZWmRBeGo5N2xUWXU5M2tPbThjclpRejJSZ3d5bVYxdFZNcDNPYS1Ga0JwYw?oc=5",
+   "published_at": "2026-11-15T22:49:44+00:00",
+   "why_it_matters": "AI 模型公司史上最大 IPO 之一,七大科技廠以 IPO 價入股,台積電也在入股之列,將是後黃仁勳時代 AI 資本市場的信心指標。",
+   "angle": "台積電入股 AI 模型公司的戰略意義(鎖定需求 vs. 中立性);AI 資本循環是否過熱。",
+   "companies": [
+    "Anthropic",
+    "Nvidia",
+    "TSMC"
+   ]
+  },
+  {
+   "rank": 7,
+   "category": "B",
+   "title_original": "緯創擴大投資台南 129億加碼AI伺服器布局",
+   "title_zh": "緯創擴大投資台南 129 億元加碼 AI 伺服器布局",
+   "title_en": "",
+   "source": "自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jeEVDRHphZWRSaGRsSTRpek5SaTlvWTJkR2FFMzE2bV8tNWV4TWViaEdRVHV5MjJ3RUFUQzV1X1hxaVFvbjI5TlpvU052NjVNVDB5aWloSUw?oc=5",
+   "published_at": "2026-11-15T06:26:52+00:00",
+   "why_it_matters": "在輝達變局中,緯創仍加碼台南 AI 伺服器產能,顯示台灣 ODM 對 AI 伺服器中長期需求的信心,也強化南部 AI 製造聚落。",
+   "angle": "南科/沙崙 AI 伺服器聚落成形:土地、電力與人才配套。",
+   "companies": [
+    "Wistron",
+    "Wiwynn"
+   ]
+  },
+  {
+   "rank": 8,
+   "category": "B",
+   "title_original": "TSMC approves a $500m investment company to back the next Nvidia and, for the first time, its own suppliers",
+   "title_zh": "台積電核准 5 億美元投資公司,扶植新創並首度投資自家供應商",
+   "title_en": "TSMC approves a $500m investment company to back the next Nvidia and, for the first time, its own suppliers",
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNclpNUE5XRWFCUWhRcUF3WDFZVXQwVnlCV1hkTWJLRjBTQm85ek1aNjY1RWtvVWZTYXdhMkVuai14SVJCSVRibkpWME1xVXdURVkzdjZSdnBFempYa2RydElQeEV4TXM3aGFmeklRbDBtM2dtWF83eldpZkoyYUpscWhhNVFHVXRfSXROckNuc1BlWmMyRm1XT3pBbm9pcXNac1JkLVRDMGVzdFpRbC0wUG9HTFhyZmVFcnpKVU5xbVV3MUtMdlg5R0JzY0UybjY3ZG5KaQ?oc=5",
+   "published_at": "2026-11-15T21:30:00+00:00",
+   "why_it_matters": "台積電以創投工具同時布局新創與供應鏈,是強化在地供應鏈與生態系掌控的新動作,台灣設備、材料業者可能受惠。",
+   "angle": "台積電 CVC 策略解析:哪些供應鏈環節最可能獲投資?",
+   "companies": [
+    "TSMC"
+   ]
+  },
+  {
+   "rank": 9,
+   "category": "A",
+   "title_original": "SK Hynix to spend $1 billion over five years to support chip suppliers",
+   "title_zh": "SK 海力士五年投入 10 億美元扶植晶片供應商",
+   "title_en": "SK Hynix to spend $1 billion over five years to support chip suppliers",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDRWSThFSldhVWEwa1J0VHdPLXZnaVJidjk5aDNDY2JiRnlLTTJXbjVaLUN1VnVlM3hOZVZhdnZTNklWYlhINF9UVWFldjEwYk1LckhLQkU4SndRcjZkWnpORUNkV1B5dXBUN2Fua3NJVUtKYnV2WnNtUm5tR1Z0SkRuUnliQWpwSndON2JNcEJoT2QzMkQyaWVicUVlTFdHa1FaZ0Z3ZU9kZ2l1S1BxVHZ5VjlSbFRjZ0E?oc=5",
+   "published_at": "2026-11-16T00:10:00+00:00",
+   "why_it_matters": "SK 海力士強化南韓在地記憶體供應鏈,與台積電扶植供應商的動作相互呼應,台韓在 HBM/記憶體供應鏈的競爭從晶片延伸到設備材料。",
+   "angle": "台韓「供應鏈國產化」競賽比較:政策與龍頭企業投資規模。",
+   "companies": [
+    "SK hynix"
+   ]
+  },
+  {
+   "rank": 10,
+   "category": "A",
+   "title_original": "Samsung Foundry to Make Starlink Satellite Chips in Texas",
+   "title_zh": "三星晶圓代工將在德州為 Starlink 生產衛星晶片",
+   "title_en": "Samsung Foundry to Make Starlink Satellite Chips in Texas",
+   "source": "Seoul Economic Daily",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUF3V3ZaTE5wQWd0WHJCWDZHa1RBZi1rN2lrQ0dMVEMtZHVwMGVLeWV5YldvMnF3ZXkxUWx3U2pCRHBHSnN6dFRSc0tGUUpsalNRMWlqeWdXa3lKRDA4TjAyR0FWZXN1eEtvQnlPSGxpR1FyaElEcWVWcXU2SXlnYU4yM0NWRVZ4M2M1SzR2UG8xZ0tha2V6RlRFZWxfbUxo?oc=5",
+   "published_at": "2026-11-15T21:30:05+00:00",
+   "why_it_matters": "三星德州廠取得 SpaceX 衛星晶片訂單,為其美國代工事業增添指標客戶,對台積電美國廠與台灣低軌衛星供應鏈都是競爭訊號。",
+   "angle": "低軌衛星晶片代工版圖:台積電、三星與台灣衛星零組件廠的位置。",
+   "companies": [
+    "Samsung",
+    "Tesla"
+   ]
+  },
+  {
+   "rank": 11,
+   "category": "B",
+   "title_original": "南亞科、華邦電積極導入EUV 南韓憂三星與SK海力士優勢動搖",
+   "title_zh": "南亞科、華邦電積極導入 EUV,南韓憂三星與 SK 海力士優勢動搖",
+   "title_en": "",
+   "source": "DIGITIMES",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqeGM5ZWt3a0VacUdBZzlSekFtVWkzODBjSkYzZXJnSkVaYVZ0SEItczJjNnBjdERLZlNrUnluZGhqa2NkV2dyTm5OMkJWdVJUZk9vWkRmdlFwM1pDRHdyZEdJekpXSGxwQjJn?oc=5",
+   "published_at": "2026-11-15T18:58:00+00:00",
+   "why_it_matters": "台灣 DRAM 廠導入 EUV 代表製程追趕加速,在 DRAM 缺貨與漲價週期中,有助提升台廠在利基型與標準型記憶體的競爭力。",
+   "angle": "台灣記憶體產業的 EUV 轉型:資本支出、良率與產品定位。",
+   "companies": [
+    "SK hynix",
+    "Samsung"
+   ]
+  },
+  {
+   "rank": 12,
+   "category": "A",
+   "title_original": "光電整合進入「打群架」時代，聯發科侯上勇：CPO路線未定，良率才是關鍵",
+   "title_zh": "光電整合進入「打群架」時代,聯發科侯上勇:CPO 路線未定,良率才是關鍵",
+   "title_en": "",
+   "source": "TechNews 科技新報",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUNfREd5ZEM0T0g2WTJSczZHdDdNR1YtaW9DRS1uRkJUdER0Z2gxUnVpbGpzVmsxcWJWMHczN0JmVTR5czVleTVvSXlvWXZFVDdFcEhIX2R4Y3d4TXlkYzVZZk1TbVRkSEd6U3BwRXQyTmRYRlFxWVBoUmNyVXB0Vy02dTdUVXpkMHNxR3RUN1NaMzJwUmphZ3luZjhiUVhEZ2pIWTJtYUtDaTRQMkRSYUVEa2JTSzNrMmU1azZCWTlEQm83?oc=5",
+   "published_at": "2026-11-15T01:07:27+00:00",
+   "why_it_matters": "聯發科高層直言 CPO 技術路線尚未定案、良率是關鍵,提醒市場矽光子/CPO 商轉仍有不確定性,也揭示台灣光電整合需跨廠合作。",
+   "angle": "矽光子/CPO 量產瓶頸專題:良率、測試與標準;台灣「打群架」模式的分工。",
+   "companies": [
+    "MediaTek"
+   ]
+  },
+  {
+   "rank": 13,
+   "category": "A",
+   "title_original": "Universal Robots發表Gen 7：專為工業自動化與實體AI部署",
+   "title_zh": "Universal Robots 發表 Gen 7,專為工業自動化與實體 AI 部署",
+   "title_en": "",
+   "source": "DIGITIMES",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObEJ5UjdxNnE5X3g4SFZOLThoYWdpQ1FCWHRHVk16TFNKb296LWVjelFuQm5iNFZUdWJQVy1hWDRvZExqSVhUcElkVlluQ2tvN19KUTJYMHJUQ283b1lWWFdjZEpEd0Ytd1B6WGhpcVVnQ1dRMEdJdy00MWlnWXdNWEJmRk4zNWxBVXU1RlQ5VW4wcmNielRMMkZ2WmlGbmt6cWxr?oc=5",
+   "published_at": "2026-11-15T15:17:15+00:00",
+   "why_it_matters": "協作機器人龍頭推出新世代平台,瞄準實體 AI 應用,台灣在伺服器、感測與精密零組件的優勢可延伸至機器人供應鏈。",
+   "angle": "實體 AI 進工廠:協作機器人新平台對台灣零組件與系統整合商的機會。",
+   "companies": []
+  },
+  {
+   "rank": 14,
+   "category": "C",
+   "title_original": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge — says chipmakers acted like ‘hawks flying in formation",
+   "title_zh": "美國法官駁回三星、SK 海力士、美光 DRAM 價格操縱訴訟撤案動議,認定在價格暴漲 500% 後共謀指控具合理性",
+   "title_en": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
+   "source": "Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNWF9LOG43blJKd2xmWmthTnNHZndKUHoxUjJQWlNnbmNDN2xXdGxOcFNoRjRRYUdrZ2hxSl9hWFgtMWMyT3dsbGRuQUhHeXFXcUQ2Y09jazdpTTBEY0NtUHhnVndVMjhzQVB0TXdnLWNmbktGRnR5SlhhZFd1MjlqT3doNUZBSXF5d0JQWV8tZGE2U0M4ZWpZNHhET0V3TDFHMDVkMFlsSlE3NWtyNGU4aWNUb1duM3ZYVjNQbnlITVF3Y1dINmlHc1RfWWZkeTJvWFBTWEZ0UHl1ZjNLQVJodTJGX0hhbDRsMmo2dzJPNzJXTDRTQm1iLUgwSS1IeDMtUUgyOXBvd1hRM0lCWG90WUIwbDA3dFUtTzVuNjdVdW13QlREZElRM2JPVnhueVNjRXBVTVE4WHhjaUVzMTRkNEdPWnJHSGlrNWF0cFh4aW5qZHptbnJGaHNEMUFYMlE3NWNKbkI5bV91UUZFdnVkb1dKanZ5dUNXVms0UWNucjFESWhE?oc=5",
+   "published_at": "2026-11-15T15:09:50+00:00",
+   "why_it_matters": "DRAM 三巨頭須面對反壟斷集體訴訟,記憶體漲價週期面臨法律風險;台灣記憶體廠與下游 PC/伺服器廠的價格談判可能受影響。",
+   "angle": "記憶體漲價的法律紅線:對台灣模組廠與系統廠的影響。",
+   "companies": [
+    "Samsung",
+    "SK hynix",
+    "Micron"
+   ]
+  },
+  {
+   "rank": 15,
+   "category": "C",
+   "title_original": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+   "title_zh": "紐時:美國商務部長盧特尼克推動放寬晶片規範,與其家族事業有利益重疊",
+   "title_en": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnJMaFhaUUdRTmNXSll3UUlCX21rdHYxRGNpUmduVEo1Y29hcGVHazNjdE5mbDhtTlAtRnhfY3RzLWNXOTFiN254MmZOQ0pqMlFtczdwdG83QVdnbGc3alVSLWNpVXhJcTRVNEQ0RC1DUDY5c2lQbWhjM3o1TGx0UnBadk5FSXFNMlNoWE5EX2RpYnhETmx3?oc=5",
+   "published_at": "2026-11-15T10:02:05+00:00",
+   "why_it_matters": "負責出口管制的商務部長捲入利益衝突疑雲,可能促使美國晶片政策轉向更嚴格,增加政策不確定性。",
+   "angle": "美國出口管制決策者變動對台灣企業的政策風險評估。",
+   "companies": []
+  },
+  {
+   "rank": 16,
+   "category": "D",
+   "title_original": "美期中選舉變天不改AI趨勢 台灣出口連36紅成台股最強後盾",
+   "title_zh": "美期中選舉變天不改 AI 趨勢,台灣出口連 36 紅成台股最強後盾",
+   "title_en": "",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5aDVHM1ZBcGRsSFh6UzdIdkROTjVkenFPMnVGeHpQaGU2ZDZteElzVW41WXpGTDNpbTV4S1h5SWJlYzBIZlRyUmdIQTE0N2hoVTRPS0dqdWtxSmtjdFdBN2pyR0LSAWRBVV95cUxQeWg1RzNWQXBkbEhYelM3SHZETk41ZHpxTzJ1Rnh6UGhlNmQ2bXhJc1VuNVl6RkwzaW01eEtYeUliZWMwSGZUclJnSEExNDdoaFU0T0tHanVrcUprY3RXQTdqckdC?oc=5",
+   "published_at": "2026-11-15T03:30:00+00:00",
+   "why_it_matters": "台灣出口連續 36 個月成長,主要由 AI 伺服器與半導體帶動,說明即使美國政局與輝達變動,台灣基本面仍有支撐。",
+   "angle": "出口長紅背後的結構:AI 依賴度與集中風險。",
+   "companies": []
+  },
+  {
+   "rank": 17,
+   "category": "D",
+   "title_original": "《美股》輝達前景疑慮 費城半導體指數跌逾3%",
+   "title_zh": "輝達前景疑慮 費城半導體指數跌逾 3%",
+   "title_en": "",
+   "source": "MoneyDJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSUpqZFFXbDFFVW1oRHphbFV4OWhUNndFWThMUFctaGQ5NXRocThDWl91Ykhjb0VISC1aZ3JmRW04N3FhQVptdTVOTWcxZHRUMzNTZElzU295YWVLWks3N1JWVmlVR3I5OTkwN3JmbVZNaU1WcGVvOG5hRE8xU0QwaWh6cC1HcXhEVkFtR1BTaXRoUQ?oc=5",
+   "published_at": "2026-11-15T22:16:00+00:00",
+   "why_it_matters": "美股半導體賣壓再起,今日台股開盤面臨考驗;輝達 11/17財報前,市場情緒高度敏感。",
+   "angle": "財報週前的資金動向與台股科技股的波動風險。",
+   "companies": [
+    "Nvidia"
+   ]
+  },
+  {
+   "rank": 18,
+   "category": "W",
+   "title_original": "AI Debt Risks Mount: Why Borrowing by Meta, Alphabet, Microsoft and Oracle Worries Investors",
+   "title_zh": "AI 債務風險升高:Meta、Alphabet、微軟與甲骨文舉債引發投資人憂慮",
+   "title_en": "AI Debt Risks Mount: Why Borrowing by Meta, Alphabet, Microsoft and Oracle Worries Investors",
+   "source": "TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaEpPZzJXdWZGekJuTVJaclVjbm9oaUJZZ1U2aVJzenZyVU4yM081TzdQZUoxTXhydldqV0l4ZzItZzBCR3lkZm1hcFEtTFo1bmVvbnphdnAybUpKTDFRYlpuZUpNNjNjb0UzaUUwMmJtTjQ4X1lpeGotbzZtdjRkYzNvZGluN2ZSWWU4dXBySnZ0Umt2d0FDY0JKdUZLVjdZdXE4VHdDSWIwNmF5ZnFVUnV6YUZtXzA1dmxLMzVTTlYteTZQalhpZUdiN1BCX2prVTQ3SEthZW05RUpSajBYOFMyUQ?oc=5",
+   "published_at": "2026-11-15T04:04:03+00:00",
+   "why_it_matters": "雲端巨頭以舉債支撐 AI 資本支出,若融資環境轉緊,將是台灣 AI 伺服器訂單的潛在下行風險。",
+   "angle": "AI 資本支出的融資結構:債務擴張是否可持續?",
+   "companies": [
+    "Meta",
+    "Google",
+    "Microsoft"
+   ]
+  },
+  {
+   "rank": 19,
+   "category": "W",
+   "title_original": "微軟365全球當機近24小時 台日企業土法煉鋼 靠「傳真機」繼續辦公",
+   "title_zh": "微軟 365 全球當機近 24 小時,台日企業靠「傳真機」繼續辦公",
+   "title_en": "",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMzZEd2F0eWQ5QlI1dThVYkJHZV96aG85WkxuZXZ0X0Q3Y3pESFd1SU81UEowb1QzS0hES0U1cGFpUUtHamVYX2h5MEFlYzBvOTI3T3Z2djJhc3JtY2FUM2dLUFdwQ21CUGdaUE9NZTBlblhIaWhFdG1NUkpfc3J6NHUzc25jc0MwV0NVTmdDQzY1VUEtQkNoU05TbTRDbDdzXzEwQk1B?oc=5",
+   "published_at": "2026-11-15T09:19:03+00:00",
+   "why_it_matters": "雲端服務大規模中斷近一天,凸顯企業對單一雲端平台的依賴與營運韌性問題,也是資安與 BCP 議題的警訊。",
+   "angle": "企業雲端韌性與備援:台灣企業的 BCP 與多雲策略。",
+   "companies": [
+    "Microsoft"
+   ]
+  },
+  {
+   "rank": 20,
+   "category": "W",
+   "title_original": "南韓10月ICT出口703.5億美元年增202%！ 半導體出口增259.4%",
+   "title_zh": "南韓 10 月 ICT 出口 703.5 億美元年增 202%,半導體出口增 259.4%",
+   "title_en": "",
+   "source": "VOCO News",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5ZmVrc1BrQmoyT0NBazgzZnFISGpRRVNMamZMMk5rSGI5UnBQeWJFREMwMXhNQTM4ZWwtam43TUEwUnRhSXZiT2xNeG9Fd0FzX01QQnd4T1pMN3pSZVl2UVF6c1Iyd1VHblpLRjdIV3FGRnQxMENz?oc=5",
+   "published_at": "2026-11-16T00:08:23+00:00",
+   "why_it_matters": "南韓記憶體出口暴增,反映 HBM/DRAM 漲價週期的威力,與台灣出口長紅形成台韓 AI 硬體雙引擎,也是競爭對照。",
+   "angle": "台韓 AI 出口結構比較:晶圓代工 vs. 記憶體。",
+   "companies": [
+    "Samsung",
+    "SK hynix"
+   ]
+  }
+ ]
+}
